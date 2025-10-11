@@ -31,6 +31,7 @@ jobs:
       - name: Create config file
         env:
           GH_TOKEN: ${{ github.token }}
+          GH_PAT: ${{ secrets.MONITOR_PAT }}
           REPO: ${{ github.repository }}
         run: |
           python - <<'PY'
@@ -41,9 +42,13 @@ jobs:
           import urllib.request
           from pathlib import Path
 
-          token = os.environ.get("GH_TOKEN", "").strip()
+          pat = os.environ.get("GH_PAT", "").strip()
+          token = pat or os.environ.get("GH_TOKEN", "").strip()
           if not token:
               raise SystemExit("Missing GitHub token")
+
+          if pat:
+              print("Using MONITOR_PAT secret for GitHub API access")
 
           repo = os.environ["REPO"]
           request = urllib.request.Request(

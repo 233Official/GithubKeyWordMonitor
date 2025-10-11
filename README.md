@@ -96,7 +96,12 @@ uv run main.py
    4. Name 填写 `MONITOR_KEYWORDS`，Value 输入要监控的关键词（可用逗号分隔，如 `"星痕共鸣","Star Resonance"`，或直接填写 JSON 数组 `["星痕共鸣", "Star Resonance"]`）。
    5. 点击 `Add variable` 保存。
 
-3. （可选）如需更高的请求配额，可以修改工作流手动指定 PAT；默认情况下，工作流会使用 GitHub 自动提供的 `GITHUB_TOKEN`。
+3. （推荐）配置仓库 Secret `MONITOR_PAT`，步骤如下：
+   1. 打开仓库页面，点击右上角的 `Settings`。
+   2. 左侧菜单选择 `Secrets and variables` > `Actions`。
+   3. 切换到 `Secrets` 标签，点击 `New repository secret`。
+   4. Name 填写 `MONITOR_PAT`，Value 输入具备至少 `repo`（contents:read）与 `actions:read` 权限的 Personal Access Token（可在 https://github.com/settings/tokens 创建）。
+   5. 点击 `Add secret` 保存。工作流会优先使用此 PAT；若未配置，仍会回退到 GitHub 自动提供的 `GITHUB_TOKEN`。
 
 4. 工作流将每天自动运行，或者你可以在 `Actions` 标签页手动触发 `GitHub Keyword Monitor`。
 
