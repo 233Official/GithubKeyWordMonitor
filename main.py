@@ -111,7 +111,7 @@ def search_github_repos(
             if keyword_matches(keyword, repo_name) or keyword_matches(keyword, repo_description):
                 repos.append(repo)
         
-        logger.info(f"Found {len(repos)} repositories matching keyword '{keyword}' (filtered from {data.get('total_count', 0)} total results)")
+        logger.info(f"Found {len(repos)} repositories matching keyword '{keyword}' on this page (filtered from {data.get('total_count', 0)} total results across all pages)")
         return repos
         
     except requests.exceptions.RequestException as e:
