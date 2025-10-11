@@ -51,6 +51,7 @@ jobs:
               headers={
                   "Authorization": f"Bearer {token}",
                   "Accept": "application/vnd.github+json",
+                  "User-Agent": "github-keyword-monitor-workflow",
               },
           )
 
