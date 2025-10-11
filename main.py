@@ -21,6 +21,7 @@ logger = logging.getLogger(__name__)
 CONFIG_FILE = Path("config.toml")
 DATA_DIR = Path("data")
 FEED_FILE = Path("feed.xml")
+FEEDS_DIR = Path("feeds")
 GITHUB_API_BASE = "https://api.github.com"
 
 
@@ -120,65 +121,131 @@ def search_github_repos(
         return []
 
 
-def generate_rss_feed(all_new_repos: dict[str, list[dict[str, Any]]]) -> None:
-    """Generate RSS feed from new repositories."""
+def _create_feed_generator(keyword: str | None = None) -> FeedGenerator:
+    """Create a FeedGenerator configured for the aggregate feed or a specific keyword."""
     fg = FeedGenerator()
-    fg.id("https://github.com/233Official/GithubKeyWordMonitor")
-    fg.title("GitHub Keyword Monitor")
-    fg.description("Monitor GitHub repositories by keywords")
+
+    base_id = "https://github.com/233Official/GithubKeyWordMonitor"
+    base_title = "GitHub Keyword Monitor"
+    base_description = "Monitor GitHub repositories by keywords"
+
+    if keyword is None:
+        fg.id(base_id)
+        fg.title(base_title)
+        fg.description(base_description)
+    else:
+        encoded_keyword = quote(keyword, safe="")
+        fg.id(f"{base_id}?keyword={encoded_keyword}")
+        fg.title(f"{base_title} - {keyword}")
+        fg.description(f"Monitor GitHub repositories for keyword '{keyword}'")
+
     fg.link(href="https://github.com/233Official/GithubKeyWordMonitor", rel="alternate")
     fg.language("en")
-    
-    # Add entries for each new repository
+    return fg
+
+
+def _add_repo_entry_to_feed(
+    fg: FeedGenerator,
+    repo: dict[str, Any],
+    keyword: str,
+    *,
+    include_keyword_prefix: bool,
+) -> None:
+    """Add a repository entry to the given feed."""
+    fe = fg.add_entry()
+    fe.id(repo["html_url"])
+
+    title = repo["full_name"]
+    if include_keyword_prefix:
+        title = f"[{keyword}] {title}"
+    fe.title(title)
+    fe.link(href=repo["html_url"])
+
+    plain_description_parts = []
+    repo_description = repo.get("description")
+    if repo_description:
+        plain_description_parts.append(repo_description)
+
+    plain_description_parts.extend(
+        [
+            f"Stars: {repo.get('stargazers_count', 0)}",
+            f"Language: {repo.get('language') or 'N/A'}",
+            f"Updated: {repo.get('updated_at') or 'N/A'}",
+        ]
+    )
+
+    fe.description("\n".join(plain_description_parts))
+
+    description_segments: list[str] = []
+    if repo_description:
+        description_segments.append(f"<p>{escape(repo_description)}</p>")
+
+    metadata_items = [
+        ("Stars", repo.get("stargazers_count", 0)),
+        ("Language", repo.get("language") or "N/A"),
+        ("Updated", repo.get("updated_at") or "N/A"),
+    ]
+
+    metadata_html = "".join(
+        f"<li><strong>{label}:</strong> {escape(str(value))}</li>"
+        for label, value in metadata_items
+    )
+    description_segments.append(f"<ul>{metadata_html}</ul>")
+
+    fe.content("".join(description_segments), type="CDATA")
+
+    updated_at = repo.get("updated_at")
+    if updated_at:
+        fe.published(updated_at)
+        fe.updated(updated_at)
+
+
+def generate_rss_feeds(all_new_repos: dict[str, list[dict[str, Any]]]) -> None:
+    """Generate aggregate and per-keyword RSS feeds from new repositories."""
+    aggregate_feed = _create_feed_generator()
+    keyword_feeds: dict[str, FeedGenerator] = {}
+
+    total_entries = 0
+
     for keyword, repos in all_new_repos.items():
+        if not repos:
+            continue
+
+        keyword_feed = _create_feed_generator(keyword)
+        keyword_entries = 0
+
         for repo in repos:
-            fe = fg.add_entry()
-            fe.id(repo["html_url"])
-            fe.title(f"[{keyword}] {repo['full_name']}")
-            fe.link(href=repo["html_url"])
-            
-            # Build plain-text description for compatibility with simple readers
-            plain_description_parts = []
-            repo_description = repo.get("description")
-            if repo_description:
-                plain_description_parts.append(repo_description)
-            
-            plain_description_parts.extend([
-                f"Stars: {repo.get('stargazers_count', 0)}",
-                f"Language: {repo.get('language') or 'N/A'}",
-                f"Updated: {repo.get('updated_at') or 'N/A'}",
-            ])
-            
-            fe.description("\n".join(plain_description_parts))
-
-            # Provide richer HTML content for readers that support it
-            description_segments: list[str] = []
-            if repo_description:
-                description_segments.append(f"<p>{escape(repo_description)}</p>")
-
-            metadata_items = [
-                ("Stars", repo.get("stargazers_count", 0)),
-                ("Language", repo.get("language") or "N/A"),
-                ("Updated", repo.get("updated_at") or "N/A"),
-            ]
-
-            metadata_html = "".join(
-                f"<li><strong>{label}:</strong> {escape(str(value))}</li>"
-                for label, value in metadata_items
+            _add_repo_entry_to_feed(
+                aggregate_feed,
+                repo,
+                keyword,
+                include_keyword_prefix=True,
             )
-            description_segments.append(f"<ul>{metadata_html}</ul>")
+            _add_repo_entry_to_feed(
+                keyword_feed,
+                repo,
+                keyword,
+                include_keyword_prefix=False,
+            )
+            total_entries += 1
+            keyword_entries += 1
 
-            fe.content("".join(description_segments), type="CDATA")
-            
-            # Use updated_at as the published date
-            updated_at = repo.get("updated_at")
-            if updated_at:
-                fe.published(updated_at)
-                fe.updated(updated_at)
-    
-    # Write RSS feed to file
-    fg.rss_file(str(FEED_FILE), pretty=True)
+        if keyword_entries:
+            keyword_feeds[keyword] = keyword_feed
+
+    if not total_entries:
+        logger.info("No RSS entries to generate")
+        return
+
+    aggregate_feed.rss_file(str(FEED_FILE), pretty=True)
     logger.info(f"RSS feed generated: {FEED_FILE}")
+
+    if keyword_feeds:
+        FEEDS_DIR.mkdir(exist_ok=True)
+        for keyword, fg in keyword_feeds.items():
+            file_path = FEEDS_DIR / f"{quote(keyword, safe='')}.xml"
+            fg.rss_file(str(file_path), pretty=True)
+            logger.info(f"RSS feed generated for keyword '{keyword}': {file_path}")
 
 
 def main():
@@ -231,7 +298,7 @@ def main():
     if all_new_repos:
         total_new = sum(len(repos) for repos in all_new_repos.values())
         logger.info(f"Found {total_new} new repositories across all keywords")
-        generate_rss_feed(all_new_repos)
+        generate_rss_feeds(all_new_repos)
     else:
         logger.info("No new repositories found")
     

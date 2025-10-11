@@ -4,7 +4,7 @@ Github 关键词仓库监控
 
 ## 功能说明
 
-通过 GitHub API 搜索指定关键词的仓库，按最近更新时间降序排序，自动过滤确保关键词出现在仓库名称或描述中，追踪新出现的仓库并生成 RSS 订阅源。
+通过 GitHub API 搜索指定关键词的仓库，按最近更新时间降序排序，自动过滤确保关键词出现在仓库名称或描述中，追踪新出现的仓库并生成 RSS 订阅源（包含全量聚合 feed 与按关键词拆分的 feed）。
 
 ## 环境要求
 
@@ -60,7 +60,9 @@ uv run main.py
 1. 搜索配置的每个关键词
 2. 过滤结果确保关键词在仓库名称或描述中
 3. 与之前的数据对比，找出新出现的仓库
-4. 生成 RSS 订阅源 (`feed.xml`)
+4. 生成 RSS 订阅源：
+   - 聚合 feed (`feed.xml`)
+   - 按关键词拆分的 feed (`feeds/<URL 编码后的关键词>.xml`)
 5. 保存已见过的仓库数据到 `data/` 目录
 
 ## 自动化
@@ -98,20 +100,21 @@ uv run main.py
 
 4. 工作流将每天自动运行，或者你可以在 `Actions` 标签页手动触发 `GitHub Keyword Monitor`。
 
-工作流会把生成的 `feed.xml` 和 `data/*.json` 推送到 `data` 分支。
+工作流会把生成的 `feed.xml`、`feeds/*.xml` 和 `data/*.json` 推送到 `data` 分支。
 
 ## 订阅 RSS
 
-将生成的 `feed.xml` 文件添加到你的 RSS 阅读器中即可接收新仓库的通知。
+将生成的 `feed.xml`（聚合订阅源）添加到你的 RSS 阅读器中即可接收所有关键词的新仓库通知。
 
-如果使用 GitHub Pages，可以直接订阅:
+如果你只关注某个关键词，可以订阅 `feeds/<URL 编码后的关键词>.xml`。例如关键词为 `星痕共鸣`，可订阅:
 ```
-https://your-username.github.io/GithubKeyWordMonitor/feed.xml
+https://your-username.github.io/GithubKeyWordMonitor/feeds/%E6%98%9F%E7%97%95%E5%85%B1%E9%B8%A3.xml
 ```
 
-启用 Actions 后，最新 RSS 会出现在 `data` 分支，可通过 raw 链接订阅:
+如果使用 GitHub Pages，可以直接订阅上述路径；启用 Actions 后，最新 RSS 会出现在 `data` 分支，可通过 raw 链接订阅:
 ```
 https://raw.githubusercontent.com/your-username/GithubKeyWordMonitor/data/feed.xml
+https://raw.githubusercontent.com/your-username/GithubKeyWordMonitor/data/feeds/%E6%98%9F%E7%97%95%E5%85%B1%E9%B8%A3.xml
 ```
 
 ## 示例输出

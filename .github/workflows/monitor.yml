@@ -112,18 +112,28 @@ jobs:
       - name: Sync generated artifacts
         run: |
           set -euo pipefail
-          if [ ! -f feed.xml ]; then
-            echo "No feed.xml generated; skipping sync." >&2
+          if [ ! -f feed.xml ] && [ ! -d feeds ] && [ ! -d data ]; then
+            echo "No artifacts generated; skipping sync." >&2
             exit 0
           fi
 
           rm -rf data-branch/data
+          rm -rf data-branch/feeds
           rm -f data-branch/feed.xml
-          mkdir -p data-branch/data
+
           if [ -d data ] && [ "$(ls -A data)" ]; then
+            mkdir -p data-branch/data
             cp -r data/. data-branch/data/
           fi
-          cp feed.xml data-branch/feed.xml
+
+          if [ -d feeds ] && [ "$(ls -A feeds)" ]; then
+            mkdir -p data-branch/feeds
+            cp -r feeds/. data-branch/feeds/
+          fi
+
+          if [ -f feed.xml ]; then
+            cp feed.xml data-branch/feed.xml
+          fi
       
       - name: Commit and push if changes
         working-directory: data-branch
@@ -134,6 +144,10 @@ jobs:
           ADDED=0
           if [ -f feed.xml ]; then
             git add feed.xml
+            ADDED=1
+          fi
+          if [ -d feeds ]; then
+            git add feeds/
             ADDED=1
           fi
           if [ -d data ]; then
