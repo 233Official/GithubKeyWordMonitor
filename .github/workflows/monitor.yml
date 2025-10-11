@@ -15,11 +15,6 @@ jobs:
       actions: read
     
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
-      
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
@@ -32,39 +27,12 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
           GH_PAT: ${{ secrets.MONITOR_PAT }}
-          REPO: ${{ github.repository }}
+          MONITOR_KEYWORDS: ${{ vars.MONITOR_KEYWORDS }}
         run: |
           python - <<'PY'
           import json
           import os
-          import sys
-          import urllib.error
-          import urllib.request
           from pathlib import Path
-
-          pat = os.environ.get("GH_PAT", "").strip()
-          token = pat or os.environ.get("GH_TOKEN", "").strip()
-          if not token:
-              raise SystemExit("Missing GitHub token")
-
-          if pat:
-              print("Using MONITOR_PAT secret for GitHub API access")
-
-          repo = os.environ["REPO"]
-          request = urllib.request.Request(
-              f"https://api.github.com/repos/{repo}/actions/variables/MONITOR_KEYWORDS",
-              headers={
-                  "Authorization": f"Bearer {token}",
-                  "Accept": "application/vnd.github+json",
-                  "User-Agent": "github-keyword-monitor-workflow",
-              },
-          )
-
-          raw_keywords = ""
-          try:
-              with urllib.request.urlopen(request, timeout=10) as resp:
-                  payload = json.load(resp)
-                  raw_keywords = (payload.get("value") or "").strip()
           except urllib.error.HTTPError as exc:
               if exc.code != 404:
                   print(f"Warning: failed to fetch MONITOR_KEYWORDS ({exc})", file=sys.stderr)
@@ -74,6 +42,10 @@ jobs:
           keywords_list: list[str]
           if not raw_keywords:
               keywords_list = ["星痕共鸣"]
+          raw_keywords = (os.environ.get("MONITOR_KEYWORDS", "") or "").strip()
+          if not raw_keywords:
+              print("MONITOR_KEYWORDS not set; falling back to default keyword")
+
           else:
               parsed = None
               if raw_keywords.startswith("[") and raw_keywords.endswith("]"):

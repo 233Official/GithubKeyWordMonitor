@@ -95,8 +95,9 @@ uv run main.py
    3. 切换到 `Variables` 标签，点击 `New repository variable`。
    4. Name 填写 `MONITOR_KEYWORDS`，Value 输入要监控的关键词（可用逗号分隔，如 `"星痕共鸣","Star Resonance"`，或直接填写 JSON 数组 `["星痕共鸣", "Star Resonance"]`）。
    5. 点击 `Add variable` 保存。
+   6. 工作流会直接读取该变量值；未设置时会退回默认关键词 `"星痕共鸣"`。
 
-3. （推荐）配置仓库 Secret `MONITOR_PAT`，步骤如下：
+3. （可选）如需更高的请求配额，可配置仓库 Secret `MONITOR_PAT`，步骤如下：
    1. 打开仓库页面，点击右上角的 `Settings`。
    2. 左侧菜单选择 `Secrets and variables` > `Actions`。
    3. 切换到 `Secrets` 标签，点击 `New repository secret`。
