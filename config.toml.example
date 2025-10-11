@@ -1,0 +1,10 @@
+# GitHub API Token
+# Get your token from https://github.com/settings/tokens
+github_token = "your_github_token_here"
+
+# List of keywords to monitor
+# Each keyword will be used to search GitHub repositories
+keywords = [
+    "星痕共鸣",
+    "example keyword",
+]

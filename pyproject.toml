@@ -1,0 +1,10 @@
+[project]
+name = "githubkeywordmonitor"
+version = "0.1.0"
+description = "Monitor GitHub repositories by keywords and generate RSS feeds"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "feedgen>=1.0.0",
+    "requests>=2.32.5",
+]
