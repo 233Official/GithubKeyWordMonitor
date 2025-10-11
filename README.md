@@ -112,12 +112,12 @@ uv run main.py
 
 将生成的 `feed.xml`（聚合订阅源）添加到你的 RSS 阅读器中即可接收所有关键词的新仓库通知。
 
-如果你只关注某个关键词，可以订阅 `feeds/<URL 编码后的关键词>.xml`。例如关键词为 `星痕共鸣`，可订阅:
+如果你只关注某个关键词，可以订阅 `feeds/<URL 编码后的关键词>.xml` 的 raw 链接。例如关键词为 `星痕共鸣`，可订阅:
 ```
-https://your-username.github.io/GithubKeyWordMonitor/feeds/%E6%98%9F%E7%97%95%E5%85%B1%E9%B8%A3.xml
+https://raw.githubusercontent.com/your-username/GithubKeyWordMonitor/data/feeds/%E6%98%9F%E7%97%95%E5%85%B1%E9%B8%A3.xml
 ```
 
-如果使用 GitHub Pages，可以直接订阅上述路径；启用 Actions 后，最新 RSS 会出现在 `data` 分支，可通过 raw 链接订阅:
+启用 Actions 后，最新 RSS 会被推送到 `data` 分支，推荐直接订阅 raw 链接:
 ```
 https://raw.githubusercontent.com/your-username/GithubKeyWordMonitor/data/feed.xml
 https://raw.githubusercontent.com/your-username/GithubKeyWordMonitor/data/feeds/%E6%98%9F%E7%97%95%E5%85%B1%E9%B8%A3.xml
