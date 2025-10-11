@@ -91,7 +91,7 @@ def search_github_repos(
     }
     
     headers = {
-        "Authorization": f"token {github_token}",
+        "Authorization": f"Bearer {github_token}",
         "Accept": "application/vnd.github.v3+json",
     }
     
