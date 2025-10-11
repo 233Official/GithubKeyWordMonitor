@@ -31,27 +31,70 @@ jobs:
       - name: Create config file
         env:
           GH_TOKEN: ${{ github.token }}
+          REPO: ${{ github.repository }}
         run: |
-          set -euo pipefail
+          python - <<'PY'
+          import json
+          import os
+          import sys
+          import urllib.error
+          import urllib.request
+          from pathlib import Path
 
-          TOKEN="$GH_TOKEN"
-          if [ -z "$TOKEN" ]; then
-            echo "Missing GitHub token" >&2
-            exit 1
-          fi
+          token = os.environ.get("GH_TOKEN", "").strip()
+          if not token:
+              raise SystemExit("Missing GitHub token")
 
-          KEYWORDS=$(gh api repos/${{ github.repository }}/actions/variables/MONITOR_KEYWORDS --jq .value 2>/dev/null || echo '')
-          if [ -z "$KEYWORDS" ]; then
-            KEYWORDS='"星痕共鸣"'
-          fi
-          if [[ $KEYWORDS != \[* ]]; then
-            KEYWORDS="[ $KEYWORDS ]"
-          fi
+          repo = os.environ["REPO"]
+          request = urllib.request.Request(
+              f"https://api.github.com/repos/{repo}/actions/variables/MONITOR_KEYWORDS",
+              headers={
+                  "Authorization": f"Bearer {token}",
+                  "Accept": "application/vnd.github+json",
+              },
+          )
 
-          cat <<EOF > config.toml
-          github_token = "$TOKEN"
-          keywords = $KEYWORDS
-          EOF
+          raw_keywords = ""
+          try:
+              with urllib.request.urlopen(request, timeout=10) as resp:
+                  payload = json.load(resp)
+                  raw_keywords = (payload.get("value") or "").strip()
+          except urllib.error.HTTPError as exc:
+              if exc.code != 404:
+                  print(f"Warning: failed to fetch MONITOR_KEYWORDS ({exc})", file=sys.stderr)
+          except urllib.error.URLError as exc:
+              print(f"Warning: unable to reach GitHub API ({exc})", file=sys.stderr)
+
+          keywords_list: list[str]
+          if not raw_keywords:
+              keywords_list = ["星痕共鸣"]
+          else:
+              parsed = None
+              if raw_keywords.startswith("[") and raw_keywords.endswith("]"):
+                  try:
+                      parsed = json.loads(raw_keywords)
+                  except json.JSONDecodeError:
+                      parsed = None
+
+              if isinstance(parsed, list) and all(isinstance(item, str) for item in parsed):
+                  keywords_list = [item for item in parsed if item.strip()]
+              else:
+                  keywords_list = [part.strip() for part in raw_keywords.split(",") if part.strip()]
+
+              if not keywords_list:
+                  keywords_list = ["星痕共鸣"]
+
+          keywords_literal = ", ".join(f'"{kw}"' for kw in keywords_list)
+
+          config_path = Path("config.toml")
+          config_path.write_text(
+              f"github_token = \"{token}\"\nkeywords = [{keywords_literal}]\n",
+              encoding="utf-8",
+          )
+
+          preview = config_path.read_text(encoding="utf-8").replace(token, "***")
+          print("Generated config.toml:\n" + preview)
+          PY
       
       - name: Run monitor
         run: uv run main.py
