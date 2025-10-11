@@ -88,7 +88,19 @@ jobs:
           set -euo pipefail
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add feed.xml data/
+          ADDED=0
+          if [ -f feed.xml ]; then
+            git add feed.xml
+            ADDED=1
+          fi
+          if [ -d data ]; then
+            git add data/
+            ADDED=1
+          fi
+          if [ "$ADDED" -eq 0 ]; then
+            echo "No artifacts to publish."
+            exit 0
+          fi
           if git diff --staged --quiet; then
             echo "No changes to publish."
             exit 0
