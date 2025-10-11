@@ -73,43 +73,52 @@ uv run main.py
 ```
 
 ### GitHub Actions 示例
-创建 `.github/workflows/monitor.yml`:
-```yaml
-name: Monitor Keywords
-on:
-  schedule:
-    - cron: '0 0 * * *'  # 每天 00:00 UTC
-  workflow_dispatch:
 
-jobs:
-  monitor:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
-        with:
-          python-version: '3.11'
-      - name: Install uv
-        run: pip install uv
-      - name: Run monitor
-        env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
-        run: |
-          echo "github_token = \"$GITHUB_TOKEN\"" > config.toml
-          echo "keywords = [\"星痕共鸣\"]" >> config.toml
-          uv run main.py
-      - name: Commit feed
-        run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add feed.xml data/
-          git commit -m "Update feed" || true
-          git push
-```
+本仓库已包含 `.github/workflows/monitor.yml` 工作流文件。要启用自动化监控:
+
+1. 在 GitHub 仓库设置中添加 Secret:
+   - 进入 `Settings` > `Secrets and variables` > `Actions`
+   - 点击 `New repository secret`
+   - Name: `GH_MONITOR_TOKEN`
+   - Value: 你的 GitHub Personal Access Token
+
+2. 编辑 `.github/workflows/monitor.yml` 中的 keywords 列表
+
+3. 工作流将每天自动运行，或者你可以手动触发:
+   - 进入 `Actions` 标签页
+   - 选择 `GitHub Keyword Monitor` 工作流
+   - 点击 `Run workflow`
+
+工作流会自动提交更新的 RSS feed 和数据文件到仓库。
 
 ## 订阅 RSS
 
 将生成的 `feed.xml` 文件添加到你的 RSS 阅读器中即可接收新仓库的通知。
+
+如果使用 GitHub Pages，可以直接订阅:
+```
+https://your-username.github.io/GithubKeyWordMonitor/feed.xml
+```
+
+或者如果你使用 GitHub Actions 自动提交，可以通过 GitHub raw 链接订阅:
+```
+https://raw.githubusercontent.com/your-username/GithubKeyWordMonitor/main/feed.xml
+```
+
+## 示例输出
+
+运行后，会在控制台看到类似以下输出:
+
+```
+2025-10-11 00:00:00,000 - INFO - Starting GitHub Keyword Monitor
+2025-10-11 00:00:01,000 - INFO - Processing keyword: 星痕共鸣
+2025-10-11 00:00:01,100 - INFO - Previously seen 0 repositories for keyword '星痕共鸣'
+2025-10-11 00:00:02,000 - INFO - Found 5 repositories matching keyword '星痕共鸣' (filtered from 12 total results)
+2025-10-11 00:00:02,100 - INFO - New repository found: user/repo-name
+2025-10-11 00:00:02,200 - INFO - Found 1 new repositories across all keywords
+2025-10-11 00:00:02,300 - INFO - RSS feed generated: feed.xml
+2025-10-11 00:00:02,400 - INFO - GitHub Keyword Monitor completed
+```
 
 ## 许可证
 
