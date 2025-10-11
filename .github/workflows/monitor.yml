@@ -12,10 +12,13 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+      actions: read
     
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
       
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -27,22 +30,68 @@ jobs:
       
       - name: Create config file
         env:
-          GITHUB_TOKEN: ${{ secrets.GH_MONITOR_TOKEN }}
+          GH_TOKEN: ${{ github.token }}
         run: |
-          cat > config.toml << EOF
-          github_token = "$GITHUB_TOKEN"
-          keywords = [
-              "星痕共鸣",
-          ]
+          set -euo pipefail
+
+          TOKEN="$GH_TOKEN"
+          if [ -z "$TOKEN" ]; then
+            echo "Missing GitHub token" >&2
+            exit 1
+          fi
+
+          KEYWORDS=$(gh api repos/${{ github.repository }}/actions/variables/MONITOR_KEYWORDS --jq .value 2>/dev/null || echo '')
+          if [ -z "$KEYWORDS" ]; then
+            KEYWORDS='"星痕共鸣"'
+          fi
+          if [[ $KEYWORDS != \[* ]]; then
+            KEYWORDS="[ $KEYWORDS ]"
+          fi
+
+          cat <<EOF > config.toml
+          github_token = "$TOKEN"
+          keywords = $KEYWORDS
           EOF
       
       - name: Run monitor
         run: uv run main.py
       
-      - name: Commit and push if changes
+      - name: Clean up runtime config
+        run: rm config.toml
+      
+      - name: Checkout data branch
+        uses: actions/checkout@v4
+        with:
+          ref: data
+          path: data-branch
+          fetch-depth: 0
+      
+      - name: Sync generated artifacts
         run: |
+          set -euo pipefail
+          if [ ! -f feed.xml ]; then
+            echo "No feed.xml generated; skipping sync." >&2
+            exit 0
+          fi
+
+          rm -rf data-branch/data
+          rm -f data-branch/feed.xml
+          mkdir -p data-branch/data
+          if [ -d data ] && [ "$(ls -A data)" ]; then
+            cp -r data/. data-branch/data/
+          fi
+          cp feed.xml data-branch/feed.xml
+      
+      - name: Commit and push if changes
+        working-directory: data-branch
+        run: |
+          set -euo pipefail
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add feed.xml data/
-          git diff --quiet && git diff --staged --quiet || \
-            (git commit -m "Update RSS feed [skip ci]" && git push)
+          if git diff --staged --quiet; then
+            echo "No changes to publish."
+            exit 0
+          fi
+          git commit -m "Update RSS feed [skip ci]"
+          git push

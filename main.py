@@ -2,6 +2,7 @@ import json
 import logging
 import tomllib
 from datetime import datetime, timezone
+from html import escape
 from pathlib import Path
 from typing import Any
 from urllib.parse import quote
@@ -136,18 +137,38 @@ def generate_rss_feed(all_new_repos: dict[str, list[dict[str, Any]]]) -> None:
             fe.title(f"[{keyword}] {repo['full_name']}")
             fe.link(href=repo["html_url"])
             
-            # Build description
-            description_parts = []
-            if repo.get("description"):
-                description_parts.append(repo["description"])
+            # Build plain-text description for compatibility with simple readers
+            plain_description_parts = []
+            repo_description = repo.get("description")
+            if repo_description:
+                plain_description_parts.append(repo_description)
             
-            description_parts.extend([
+            plain_description_parts.extend([
                 f"Stars: {repo.get('stargazers_count', 0)}",
-                f"Language: {repo.get('language', 'N/A')}",
-                f"Updated: {repo.get('updated_at', 'N/A')}",
+                f"Language: {repo.get('language') or 'N/A'}",
+                f"Updated: {repo.get('updated_at') or 'N/A'}",
             ])
             
-            fe.description("\n".join(description_parts))
+            fe.description("\n".join(plain_description_parts))
+
+            # Provide richer HTML content for readers that support it
+            description_segments: list[str] = []
+            if repo_description:
+                description_segments.append(f"<p>{escape(repo_description)}</p>")
+
+            metadata_items = [
+                ("Stars", repo.get("stargazers_count", 0)),
+                ("Language", repo.get("language") or "N/A"),
+                ("Updated", repo.get("updated_at") or "N/A"),
+            ]
+
+            metadata_html = "".join(
+                f"<li><strong>{label}:</strong> {escape(str(value))}</li>"
+                for label, value in metadata_items
+            )
+            description_segments.append(f"<ul>{metadata_html}</ul>")
+
+            fe.content("".join(description_segments), type="CDATA")
             
             # Use updated_at as the published date
             updated_at = repo.get("updated_at")

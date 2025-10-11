@@ -74,22 +74,31 @@ uv run main.py
 
 ### GitHub Actions 示例
 
-本仓库已包含 `.github/workflows/monitor.yml` 工作流文件。要启用自动化监控:
+本仓库已包含 `.github/workflows/monitor.yml` 工作流文件。要启用自动化监控：
 
-1. 在 GitHub 仓库设置中添加 Secret:
-   - 进入 `Settings` > `Secrets and variables` > `Actions`
-   - 点击 `New repository secret`
-   - Name: `GH_MONITOR_TOKEN`
-   - Value: 你的 GitHub Personal Access Token
+1. **准备数据分支**：创建一个用于持久化结果的 `data` 分支，并允许 GitHub Actions 向该分支推送。
+   ```bash
+   git checkout --orphan data
+   git rm -rf .
+   touch .gitkeep
+   git add .gitkeep
+   git commit -m "chore: init data branch"
+   git push origin data
+   git checkout main
+   ```
 
-2. 编辑 `.github/workflows/monitor.yml` 中的 keywords 列表
+2. **配置关键词变量**：在仓库设置中添加 Actions 变量 `MONITOR_KEYWORDS`，步骤如下：
+   1. 打开仓库页面，点击右上角的 `Settings`。
+   2. 左侧菜单选择 `Secrets and variables` > `Actions`。
+   3. 切换到 `Variables` 标签，点击 `New repository variable`。
+   4. Name 填写 `MONITOR_KEYWORDS`，Value 输入要监控的关键词（可用逗号分隔，如 `"星痕共鸣","Star Resonance"`，或直接填写 JSON 数组 `["星痕共鸣", "Star Resonance"]`）。
+   5. 点击 `Add variable` 保存。
 
-3. 工作流将每天自动运行，或者你可以手动触发:
-   - 进入 `Actions` 标签页
-   - 选择 `GitHub Keyword Monitor` 工作流
-   - 点击 `Run workflow`
+3. （可选）如需更高的请求配额，可以修改工作流手动指定 PAT；默认情况下，工作流会使用 GitHub 自动提供的 `GITHUB_TOKEN`。
 
-工作流会自动提交更新的 RSS feed 和数据文件到仓库。
+4. 工作流将每天自动运行，或者你可以在 `Actions` 标签页手动触发 `GitHub Keyword Monitor`。
+
+工作流会把生成的 `feed.xml` 和 `data/*.json` 推送到 `data` 分支。
 
 ## 订阅 RSS
 
@@ -100,9 +109,9 @@ uv run main.py
 https://your-username.github.io/GithubKeyWordMonitor/feed.xml
 ```
 
-或者如果你使用 GitHub Actions 自动提交，可以通过 GitHub raw 链接订阅:
+启用 Actions 后，最新 RSS 会出现在 `data` 分支，可通过 raw 链接订阅:
 ```
-https://raw.githubusercontent.com/your-username/GithubKeyWordMonitor/main/feed.xml
+https://raw.githubusercontent.com/your-username/GithubKeyWordMonitor/data/feed.xml
 ```
 
 ## 示例输出
