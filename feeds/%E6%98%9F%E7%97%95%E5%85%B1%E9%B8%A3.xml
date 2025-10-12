@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 11 Oct 2025 13:52:37 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Oct 2025 00:24:39 +0000</lastBuildDate>
     <item>
       <title>Nemoxxxxx/-</title>
       <link>https://github.com/Nemoxxxxx/-</link>
@@ -278,10 +278,10 @@ Updated: 2025-10-10T01:52:21Z</description>
       <description>基于ok-script的星痕共鸣自动工具
 Stars: 59
 Language: Python
-Updated: 2025-10-11T07:57:39Z</description>
-      <content:encoded><![CDATA[<p>基于ok-script的星痕共鸣自动工具</p><ul><li><strong>Stars:</strong> 59</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2025-10-11T07:57:39Z</li></ul>]]></content:encoded>
+Updated: 2025-10-11T19:09:36Z</description>
+      <content:encoded><![CDATA[<p>基于ok-script的星痕共鸣自动工具</p><ul><li><strong>Stars:</strong> 59</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2025-10-11T19:09:36Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/Sanheiii/ok-star-resonance</guid>
-      <pubDate>Sat, 11 Oct 2025 07:57:39 +0000</pubDate>
+      <pubDate>Sat, 11 Oct 2025 19:09:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
