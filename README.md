@@ -14,17 +14,31 @@ Github 关键词仓库监控
 ## 安装
 
 1. 安装 uv:
+
 ```bash
-pip install uv
+# For Linux/macOS
+curl -LsSf https://astral.sh/uv/install.sh | sh
+# For Windows
+powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | iex"
 ```
 
+验证安装:
+
+```bash
+uv --version
+```
+
+![image-20250929104234071](http://cdn.ayusummer233.top/DailyNotes/202510131022884.png)
+
 2. 克隆仓库:
+
 ```bash
 git clone https://github.com/233Official/GithubKeyWordMonitor.git
 cd GithubKeyWordMonitor
 ```
 
 3. 安装依赖:
+
 ```bash
 uv sync
 ```
@@ -32,15 +46,17 @@ uv sync
 ## 配置
 
 1. 复制配置文件模板:
+
 ```bash
 cp config.toml.example config.toml
 ```
 
 2. 编辑 `config.toml`:
-   - 填写你的 GitHub Token (从 https://github.com/settings/tokens 获取)
+   - 填写你的 GitHub Token (从 <https://github.com/settings/tokens> 获取)
    - 配置要监控的关键词列表
 
 示例配置:
+
 ```toml
 github_token = "ghp_your_token_here"
 keywords = [
@@ -52,11 +68,13 @@ keywords = [
 ## 使用
 
 运行监控程序:
+
 ```bash
 uv run main.py
 ```
 
 程序会:
+
 1. 搜索配置的每个关键词
 2. 过滤结果确保关键词在仓库名称或描述中
 3. 与之前的数据对比，找出新出现的仓库
@@ -70,6 +88,7 @@ uv run main.py
 建议使用 cron 或 GitHub Actions 定时运行，例如每天更新一次:
 
 ### Cron 示例 (每天 00:00 运行)
+
 ```bash
 0 0 * * * cd /path/to/GithubKeyWordMonitor && uv run main.py
 ```
@@ -79,6 +98,7 @@ uv run main.py
 本仓库已包含 `.github/workflows/monitor.yml` 工作流文件。要启用自动化监控：
 
 1. **准备数据分支**：创建一个用于持久化结果的 `data` 分支，并允许 GitHub Actions 向该分支推送。
+
    ```bash
    git checkout --orphan data
    git rm -rf .
@@ -101,7 +121,7 @@ uv run main.py
    1. 打开仓库页面，点击右上角的 `Settings`。
    2. 左侧菜单选择 `Secrets and variables` > `Actions`。
    3. 切换到 `Secrets` 标签，点击 `New repository secret`。
-   4. Name 填写 `MONITOR_PAT`，Value 输入具备至少 `repo`（contents:read）与 `actions:read` 权限的 Personal Access Token（可在 https://github.com/settings/tokens 创建）。
+   4. Name 填写 `MONITOR_PAT`，Value 输入具备至少 `repo`（contents:read）与 `actions:read` 权限的 Personal Access Token（可在 <https://github.com/settings/tokens> 创建）。
    5. 点击 `Add secret` 保存。工作流会优先使用此 PAT；若未配置，仍会回退到 GitHub 自动提供的 `GITHUB_TOKEN`。
 
 4. 工作流将每天自动运行，或者你可以在 `Actions` 标签页手动触发 `GitHub Keyword Monitor`。
@@ -113,11 +133,13 @@ uv run main.py
 将生成的 `feed.xml`（聚合订阅源）添加到你的 RSS 阅读器中即可接收所有关键词的新仓库通知。
 
 如果你只关注某个关键词，可以订阅 `feeds/<URL 编码后的关键词>.xml` 的 raw 链接。例如关键词为 `星痕共鸣`，可订阅:
+
 ```
 https://raw.githubusercontent.com/your-username/GithubKeyWordMonitor/data/feeds/%E6%98%9F%E7%97%95%E5%85%B1%E9%B8%A3.xml
 ```
 
 启用 Actions 后，最新 RSS 会被推送到 `data` 分支，推荐直接订阅 raw 链接:
+
 ```
 https://raw.githubusercontent.com/your-username/GithubKeyWordMonitor/data/feed.xml
 https://raw.githubusercontent.com/your-username/GithubKeyWordMonitor/data/feeds/%E6%98%9F%E7%97%95%E5%85%B1%E9%B8%A3.xml
@@ -141,4 +163,3 @@ https://raw.githubusercontent.com/your-username/GithubKeyWordMonitor/data/feeds/
 ## 许可证
 
 MIT License
-
