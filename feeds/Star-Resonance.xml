@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 12 Oct 2025 00:24:39 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Oct 2025 00:25:23 +0000</lastBuildDate>
     <item>
       <title>YoramCriel/Star-Resonance</title>
       <link>https://github.com/YoramCriel/Star-Resonance</link>
@@ -101,10 +101,10 @@ Updated: 2025-10-06T02:31:44Z</description>
       <description>基于ok-script的星痕共鸣自动工具
 Stars: 59
 Language: Python
-Updated: 2025-10-11T19:09:36Z</description>
-      <content:encoded><![CDATA[<p>基于ok-script的星痕共鸣自动工具</p><ul><li><strong>Stars:</strong> 59</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2025-10-11T19:09:36Z</li></ul>]]></content:encoded>
+Updated: 2025-10-12T13:48:21Z</description>
+      <content:encoded><![CDATA[<p>基于ok-script的星痕共鸣自动工具</p><ul><li><strong>Stars:</strong> 59</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2025-10-12T13:48:21Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/Sanheiii/ok-star-resonance</guid>
-      <pubDate>Sat, 11 Oct 2025 19:09:36 +0000</pubDate>
+      <pubDate>Sun, 12 Oct 2025 13:48:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
