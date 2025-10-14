@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 13 Oct 2025 00:25:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Oct 2025 00:22:58 +0000</lastBuildDate>
     <item>
       <title>Nemoxxxxx/-</title>
       <link>https://github.com/Nemoxxxxx/-</link>
@@ -232,12 +232,12 @@ Updated: 2025-10-10T09:58:18Z</description>
       <title>Xuan-cc/ShiroFisher-StarResonanceSmartFishing</title>
       <link>https://github.com/Xuan-cc/ShiroFisher-StarResonanceSmartFishing</link>
       <description>星痕共鸣钓鱼jio本，Python控制台项目，基于opencv+pyautogui
-Stars: 3
+Stars: 5
 Language: Python
-Updated: 2025-10-10T06:26:52Z</description>
-      <content:encoded><![CDATA[<p>星痕共鸣钓鱼jio本，Python控制台项目，基于opencv+pyautogui</p><ul><li><strong>Stars:</strong> 3</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2025-10-10T06:26:52Z</li></ul>]]></content:encoded>
+Updated: 2025-10-13T19:18:33Z</description>
+      <content:encoded><![CDATA[<p>星痕共鸣钓鱼jio本，Python控制台项目，基于opencv+pyautogui</p><ul><li><strong>Stars:</strong> 5</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2025-10-13T19:18:33Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/Xuan-cc/ShiroFisher-StarResonanceSmartFishing</guid>
-      <pubDate>Fri, 10 Oct 2025 06:26:52 +0000</pubDate>
+      <pubDate>Mon, 13 Oct 2025 19:18:33 +0000</pubDate>
     </item>
     <item>
       <title>fudiyangjin/StarResonanceAutoMod</title>
@@ -276,12 +276,12 @@ Updated: 2025-10-12T12:27:25Z</description>
       <title>Sanheiii/ok-star-resonance</title>
       <link>https://github.com/Sanheiii/ok-star-resonance</link>
       <description>基于ok-script的星痕共鸣自动工具
-Stars: 59
+Stars: 61
 Language: Python
-Updated: 2025-10-12T13:48:21Z</description>
-      <content:encoded><![CDATA[<p>基于ok-script的星痕共鸣自动工具</p><ul><li><strong>Stars:</strong> 59</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2025-10-12T13:48:21Z</li></ul>]]></content:encoded>
+Updated: 2025-10-13T03:14:54Z</description>
+      <content:encoded><![CDATA[<p>基于ok-script的星痕共鸣自动工具</p><ul><li><strong>Stars:</strong> 61</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2025-10-13T03:14:54Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/Sanheiii/ok-star-resonance</guid>
-      <pubDate>Sun, 12 Oct 2025 13:48:21 +0000</pubDate>
+      <pubDate>Mon, 13 Oct 2025 03:14:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
