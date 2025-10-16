@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 15 Oct 2025 00:23:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Oct 2025 00:24:24 +0000</lastBuildDate>
     <item>
       <title>Nemoxxxxx/-</title>
       <link>https://github.com/Nemoxxxxx/-</link>
@@ -207,37 +207,26 @@ Updated: 2025-09-28T05:51:52Z</description>
       <pubDate>Sun, 28 Sep 2025 05:51:52 +0000</pubDate>
     </item>
     <item>
-      <title>balrogsxt/StarBox</title>
-      <link>https://github.com/balrogsxt/StarBox</link>
-      <description>星盒-支持星痕共鸣自动钓鱼、自动采集、一键连招、职业天赋切换、自动副本、自动肉鸽、自动分解、顺线BOSS等功能
-Stars: 29
-Language: N/A
-Updated: 2025-10-10T09:58:18Z</description>
-      <content:encoded><![CDATA[<p>星盒-支持星痕共鸣自动钓鱼、自动采集、一键连招、职业天赋切换、自动副本、自动肉鸽、自动分解、顺线BOSS等功能</p><ul><li><strong>Stars:</strong> 29</li><li><strong>Language:</strong> N/A</li><li><strong>Updated:</strong> 2025-10-10T09:58:18Z</li></ul>]]></content:encoded>
-      <guid isPermaLink="false">https://github.com/balrogsxt/StarBox</guid>
-      <pubDate>Fri, 10 Oct 2025 09:58:18 +0000</pubDate>
-    </item>
-    <item>
       <title>fudiyangjin/StarResonanceAutoMod</title>
       <link>https://github.com/fudiyangjin/StarResonanceAutoMod</link>
       <description>星痕共鸣全自动模组筛选(不需要截图, 不需要手动输入)
-Stars: 45
+Stars: 44
 Language: C++
-Updated: 2025-10-09T20:51:47Z</description>
-      <content:encoded><![CDATA[<p>星痕共鸣全自动模组筛选(不需要截图, 不需要手动输入)</p><ul><li><strong>Stars:</strong> 45</li><li><strong>Language:</strong> C++</li><li><strong>Updated:</strong> 2025-10-09T20:51:47Z</li></ul>]]></content:encoded>
+Updated: 2025-10-15T05:09:33Z</description>
+      <content:encoded><![CDATA[<p>星痕共鸣全自动模组筛选(不需要截图, 不需要手动输入)</p><ul><li><strong>Stars:</strong> 44</li><li><strong>Language:</strong> C++</li><li><strong>Updated:</strong> 2025-10-15T05:09:33Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/fudiyangjin/StarResonanceAutoMod</guid>
-      <pubDate>Thu, 09 Oct 2025 20:51:47 +0000</pubDate>
+      <pubDate>Wed, 15 Oct 2025 05:09:33 +0000</pubDate>
     </item>
     <item>
       <title>balrogsxt/StarResonanceAPI</title>
       <link>https://github.com/balrogsxt/StarResonanceAPI</link>
       <description>基于StarResonanceDamageCounter实现的网络抓包提供一些星痕共鸣扩展API详细数据
-Stars: 3
+Stars: 4
 Language: Go
-Updated: 2025-10-14T20:24:01Z</description>
-      <content:encoded><![CDATA[<p>基于StarResonanceDamageCounter实现的网络抓包提供一些星痕共鸣扩展API详细数据</p><ul><li><strong>Stars:</strong> 3</li><li><strong>Language:</strong> Go</li><li><strong>Updated:</strong> 2025-10-14T20:24:01Z</li></ul>]]></content:encoded>
+Updated: 2025-10-15T14:13:10Z</description>
+      <content:encoded><![CDATA[<p>基于StarResonanceDamageCounter实现的网络抓包提供一些星痕共鸣扩展API详细数据</p><ul><li><strong>Stars:</strong> 4</li><li><strong>Language:</strong> Go</li><li><strong>Updated:</strong> 2025-10-15T14:13:10Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/balrogsxt/StarResonanceAPI</guid>
-      <pubDate>Tue, 14 Oct 2025 20:24:01 +0000</pubDate>
+      <pubDate>Wed, 15 Oct 2025 14:13:10 +0000</pubDate>
     </item>
     <item>
       <title>azmiao/StarResonanceNotice</title>
@@ -265,23 +254,12 @@ Updated: 2025-10-14T09:26:02Z</description>
       <title>Xuan-cc/ShiroFisher-StarResonanceSmartFishing</title>
       <link>https://github.com/Xuan-cc/ShiroFisher-StarResonanceSmartFishing</link>
       <description>星痕共鸣钓鱼jio本，Python控制台项目，基于opencv+pyautogui
-Stars: 8
+Stars: 9
 Language: Python
-Updated: 2025-10-14T20:43:53Z</description>
-      <content:encoded><![CDATA[<p>星痕共鸣钓鱼jio本，Python控制台项目，基于opencv+pyautogui</p><ul><li><strong>Stars:</strong> 8</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2025-10-14T20:43:53Z</li></ul>]]></content:encoded>
+Updated: 2025-10-15T06:12:02Z</description>
+      <content:encoded><![CDATA[<p>星痕共鸣钓鱼jio本，Python控制台项目，基于opencv+pyautogui</p><ul><li><strong>Stars:</strong> 9</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2025-10-15T06:12:02Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/Xuan-cc/ShiroFisher-StarResonanceSmartFishing</guid>
-      <pubDate>Tue, 14 Oct 2025 20:43:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sanheiii/ok-star-resonance</title>
-      <link>https://github.com/Sanheiii/ok-star-resonance</link>
-      <description>基于ok-script的星痕共鸣自动工具
-Stars: 62
-Language: Python
-Updated: 2025-10-14T15:53:30Z</description>
-      <content:encoded><![CDATA[<p>基于ok-script的星痕共鸣自动工具</p><ul><li><strong>Stars:</strong> 62</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2025-10-14T15:53:30Z</li></ul>]]></content:encoded>
-      <guid isPermaLink="false">https://github.com/Sanheiii/ok-star-resonance</guid>
-      <pubDate>Tue, 14 Oct 2025 15:53:30 +0000</pubDate>
+      <pubDate>Wed, 15 Oct 2025 06:12:02 +0000</pubDate>
     </item>
     <item>
       <title>xxfttkx/StarResonanceAutoHunt</title>
@@ -289,10 +267,32 @@ Updated: 2025-10-14T15:53:30Z</description>
       <description>星痕共鸣自动切线
 Stars: 5
 Language: Python
-Updated: 2025-10-14T20:56:11Z</description>
-      <content:encoded><![CDATA[<p>星痕共鸣自动切线</p><ul><li><strong>Stars:</strong> 5</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2025-10-14T20:56:11Z</li></ul>]]></content:encoded>
+Updated: 2025-10-15T12:17:52Z</description>
+      <content:encoded><![CDATA[<p>星痕共鸣自动切线</p><ul><li><strong>Stars:</strong> 5</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2025-10-15T12:17:52Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/xxfttkx/StarResonanceAutoHunt</guid>
-      <pubDate>Tue, 14 Oct 2025 20:56:11 +0000</pubDate>
+      <pubDate>Wed, 15 Oct 2025 12:17:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sanheiii/ok-star-resonance</title>
+      <link>https://github.com/Sanheiii/ok-star-resonance</link>
+      <description>基于ok-script的星痕共鸣自动工具
+Stars: 61
+Language: Python
+Updated: 2025-10-15T14:01:56Z</description>
+      <content:encoded><![CDATA[<p>基于ok-script的星痕共鸣自动工具</p><ul><li><strong>Stars:</strong> 61</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2025-10-15T14:01:56Z</li></ul>]]></content:encoded>
+      <guid isPermaLink="false">https://github.com/Sanheiii/ok-star-resonance</guid>
+      <pubDate>Wed, 15 Oct 2025 14:01:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>balrogsxt/StarBox</title>
+      <link>https://github.com/balrogsxt/StarBox</link>
+      <description>星盒-支持星痕共鸣自动钓鱼、自动采集、一键连招、职业天赋切换、自动副本、自动肉鸽、自动分解、顺线BOSS等功能
+Stars: 29
+Language: N/A
+Updated: 2025-10-15T20:41:16Z</description>
+      <content:encoded><![CDATA[<p>星盒-支持星痕共鸣自动钓鱼、自动采集、一键连招、职业天赋切换、自动副本、自动肉鸽、自动分解、顺线BOSS等功能</p><ul><li><strong>Stars:</strong> 29</li><li><strong>Language:</strong> N/A</li><li><strong>Updated:</strong> 2025-10-15T20:41:16Z</li></ul>]]></content:encoded>
+      <guid isPermaLink="false">https://github.com/balrogsxt/StarBox</guid>
+      <pubDate>Wed, 15 Oct 2025 20:41:16 +0000</pubDate>
     </item>
   </channel>
 </rss>
