@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 16 Oct 2025 00:24:24 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Oct 2025 00:23:46 +0000</lastBuildDate>
     <item>
       <title>YoramCriel/Star-Resonance</title>
       <link>https://github.com/YoramCriel/Star-Resonance</link>
@@ -78,33 +78,33 @@ Updated: 2025-08-28T18:29:42Z</description>
       <title>whbyaoi/star-resonance-profit-tool</title>
       <link>https://github.com/whbyaoi/star-resonance-profit-tool</link>
       <description>A Star Resonance tool that calculates daily profit based on template matching
-Stars: 1
+Stars: 2
 Language: Go
-Updated: 2025-09-12T19:28:41Z</description>
-      <content:encoded><![CDATA[<p>A Star Resonance tool that calculates daily profit based on template matching</p><ul><li><strong>Stars:</strong> 1</li><li><strong>Language:</strong> Go</li><li><strong>Updated:</strong> 2025-09-12T19:28:41Z</li></ul>]]></content:encoded>
+Updated: 2025-10-16T16:30:10Z</description>
+      <content:encoded><![CDATA[<p>A Star Resonance tool that calculates daily profit based on template matching</p><ul><li><strong>Stars:</strong> 2</li><li><strong>Language:</strong> Go</li><li><strong>Updated:</strong> 2025-10-16T16:30:10Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/whbyaoi/star-resonance-profit-tool</guid>
-      <pubDate>Fri, 12 Sep 2025 19:28:41 +0000</pubDate>
+      <pubDate>Thu, 16 Oct 2025 16:30:10 +0000</pubDate>
     </item>
     <item>
       <title>c0derceejay/unofficial-blueprotocol-star-resonance</title>
       <link>https://github.com/c0derceejay/unofficial-blueprotocol-star-resonance</link>
-      <description>Stars: 1
+      <description>Stars: 2
 Language: JavaScript
-Updated: 2025-10-13T19:19:35Z</description>
-      <content:encoded><![CDATA[<ul><li><strong>Stars:</strong> 1</li><li><strong>Language:</strong> JavaScript</li><li><strong>Updated:</strong> 2025-10-13T19:19:35Z</li></ul>]]></content:encoded>
+Updated: 2025-10-16T08:37:45Z</description>
+      <content:encoded><![CDATA[<ul><li><strong>Stars:</strong> 2</li><li><strong>Language:</strong> JavaScript</li><li><strong>Updated:</strong> 2025-10-16T08:37:45Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/c0derceejay/unofficial-blueprotocol-star-resonance</guid>
-      <pubDate>Mon, 13 Oct 2025 19:19:35 +0000</pubDate>
+      <pubDate>Thu, 16 Oct 2025 08:37:45 +0000</pubDate>
     </item>
     <item>
       <title>Sanheiii/ok-star-resonance</title>
       <link>https://github.com/Sanheiii/ok-star-resonance</link>
       <description>基于ok-script的星痕共鸣自动工具
-Stars: 61
+Stars: 62
 Language: Python
-Updated: 2025-10-15T14:01:56Z</description>
-      <content:encoded><![CDATA[<p>基于ok-script的星痕共鸣自动工具</p><ul><li><strong>Stars:</strong> 61</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2025-10-15T14:01:56Z</li></ul>]]></content:encoded>
+Updated: 2025-10-16T16:06:16Z</description>
+      <content:encoded><![CDATA[<p>基于ok-script的星痕共鸣自动工具</p><ul><li><strong>Stars:</strong> 62</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2025-10-16T16:06:16Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/Sanheiii/ok-star-resonance</guid>
-      <pubDate>Wed, 15 Oct 2025 14:01:56 +0000</pubDate>
+      <pubDate>Thu, 16 Oct 2025 16:06:16 +0000</pubDate>
     </item>
   </channel>
 </rss>
