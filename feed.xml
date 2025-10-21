@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 20 Oct 2025 00:26:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Oct 2025 00:24:02 +0000</lastBuildDate>
     <item>
       <title>[Star-Resonance] YoramCriel/Star-Resonance</title>
       <link>https://github.com/YoramCriel/Star-Resonance</link>
@@ -106,26 +106,26 @@ Updated: 2025-10-18T08:00:10Z</description>
       <pubDate>Sat, 18 Oct 2025 08:00:10 +0000</pubDate>
     </item>
     <item>
-      <title>[Star-Resonance] Sanheiii/ok-star-resonance</title>
-      <link>https://github.com/Sanheiii/ok-star-resonance</link>
-      <description>基于ok-script的星痕共鸣自动工具
-Stars: 63
-Language: Python
-Updated: 2025-10-18T17:32:52Z</description>
-      <content:encoded><![CDATA[<p>基于ok-script的星痕共鸣自动工具</p><ul><li><strong>Stars:</strong> 63</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2025-10-18T17:32:52Z</li></ul>]]></content:encoded>
-      <guid isPermaLink="false">https://github.com/Sanheiii/ok-star-resonance</guid>
-      <pubDate>Sat, 18 Oct 2025 17:32:52 +0000</pubDate>
-    </item>
-    <item>
       <title>[Star-Resonance] asgharkapk/Star-Resonance-GitHub-Projects</title>
       <link>https://github.com/asgharkapk/Star-Resonance-GitHub-Projects</link>
       <description>A compilation of open-source projects for Star Resonance (Blue Protocol). These tools cover DPS meters, overlays, bots, asset extraction, and community utilities. Use responsibly and follow the game’s terms of service.
-Stars: 5
+Stars: 8
 Language: N/A
-Updated: 2025-10-19T18:23:29Z</description>
-      <content:encoded><![CDATA[<p>A compilation of open-source projects for Star Resonance (Blue Protocol). These tools cover DPS meters, overlays, bots, asset extraction, and community utilities. Use responsibly and follow the game’s terms of service.</p><ul><li><strong>Stars:</strong> 5</li><li><strong>Language:</strong> N/A</li><li><strong>Updated:</strong> 2025-10-19T18:23:29Z</li></ul>]]></content:encoded>
+Updated: 2025-10-20T06:38:56Z</description>
+      <content:encoded><![CDATA[<p>A compilation of open-source projects for Star Resonance (Blue Protocol). These tools cover DPS meters, overlays, bots, asset extraction, and community utilities. Use responsibly and follow the game’s terms of service.</p><ul><li><strong>Stars:</strong> 8</li><li><strong>Language:</strong> N/A</li><li><strong>Updated:</strong> 2025-10-20T06:38:56Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/asgharkapk/Star-Resonance-GitHub-Projects</guid>
-      <pubDate>Sun, 19 Oct 2025 18:23:29 +0000</pubDate>
+      <pubDate>Mon, 20 Oct 2025 06:38:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Star-Resonance] Sanheiii/ok-star-resonance</title>
+      <link>https://github.com/Sanheiii/ok-star-resonance</link>
+      <description>基于ok-script的星痕共鸣自动工具
+Stars: 65
+Language: Python
+Updated: 2025-10-20T22:12:10Z</description>
+      <content:encoded><![CDATA[<p>基于ok-script的星痕共鸣自动工具</p><ul><li><strong>Stars:</strong> 65</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2025-10-20T22:12:10Z</li></ul>]]></content:encoded>
+      <guid isPermaLink="false">https://github.com/Sanheiii/ok-star-resonance</guid>
+      <pubDate>Mon, 20 Oct 2025 22:12:10 +0000</pubDate>
     </item>
     <item>
       <title>[StarResonance] Icebear-Z/StarResonanceDamageCounter-Client</title>
@@ -292,12 +292,12 @@ Updated: 2025-10-17T08:04:49Z</description>
       <title>[StarResonance] balrogsxt/StarResonanceAPI</title>
       <link>https://github.com/balrogsxt/StarResonanceAPI</link>
       <description>基于StarResonanceDamageCounter实现的网络抓包提供一些星痕共鸣扩展API详细数据
-Stars: 6
+Stars: 8
 Language: Go
-Updated: 2025-10-18T21:42:19Z</description>
-      <content:encoded><![CDATA[<p>基于StarResonanceDamageCounter实现的网络抓包提供一些星痕共鸣扩展API详细数据</p><ul><li><strong>Stars:</strong> 6</li><li><strong>Language:</strong> Go</li><li><strong>Updated:</strong> 2025-10-18T21:42:19Z</li></ul>]]></content:encoded>
+Updated: 2025-10-20T19:17:29Z</description>
+      <content:encoded><![CDATA[<p>基于StarResonanceDamageCounter实现的网络抓包提供一些星痕共鸣扩展API详细数据</p><ul><li><strong>Stars:</strong> 8</li><li><strong>Language:</strong> Go</li><li><strong>Updated:</strong> 2025-10-20T19:17:29Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/balrogsxt/StarResonanceAPI</guid>
-      <pubDate>Sat, 18 Oct 2025 21:42:19 +0000</pubDate>
+      <pubDate>Mon, 20 Oct 2025 19:17:29 +0000</pubDate>
     </item>
     <item>
       <title>[StarResonance] PotRooms/StarResonanceTool</title>
@@ -333,26 +333,15 @@ Updated: 2025-10-14T06:45:27Z</description>
       <pubDate>Tue, 14 Oct 2025 06:45:27 +0000</pubDate>
     </item>
     <item>
-      <title>[StarResonance] azmiao/StarResonanceNews</title>
-      <link>https://github.com/azmiao/StarResonanceNews</link>
-      <description>垃圾星痕共鸣的官网新闻推送BOT
-Stars: 3
-Language: Python
-Updated: 2025-10-16T17:30:36Z</description>
-      <content:encoded><![CDATA[<p>垃圾星痕共鸣的官网新闻推送BOT</p><ul><li><strong>Stars:</strong> 3</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2025-10-16T17:30:36Z</li></ul>]]></content:encoded>
-      <guid isPermaLink="false">https://github.com/azmiao/StarResonanceNews</guid>
-      <pubDate>Thu, 16 Oct 2025 17:30:36 +0000</pubDate>
-    </item>
-    <item>
       <title>[StarResonance] dmlgzs/StarResonanceDamageCounter</title>
       <link>https://github.com/dmlgzs/StarResonanceDamageCounter</link>
       <description>Damage Counter for Star Resonance
-Stars: 245
+Stars: 246
 Language: JavaScript
-Updated: 2025-10-19T22:55:21Z</description>
-      <content:encoded><![CDATA[<p>Damage Counter for Star Resonance</p><ul><li><strong>Stars:</strong> 245</li><li><strong>Language:</strong> JavaScript</li><li><strong>Updated:</strong> 2025-10-19T22:55:21Z</li></ul>]]></content:encoded>
+Updated: 2025-10-20T03:59:52Z</description>
+      <content:encoded><![CDATA[<p>Damage Counter for Star Resonance</p><ul><li><strong>Stars:</strong> 246</li><li><strong>Language:</strong> JavaScript</li><li><strong>Updated:</strong> 2025-10-20T03:59:52Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/dmlgzs/StarResonanceDamageCounter</guid>
-      <pubDate>Sun, 19 Oct 2025 22:55:21 +0000</pubDate>
+      <pubDate>Mon, 20 Oct 2025 03:59:52 +0000</pubDate>
     </item>
     <item>
       <title>[StarResonance] xxfttkx/StarResonanceAutoHunt</title>
@@ -377,24 +366,35 @@ Updated: 2025-10-18T23:10:02Z</description>
       <pubDate>Sat, 18 Oct 2025 23:10:02 +0000</pubDate>
     </item>
     <item>
+      <title>[StarResonance] azmiao/StarResonanceNews</title>
+      <link>https://github.com/azmiao/StarResonanceNews</link>
+      <description>垃圾星痕共鸣的官网新闻推送BOT
+Stars: 3
+Language: Python
+Updated: 2025-10-20T02:12:54Z</description>
+      <content:encoded><![CDATA[<p>垃圾星痕共鸣的官网新闻推送BOT</p><ul><li><strong>Stars:</strong> 3</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2025-10-20T02:12:54Z</li></ul>]]></content:encoded>
+      <guid isPermaLink="false">https://github.com/azmiao/StarResonanceNews</guid>
+      <pubDate>Mon, 20 Oct 2025 02:12:54 +0000</pubDate>
+    </item>
+    <item>
       <title>[StarResonance] xxfttkx/StarResonanceAutoSwitchLine</title>
       <link>https://github.com/xxfttkx/StarResonanceAutoSwitchLine</link>
       <description>Stars: 2
 Language: Python
-Updated: 2025-10-19T18:24:06Z</description>
-      <content:encoded><![CDATA[<ul><li><strong>Stars:</strong> 2</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2025-10-19T18:24:06Z</li></ul>]]></content:encoded>
+Updated: 2025-10-20T09:16:38Z</description>
+      <content:encoded><![CDATA[<ul><li><strong>Stars:</strong> 2</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2025-10-20T09:16:38Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/xxfttkx/StarResonanceAutoSwitchLine</guid>
-      <pubDate>Sun, 19 Oct 2025 18:24:06 +0000</pubDate>
+      <pubDate>Mon, 20 Oct 2025 09:16:38 +0000</pubDate>
     </item>
     <item>
       <title>[StarResonance] anying1073/StarResonanceDps</title>
       <link>https://github.com/anying1073/StarResonanceDps</link>
-      <description>Stars: 43
+      <description>Stars: 45
 Language: C#
-Updated: 2025-10-19T14:16:07Z</description>
-      <content:encoded><![CDATA[<ul><li><strong>Stars:</strong> 43</li><li><strong>Language:</strong> C#</li><li><strong>Updated:</strong> 2025-10-19T14:16:07Z</li></ul>]]></content:encoded>
+Updated: 2025-10-20T18:02:25Z</description>
+      <content:encoded><![CDATA[<ul><li><strong>Stars:</strong> 45</li><li><strong>Language:</strong> C#</li><li><strong>Updated:</strong> 2025-10-20T18:02:25Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/anying1073/StarResonanceDps</guid>
-      <pubDate>Sun, 19 Oct 2025 14:16:07 +0000</pubDate>
+      <pubDate>Mon, 20 Oct 2025 18:02:25 +0000</pubDate>
     </item>
     <item>
       <title>[星痕共鸣] Nemoxxxxx/-</title>
@@ -609,12 +609,12 @@ Updated: 2025-10-17T08:04:49Z</description>
       <title>[星痕共鸣] balrogsxt/StarResonanceAPI</title>
       <link>https://github.com/balrogsxt/StarResonanceAPI</link>
       <description>基于StarResonanceDamageCounter实现的网络抓包提供一些星痕共鸣扩展API详细数据
-Stars: 6
+Stars: 8
 Language: Go
-Updated: 2025-10-18T21:42:19Z</description>
-      <content:encoded><![CDATA[<p>基于StarResonanceDamageCounter实现的网络抓包提供一些星痕共鸣扩展API详细数据</p><ul><li><strong>Stars:</strong> 6</li><li><strong>Language:</strong> Go</li><li><strong>Updated:</strong> 2025-10-18T21:42:19Z</li></ul>]]></content:encoded>
+Updated: 2025-10-20T19:17:29Z</description>
+      <content:encoded><![CDATA[<p>基于StarResonanceDamageCounter实现的网络抓包提供一些星痕共鸣扩展API详细数据</p><ul><li><strong>Stars:</strong> 8</li><li><strong>Language:</strong> Go</li><li><strong>Updated:</strong> 2025-10-20T19:17:29Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/balrogsxt/StarResonanceAPI</guid>
-      <pubDate>Sat, 18 Oct 2025 21:42:19 +0000</pubDate>
+      <pubDate>Mon, 20 Oct 2025 19:17:29 +0000</pubDate>
     </item>
     <item>
       <title>[星痕共鸣] azmiao/StarResonanceNotice</title>
@@ -626,17 +626,6 @@ Updated: 2025-10-14T06:45:27Z</description>
       <content:encoded><![CDATA[<p>适用于YuiChyanBot的星痕共鸣提醒小助手</p><ul><li><strong>Stars:</strong> 2</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2025-10-14T06:45:27Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/azmiao/StarResonanceNotice</guid>
       <pubDate>Tue, 14 Oct 2025 06:45:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>[星痕共鸣] azmiao/StarResonanceNews</title>
-      <link>https://github.com/azmiao/StarResonanceNews</link>
-      <description>垃圾星痕共鸣的官网新闻推送BOT
-Stars: 3
-Language: Python
-Updated: 2025-10-16T17:30:36Z</description>
-      <content:encoded><![CDATA[<p>垃圾星痕共鸣的官网新闻推送BOT</p><ul><li><strong>Stars:</strong> 3</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2025-10-16T17:30:36Z</li></ul>]]></content:encoded>
-      <guid isPermaLink="false">https://github.com/azmiao/StarResonanceNews</guid>
-      <pubDate>Thu, 16 Oct 2025 17:30:36 +0000</pubDate>
     </item>
     <item>
       <title>[星痕共鸣] balrogsxt/StarBox</title>
@@ -672,15 +661,26 @@ Updated: 2025-10-18T23:10:02Z</description>
       <pubDate>Sat, 18 Oct 2025 23:10:02 +0000</pubDate>
     </item>
     <item>
+      <title>[星痕共鸣] azmiao/StarResonanceNews</title>
+      <link>https://github.com/azmiao/StarResonanceNews</link>
+      <description>垃圾星痕共鸣的官网新闻推送BOT
+Stars: 3
+Language: Python
+Updated: 2025-10-20T02:12:54Z</description>
+      <content:encoded><![CDATA[<p>垃圾星痕共鸣的官网新闻推送BOT</p><ul><li><strong>Stars:</strong> 3</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2025-10-20T02:12:54Z</li></ul>]]></content:encoded>
+      <guid isPermaLink="false">https://github.com/azmiao/StarResonanceNews</guid>
+      <pubDate>Mon, 20 Oct 2025 02:12:54 +0000</pubDate>
+    </item>
+    <item>
       <title>[星痕共鸣] Sanheiii/ok-star-resonance</title>
       <link>https://github.com/Sanheiii/ok-star-resonance</link>
       <description>基于ok-script的星痕共鸣自动工具
-Stars: 63
+Stars: 65
 Language: Python
-Updated: 2025-10-18T17:32:52Z</description>
-      <content:encoded><![CDATA[<p>基于ok-script的星痕共鸣自动工具</p><ul><li><strong>Stars:</strong> 63</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2025-10-18T17:32:52Z</li></ul>]]></content:encoded>
+Updated: 2025-10-20T22:12:10Z</description>
+      <content:encoded><![CDATA[<p>基于ok-script的星痕共鸣自动工具</p><ul><li><strong>Stars:</strong> 65</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2025-10-20T22:12:10Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/Sanheiii/ok-star-resonance</guid>
-      <pubDate>Sat, 18 Oct 2025 17:32:52 +0000</pubDate>
+      <pubDate>Mon, 20 Oct 2025 22:12:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
