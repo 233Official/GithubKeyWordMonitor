@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 21 Oct 2025 00:24:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Oct 2025 00:24:51 +0000</lastBuildDate>
     <item>
       <title>YoramCriel/Star-Resonance</title>
       <link>https://github.com/YoramCriel/Star-Resonance</link>
@@ -106,17 +106,6 @@ Updated: 2025-10-18T08:00:10Z</description>
       <pubDate>Sat, 18 Oct 2025 08:00:10 +0000</pubDate>
     </item>
     <item>
-      <title>asgharkapk/Star-Resonance-GitHub-Projects</title>
-      <link>https://github.com/asgharkapk/Star-Resonance-GitHub-Projects</link>
-      <description>A compilation of open-source projects for Star Resonance (Blue Protocol). These tools cover DPS meters, overlays, bots, asset extraction, and community utilities. Use responsibly and follow the game’s terms of service.
-Stars: 8
-Language: N/A
-Updated: 2025-10-20T06:38:56Z</description>
-      <content:encoded><![CDATA[<p>A compilation of open-source projects for Star Resonance (Blue Protocol). These tools cover DPS meters, overlays, bots, asset extraction, and community utilities. Use responsibly and follow the game’s terms of service.</p><ul><li><strong>Stars:</strong> 8</li><li><strong>Language:</strong> N/A</li><li><strong>Updated:</strong> 2025-10-20T06:38:56Z</li></ul>]]></content:encoded>
-      <guid isPermaLink="false">https://github.com/asgharkapk/Star-Resonance-GitHub-Projects</guid>
-      <pubDate>Mon, 20 Oct 2025 06:38:56 +0000</pubDate>
-    </item>
-    <item>
       <title>Sanheiii/ok-star-resonance</title>
       <link>https://github.com/Sanheiii/ok-star-resonance</link>
       <description>基于ok-script的星痕共鸣自动工具
@@ -126,6 +115,17 @@ Updated: 2025-10-20T22:12:10Z</description>
       <content:encoded><![CDATA[<p>基于ok-script的星痕共鸣自动工具</p><ul><li><strong>Stars:</strong> 65</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2025-10-20T22:12:10Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/Sanheiii/ok-star-resonance</guid>
       <pubDate>Mon, 20 Oct 2025 22:12:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>asgharkapk/Star-Resonance-GitHub-Projects</title>
+      <link>https://github.com/asgharkapk/Star-Resonance-GitHub-Projects</link>
+      <description>A compilation of open-source projects for Star Resonance (Blue Protocol). These tools cover DPS meters, overlays, bots, asset extraction, and community utilities. Use responsibly and follow the game’s terms of service.
+Stars: 8
+Language: N/A
+Updated: 2025-10-21T13:55:43Z</description>
+      <content:encoded><![CDATA[<p>A compilation of open-source projects for Star Resonance (Blue Protocol). These tools cover DPS meters, overlays, bots, asset extraction, and community utilities. Use responsibly and follow the game’s terms of service.</p><ul><li><strong>Stars:</strong> 8</li><li><strong>Language:</strong> N/A</li><li><strong>Updated:</strong> 2025-10-21T13:55:43Z</li></ul>]]></content:encoded>
+      <guid isPermaLink="false">https://github.com/asgharkapk/Star-Resonance-GitHub-Projects</guid>
+      <pubDate>Tue, 21 Oct 2025 13:55:43 +0000</pubDate>
     </item>
   </channel>
 </rss>
