@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 26 Oct 2025 00:25:50 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Oct 2025 00:26:42 +0000</lastBuildDate>
     <item>
       <title>Nemoxxxxx/-</title>
       <link>https://github.com/Nemoxxxxx/-</link>
@@ -251,17 +251,6 @@ Updated: 2025-10-20T02:12:54Z</description>
       <pubDate>Mon, 20 Oct 2025 02:12:54 +0000</pubDate>
     </item>
     <item>
-      <title>Xuan-cc/ShiroFisher-StarResonanceSmartFishing</title>
-      <link>https://github.com/Xuan-cc/ShiroFisher-StarResonanceSmartFishing</link>
-      <description>星痕共鸣钓鱼jio本，Python控制台项目，基于opencv+pyautogui
-Stars: 13
-Language: Python
-Updated: 2025-10-23T02:57:55Z</description>
-      <content:encoded><![CDATA[<p>星痕共鸣钓鱼jio本，Python控制台项目，基于opencv+pyautogui</p><ul><li><strong>Stars:</strong> 13</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2025-10-23T02:57:55Z</li></ul>]]></content:encoded>
-      <guid isPermaLink="false">https://github.com/Xuan-cc/ShiroFisher-StarResonanceSmartFishing</guid>
-      <pubDate>Thu, 23 Oct 2025 02:57:55 +0000</pubDate>
-    </item>
-    <item>
       <title>balrogsxt/StarBox</title>
       <link>https://github.com/balrogsxt/StarBox</link>
       <description>星盒-支持星痕共鸣自动钓鱼、自动采集、一键连招、职业天赋切换、自动副本、自动肉鸽、自动分解、顺线BOSS等功能
@@ -276,12 +265,12 @@ Updated: 2025-10-21T09:33:02Z</description>
       <title>Sanheiii/ok-star-resonance</title>
       <link>https://github.com/Sanheiii/ok-star-resonance</link>
       <description>基于ok-script的星痕共鸣自动工具
-Stars: 71
+Stars: 73
 Language: Python
-Updated: 2025-10-25T12:02:05Z</description>
-      <content:encoded><![CDATA[<p>基于ok-script的星痕共鸣自动工具</p><ul><li><strong>Stars:</strong> 71</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2025-10-25T12:02:05Z</li></ul>]]></content:encoded>
+Updated: 2025-10-26T21:02:14Z</description>
+      <content:encoded><![CDATA[<p>基于ok-script的星痕共鸣自动工具</p><ul><li><strong>Stars:</strong> 73</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2025-10-26T21:02:14Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/Sanheiii/ok-star-resonance</guid>
-      <pubDate>Sat, 25 Oct 2025 12:02:05 +0000</pubDate>
+      <pubDate>Sun, 26 Oct 2025 21:02:14 +0000</pubDate>
     </item>
     <item>
       <title>balrogsxt/StarResonanceAPI</title>
@@ -293,6 +282,17 @@ Updated: 2025-10-25T08:39:16Z</description>
       <content:encoded><![CDATA[<p>基于StarResonanceDamageCounter实现的网络抓包提供一些星痕共鸣扩展API详细数据</p><ul><li><strong>Stars:</strong> 8</li><li><strong>Language:</strong> Go</li><li><strong>Updated:</strong> 2025-10-25T08:39:16Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/balrogsxt/StarResonanceAPI</guid>
       <pubDate>Sat, 25 Oct 2025 08:39:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Xuan-cc/ShiroFisher-StarResonanceSmartFishing</title>
+      <link>https://github.com/Xuan-cc/ShiroFisher-StarResonanceSmartFishing</link>
+      <description>星痕共鸣钓鱼jio本，Python控制台项目，基于opencv+pyautogui
+Stars: 13
+Language: Python
+Updated: 2025-10-26T21:32:20Z</description>
+      <content:encoded><![CDATA[<p>星痕共鸣钓鱼jio本，Python控制台项目，基于opencv+pyautogui</p><ul><li><strong>Stars:</strong> 13</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2025-10-26T21:32:20Z</li></ul>]]></content:encoded>
+      <guid isPermaLink="false">https://github.com/Xuan-cc/ShiroFisher-StarResonanceSmartFishing</guid>
+      <pubDate>Sun, 26 Oct 2025 21:32:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
