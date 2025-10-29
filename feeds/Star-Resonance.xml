@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 28 Oct 2025 00:23:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Oct 2025 00:25:20 +0000</lastBuildDate>
     <item>
       <title>YoramCriel/Star-Resonance</title>
       <link>https://github.com/YoramCriel/Star-Resonance</link>
@@ -117,17 +117,6 @@ Updated: 2025-10-25T12:30:53Z</description>
       <pubDate>Sat, 25 Oct 2025 12:30:53 +0000</pubDate>
     </item>
     <item>
-      <title>Sanheiii/ok-star-resonance</title>
-      <link>https://github.com/Sanheiii/ok-star-resonance</link>
-      <description>基于ok-script的星痕共鸣自动工具
-Stars: 73
-Language: Python
-Updated: 2025-10-27T12:50:44Z</description>
-      <content:encoded><![CDATA[<p>基于ok-script的星痕共鸣自动工具</p><ul><li><strong>Stars:</strong> 73</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2025-10-27T12:50:44Z</li></ul>]]></content:encoded>
-      <guid isPermaLink="false">https://github.com/Sanheiii/ok-star-resonance</guid>
-      <pubDate>Mon, 27 Oct 2025 12:50:44 +0000</pubDate>
-    </item>
-    <item>
       <title>asgharkapk/star-resonance-crafting-database</title>
       <link>https://github.com/asgharkapk/star-resonance-crafting-database</link>
       <description>Community-driven dataset for Star Resonance life skills, crafting materials, and currency costs (Focus, Luno, Homestead). Includes mining, crafting, and vendor prices from CN and EN sources. Star Resonance life skill &amp; crafting data: materials, Focus cost, and currency prices.
@@ -137,6 +126,17 @@ Updated: 2025-10-27T15:43:15Z</description>
       <content:encoded><![CDATA[<p>Community-driven dataset for Star Resonance life skills, crafting materials, and currency costs (Focus, Luno, Homestead). Includes mining, crafting, and vendor prices from CN and EN sources. Star Resonance life skill &amp; crafting data: materials, Focus cost, and currency prices.</p><ul><li><strong>Stars:</strong> 1</li><li><strong>Language:</strong> HTML</li><li><strong>Updated:</strong> 2025-10-27T15:43:15Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/asgharkapk/star-resonance-crafting-database</guid>
       <pubDate>Mon, 27 Oct 2025 15:43:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sanheiii/ok-star-resonance</title>
+      <link>https://github.com/Sanheiii/ok-star-resonance</link>
+      <description>基于ok-script的星痕共鸣自动工具
+Stars: 73
+Language: Python
+Updated: 2025-10-28T02:17:54Z</description>
+      <content:encoded><![CDATA[<p>基于ok-script的星痕共鸣自动工具</p><ul><li><strong>Stars:</strong> 73</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2025-10-28T02:17:54Z</li></ul>]]></content:encoded>
+      <guid isPermaLink="false">https://github.com/Sanheiii/ok-star-resonance</guid>
+      <pubDate>Tue, 28 Oct 2025 02:17:54 +0000</pubDate>
     </item>
   </channel>
 </rss>

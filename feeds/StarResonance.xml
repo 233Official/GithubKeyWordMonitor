@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 28 Oct 2025 00:23:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Oct 2025 00:25:20 +0000</lastBuildDate>
     <item>
       <title>Icebear-Z/StarResonanceDamageCounter-Client</title>
       <link>https://github.com/Icebear-Z/StarResonanceDamageCounter-Client</link>
@@ -162,23 +162,23 @@ Updated: 2025-09-12T09:11:57Z</description>
       <title>fudiyangjin/StarResonanceAutoMod</title>
       <link>https://github.com/fudiyangjin/StarResonanceAutoMod</link>
       <description>星痕共鸣全自动模组筛选(不需要截图, 不需要手动输入)
-Stars: 46
+Stars: 47
 Language: C++
-Updated: 2025-10-17T08:04:49Z</description>
-      <content:encoded><![CDATA[<p>星痕共鸣全自动模组筛选(不需要截图, 不需要手动输入)</p><ul><li><strong>Stars:</strong> 46</li><li><strong>Language:</strong> C++</li><li><strong>Updated:</strong> 2025-10-17T08:04:49Z</li></ul>]]></content:encoded>
+Updated: 2025-10-28T15:36:46Z</description>
+      <content:encoded><![CDATA[<p>星痕共鸣全自动模组筛选(不需要截图, 不需要手动输入)</p><ul><li><strong>Stars:</strong> 47</li><li><strong>Language:</strong> C++</li><li><strong>Updated:</strong> 2025-10-28T15:36:46Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/fudiyangjin/StarResonanceAutoMod</guid>
-      <pubDate>Fri, 17 Oct 2025 08:04:49 +0000</pubDate>
+      <pubDate>Tue, 28 Oct 2025 15:36:46 +0000</pubDate>
     </item>
     <item>
       <title>PotRooms/StarResonanceTool</title>
       <link>https://github.com/PotRooms/StarResonanceTool</link>
       <description>WIP data parser for the game "Blue Protocol: Star Resonance"
-Stars: 6
+Stars: 7
 Language: C#
-Updated: 2025-10-22T15:48:57Z</description>
-      <content:encoded><![CDATA[<p>WIP data parser for the game &quot;Blue Protocol: Star Resonance&quot;</p><ul><li><strong>Stars:</strong> 6</li><li><strong>Language:</strong> C#</li><li><strong>Updated:</strong> 2025-10-22T15:48:57Z</li></ul>]]></content:encoded>
+Updated: 2025-10-28T16:44:54Z</description>
+      <content:encoded><![CDATA[<p>WIP data parser for the game &quot;Blue Protocol: Star Resonance&quot;</p><ul><li><strong>Stars:</strong> 7</li><li><strong>Language:</strong> C#</li><li><strong>Updated:</strong> 2025-10-28T16:44:54Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/PotRooms/StarResonanceTool</guid>
-      <pubDate>Wed, 22 Oct 2025 15:48:57 +0000</pubDate>
+      <pubDate>Tue, 28 Oct 2025 16:44:54 +0000</pubDate>
     </item>
     <item>
       <title>PotRooms/StarResonanceData</title>
@@ -206,12 +206,12 @@ Updated: 2025-10-14T06:45:27Z</description>
       <title>dmlgzs/StarResonanceDamageCounter</title>
       <link>https://github.com/dmlgzs/StarResonanceDamageCounter</link>
       <description>Damage Counter for Star Resonance
-Stars: 251
+Stars: 252
 Language: JavaScript
-Updated: 2025-10-27T05:40:35Z</description>
-      <content:encoded><![CDATA[<p>Damage Counter for Star Resonance</p><ul><li><strong>Stars:</strong> 251</li><li><strong>Language:</strong> JavaScript</li><li><strong>Updated:</strong> 2025-10-27T05:40:35Z</li></ul>]]></content:encoded>
+Updated: 2025-10-28T07:05:28Z</description>
+      <content:encoded><![CDATA[<p>Damage Counter for Star Resonance</p><ul><li><strong>Stars:</strong> 252</li><li><strong>Language:</strong> JavaScript</li><li><strong>Updated:</strong> 2025-10-28T07:05:28Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/dmlgzs/StarResonanceDamageCounter</guid>
-      <pubDate>Mon, 27 Oct 2025 05:40:35 +0000</pubDate>
+      <pubDate>Tue, 28 Oct 2025 07:05:28 +0000</pubDate>
     </item>
     <item>
       <title>xxfttkx/StarResonanceAutoHunt</title>
