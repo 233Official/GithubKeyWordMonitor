@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 31 Oct 2025 00:24:25 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Nov 2025 00:26:30 +0000</lastBuildDate>
     <item>
       <title>Icebear-Z/StarResonanceDamageCounter-Client</title>
       <link>https://github.com/Icebear-Z/StarResonanceDamageCounter-Client</link>
@@ -237,12 +237,12 @@ Updated: 2025-10-25T05:59:27Z</description>
     <item>
       <title>anying1073/StarResonanceDps</title>
       <link>https://github.com/anying1073/StarResonanceDps</link>
-      <description>Stars: 47
+      <description>Stars: 48
 Language: C#
-Updated: 2025-10-26T23:06:27Z</description>
-      <content:encoded><![CDATA[<ul><li><strong>Stars:</strong> 47</li><li><strong>Language:</strong> C#</li><li><strong>Updated:</strong> 2025-10-26T23:06:27Z</li></ul>]]></content:encoded>
+Updated: 2025-10-31T13:05:13Z</description>
+      <content:encoded><![CDATA[<ul><li><strong>Stars:</strong> 48</li><li><strong>Language:</strong> C#</li><li><strong>Updated:</strong> 2025-10-31T13:05:13Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/anying1073/StarResonanceDps</guid>
-      <pubDate>Sun, 26 Oct 2025 23:06:27 +0000</pubDate>
+      <pubDate>Fri, 31 Oct 2025 13:05:13 +0000</pubDate>
     </item>
     <item>
       <title>balrogsxt/StarResonanceAPI</title>
@@ -270,12 +270,12 @@ Updated: 2025-10-31T00:11:34Z</description>
       <title>dmlgzs/StarResonanceDamageCounter</title>
       <link>https://github.com/dmlgzs/StarResonanceDamageCounter</link>
       <description>Damage Counter for Star Resonance
-Stars: 252
+Stars: 251
 Language: JavaScript
-Updated: 2025-10-30T18:30:15Z</description>
-      <content:encoded><![CDATA[<p>Damage Counter for Star Resonance</p><ul><li><strong>Stars:</strong> 252</li><li><strong>Language:</strong> JavaScript</li><li><strong>Updated:</strong> 2025-10-30T18:30:15Z</li></ul>]]></content:encoded>
+Updated: 2025-10-31T04:55:39Z</description>
+      <content:encoded><![CDATA[<p>Damage Counter for Star Resonance</p><ul><li><strong>Stars:</strong> 251</li><li><strong>Language:</strong> JavaScript</li><li><strong>Updated:</strong> 2025-10-31T04:55:39Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/dmlgzs/StarResonanceDamageCounter</guid>
-      <pubDate>Thu, 30 Oct 2025 18:30:15 +0000</pubDate>
+      <pubDate>Fri, 31 Oct 2025 04:55:39 +0000</pubDate>
     </item>
   </channel>
 </rss>
