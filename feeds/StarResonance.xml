@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 02 Nov 2025 00:26:16 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Nov 2025 00:26:20 +0000</lastBuildDate>
     <item>
       <title>Icebear-Z/StarResonanceDamageCounter-Client</title>
       <link>https://github.com/Icebear-Z/StarResonanceDamageCounter-Client</link>
@@ -184,12 +184,12 @@ Updated: 2025-10-28T16:44:54Z</description>
       <title>PotRooms/StarResonanceData</title>
       <link>https://github.com/PotRooms/StarResonanceData</link>
       <description>Blue Protocol: Star Resonance data
-Stars: 27
+Stars: 28
 Language: Lua
-Updated: 2025-10-29T10:31:38Z</description>
-      <content:encoded><![CDATA[<p>Blue Protocol: Star Resonance data</p><ul><li><strong>Stars:</strong> 27</li><li><strong>Language:</strong> Lua</li><li><strong>Updated:</strong> 2025-10-29T10:31:38Z</li></ul>]]></content:encoded>
+Updated: 2025-11-02T10:47:47Z</description>
+      <content:encoded><![CDATA[<p>Blue Protocol: Star Resonance data</p><ul><li><strong>Stars:</strong> 28</li><li><strong>Language:</strong> Lua</li><li><strong>Updated:</strong> 2025-11-02T10:47:47Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/PotRooms/StarResonanceData</guid>
-      <pubDate>Wed, 29 Oct 2025 10:31:38 +0000</pubDate>
+      <pubDate>Sun, 02 Nov 2025 10:47:47 +0000</pubDate>
     </item>
     <item>
       <title>azmiao/StarResonanceNotice</title>
@@ -235,16 +235,6 @@ Updated: 2025-10-25T05:59:27Z</description>
       <pubDate>Sat, 25 Oct 2025 05:59:27 +0000</pubDate>
     </item>
     <item>
-      <title>anying1073/StarResonanceDps</title>
-      <link>https://github.com/anying1073/StarResonanceDps</link>
-      <description>Stars: 48
-Language: C#
-Updated: 2025-10-31T13:05:13Z</description>
-      <content:encoded><![CDATA[<ul><li><strong>Stars:</strong> 48</li><li><strong>Language:</strong> C#</li><li><strong>Updated:</strong> 2025-10-31T13:05:13Z</li></ul>]]></content:encoded>
-      <guid isPermaLink="false">https://github.com/anying1073/StarResonanceDps</guid>
-      <pubDate>Fri, 31 Oct 2025 13:05:13 +0000</pubDate>
-    </item>
-    <item>
       <title>balrogsxt/StarResonanceAPI</title>
       <link>https://github.com/balrogsxt/StarResonanceAPI</link>
       <description>基于StarResonanceDamageCounter实现的网络抓包提供一些星痕共鸣扩展API详细数据
@@ -259,23 +249,33 @@ Updated: 2025-10-25T08:39:16Z</description>
       <title>Xuan-cc/ShiroFisher-StarResonanceSmartFishing</title>
       <link>https://github.com/Xuan-cc/ShiroFisher-StarResonanceSmartFishing</link>
       <description>星痕共鸣钓鱼jio本，Python控制台项目，基于opencv+pyautogui
-Stars: 16
+Stars: 17
 Language: Python
-Updated: 2025-10-31T00:11:34Z</description>
-      <content:encoded><![CDATA[<p>星痕共鸣钓鱼jio本，Python控制台项目，基于opencv+pyautogui</p><ul><li><strong>Stars:</strong> 16</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2025-10-31T00:11:34Z</li></ul>]]></content:encoded>
+Updated: 2025-11-02T15:04:55Z</description>
+      <content:encoded><![CDATA[<p>星痕共鸣钓鱼jio本，Python控制台项目，基于opencv+pyautogui</p><ul><li><strong>Stars:</strong> 17</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2025-11-02T15:04:55Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/Xuan-cc/ShiroFisher-StarResonanceSmartFishing</guid>
-      <pubDate>Fri, 31 Oct 2025 00:11:34 +0000</pubDate>
+      <pubDate>Sun, 02 Nov 2025 15:04:55 +0000</pubDate>
     </item>
     <item>
       <title>dmlgzs/StarResonanceDamageCounter</title>
       <link>https://github.com/dmlgzs/StarResonanceDamageCounter</link>
       <description>Damage Counter for Star Resonance
-Stars: 252
+Stars: 253
 Language: JavaScript
-Updated: 2025-11-01T03:46:34Z</description>
-      <content:encoded><![CDATA[<p>Damage Counter for Star Resonance</p><ul><li><strong>Stars:</strong> 252</li><li><strong>Language:</strong> JavaScript</li><li><strong>Updated:</strong> 2025-11-01T03:46:34Z</li></ul>]]></content:encoded>
+Updated: 2025-11-02T21:03:32Z</description>
+      <content:encoded><![CDATA[<p>Damage Counter for Star Resonance</p><ul><li><strong>Stars:</strong> 253</li><li><strong>Language:</strong> JavaScript</li><li><strong>Updated:</strong> 2025-11-02T21:03:32Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/dmlgzs/StarResonanceDamageCounter</guid>
-      <pubDate>Sat, 01 Nov 2025 03:46:34 +0000</pubDate>
+      <pubDate>Sun, 02 Nov 2025 21:03:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>anying1073/StarResonanceDps</title>
+      <link>https://github.com/anying1073/StarResonanceDps</link>
+      <description>Stars: 48
+Language: C#
+Updated: 2025-11-02T07:49:41Z</description>
+      <content:encoded><![CDATA[<ul><li><strong>Stars:</strong> 48</li><li><strong>Language:</strong> C#</li><li><strong>Updated:</strong> 2025-11-02T07:49:41Z</li></ul>]]></content:encoded>
+      <guid isPermaLink="false">https://github.com/anying1073/StarResonanceDps</guid>
+      <pubDate>Sun, 02 Nov 2025 07:49:41 +0000</pubDate>
     </item>
   </channel>
 </rss>

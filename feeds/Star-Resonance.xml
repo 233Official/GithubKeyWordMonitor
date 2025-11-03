@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 02 Nov 2025 00:26:16 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Nov 2025 00:26:20 +0000</lastBuildDate>
     <item>
       <title>YoramCriel/Star-Resonance</title>
       <link>https://github.com/YoramCriel/Star-Resonance</link>
@@ -109,12 +109,12 @@ Updated: 2025-10-18T08:00:10Z</description>
       <title>asgharkapk/Star-Resonance-GitHub-Projects</title>
       <link>https://github.com/asgharkapk/Star-Resonance-GitHub-Projects</link>
       <description>A compilation of open-source projects for Star Resonance (Blue Protocol). These tools cover DPS meters, overlays, bots, asset extraction, and community utilities. Use responsibly and follow the game’s terms of service.
-Stars: 16
+Stars: 19
 Language: N/A
-Updated: 2025-10-31T11:30:31Z</description>
-      <content:encoded><![CDATA[<p>A compilation of open-source projects for Star Resonance (Blue Protocol). These tools cover DPS meters, overlays, bots, asset extraction, and community utilities. Use responsibly and follow the game’s terms of service.</p><ul><li><strong>Stars:</strong> 16</li><li><strong>Language:</strong> N/A</li><li><strong>Updated:</strong> 2025-10-31T11:30:31Z</li></ul>]]></content:encoded>
+Updated: 2025-11-02T17:29:36Z</description>
+      <content:encoded><![CDATA[<p>A compilation of open-source projects for Star Resonance (Blue Protocol). These tools cover DPS meters, overlays, bots, asset extraction, and community utilities. Use responsibly and follow the game’s terms of service.</p><ul><li><strong>Stars:</strong> 19</li><li><strong>Language:</strong> N/A</li><li><strong>Updated:</strong> 2025-11-02T17:29:36Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/asgharkapk/Star-Resonance-GitHub-Projects</guid>
-      <pubDate>Fri, 31 Oct 2025 11:30:31 +0000</pubDate>
+      <pubDate>Sun, 02 Nov 2025 17:29:36 +0000</pubDate>
     </item>
     <item>
       <title>asgharkapk/star-resonance-crafting-database</title>
