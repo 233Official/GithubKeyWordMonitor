@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 04 Nov 2025 00:24:45 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Nov 2025 00:25:30 +0000</lastBuildDate>
     <item>
       <title>Icebear-Z/StarResonanceDamageCounter-Client</title>
       <link>https://github.com/Icebear-Z/StarResonanceDamageCounter-Client</link>
@@ -33,12 +33,12 @@ Updated: 2025-08-05T03:43:35Z</description>
     <item>
       <title>Bluefissure/StarResonanceACTPlugin</title>
       <link>https://github.com/Bluefissure/StarResonanceACTPlugin</link>
-      <description>Stars: 3
+      <description>Stars: 4
 Language: C#
-Updated: 2025-11-03T12:21:27Z</description>
-      <content:encoded><![CDATA[<ul><li><strong>Stars:</strong> 3</li><li><strong>Language:</strong> C#</li><li><strong>Updated:</strong> 2025-11-03T12:21:27Z</li></ul>]]></content:encoded>
+Updated: 2025-11-04T12:28:15Z</description>
+      <content:encoded><![CDATA[<ul><li><strong>Stars:</strong> 4</li><li><strong>Language:</strong> C#</li><li><strong>Updated:</strong> 2025-11-04T12:28:15Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/Bluefissure/StarResonanceACTPlugin</guid>
-      <pubDate>Mon, 03 Nov 2025 12:21:27 +0000</pubDate>
+      <pubDate>Tue, 04 Nov 2025 12:28:15 +0000</pubDate>
     </item>
     <item>
       <title>CKylinMC/StarResonanceDamageCounterOverlay</title>
@@ -238,12 +238,12 @@ Updated: 2025-10-25T05:59:27Z</description>
       <title>balrogsxt/StarResonanceAPI</title>
       <link>https://github.com/balrogsxt/StarResonanceAPI</link>
       <description>基于StarResonanceDamageCounter实现的网络抓包提供一些星痕共鸣扩展API详细数据
-Stars: 8
+Stars: 9
 Language: Go
-Updated: 2025-10-25T08:39:16Z</description>
-      <content:encoded><![CDATA[<p>基于StarResonanceDamageCounter实现的网络抓包提供一些星痕共鸣扩展API详细数据</p><ul><li><strong>Stars:</strong> 8</li><li><strong>Language:</strong> Go</li><li><strong>Updated:</strong> 2025-10-25T08:39:16Z</li></ul>]]></content:encoded>
+Updated: 2025-11-04T16:19:37Z</description>
+      <content:encoded><![CDATA[<p>基于StarResonanceDamageCounter实现的网络抓包提供一些星痕共鸣扩展API详细数据</p><ul><li><strong>Stars:</strong> 9</li><li><strong>Language:</strong> Go</li><li><strong>Updated:</strong> 2025-11-04T16:19:37Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/balrogsxt/StarResonanceAPI</guid>
-      <pubDate>Sat, 25 Oct 2025 08:39:16 +0000</pubDate>
+      <pubDate>Tue, 04 Nov 2025 16:19:37 +0000</pubDate>
     </item>
     <item>
       <title>Xuan-cc/ShiroFisher-StarResonanceSmartFishing</title>
@@ -270,12 +270,12 @@ Updated: 2025-11-03T18:27:31Z</description>
       <title>dmlgzs/StarResonanceDamageCounter</title>
       <link>https://github.com/dmlgzs/StarResonanceDamageCounter</link>
       <description>Damage Counter for Star Resonance
-Stars: 253
+Stars: 254
 Language: JavaScript
-Updated: 2025-11-03T07:49:09Z</description>
-      <content:encoded><![CDATA[<p>Damage Counter for Star Resonance</p><ul><li><strong>Stars:</strong> 253</li><li><strong>Language:</strong> JavaScript</li><li><strong>Updated:</strong> 2025-11-03T07:49:09Z</li></ul>]]></content:encoded>
+Updated: 2025-11-04T09:49:39Z</description>
+      <content:encoded><![CDATA[<p>Damage Counter for Star Resonance</p><ul><li><strong>Stars:</strong> 254</li><li><strong>Language:</strong> JavaScript</li><li><strong>Updated:</strong> 2025-11-04T09:49:39Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/dmlgzs/StarResonanceDamageCounter</guid>
-      <pubDate>Mon, 03 Nov 2025 07:49:09 +0000</pubDate>
+      <pubDate>Tue, 04 Nov 2025 09:49:39 +0000</pubDate>
     </item>
     <item>
       <title>josilo/StarResonanceOptimizer</title>

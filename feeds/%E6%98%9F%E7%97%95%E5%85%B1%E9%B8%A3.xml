@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 04 Nov 2025 00:24:45 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Nov 2025 00:25:30 +0000</lastBuildDate>
     <item>
       <title>Nemoxxxxx/-</title>
       <link>https://github.com/Nemoxxxxx/-</link>
@@ -45,12 +45,12 @@ Updated: 2025-08-21T01:22:37Z</description>
       <title>TScci/MaaStarResonance</title>
       <link>https://github.com/TScci/MaaStarResonance</link>
       <description>星痕共鸣小助手。图像识别+模拟控制，由 MaaFramework强力驱动。
-Stars: 13
+Stars: 12
 Language: Python
-Updated: 2025-09-14T02:50:58Z</description>
-      <content:encoded><![CDATA[<p>星痕共鸣小助手。图像识别+模拟控制，由 MaaFramework强力驱动。</p><ul><li><strong>Stars:</strong> 13</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2025-09-14T02:50:58Z</li></ul>]]></content:encoded>
+Updated: 2025-11-04T16:17:25Z</description>
+      <content:encoded><![CDATA[<p>星痕共鸣小助手。图像识别+模拟控制，由 MaaFramework强力驱动。</p><ul><li><strong>Stars:</strong> 12</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2025-11-04T16:17:25Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/TScci/MaaStarResonance</guid>
-      <pubDate>Sun, 14 Sep 2025 02:50:58 +0000</pubDate>
+      <pubDate>Tue, 04 Nov 2025 16:17:25 +0000</pubDate>
     </item>
     <item>
       <title>xxfttkx/auto_click</title>
@@ -232,12 +232,12 @@ Updated: 2025-10-20T02:12:54Z</description>
       <title>balrogsxt/StarResonanceAPI</title>
       <link>https://github.com/balrogsxt/StarResonanceAPI</link>
       <description>基于StarResonanceDamageCounter实现的网络抓包提供一些星痕共鸣扩展API详细数据
-Stars: 8
+Stars: 9
 Language: Go
-Updated: 2025-10-25T08:39:16Z</description>
-      <content:encoded><![CDATA[<p>基于StarResonanceDamageCounter实现的网络抓包提供一些星痕共鸣扩展API详细数据</p><ul><li><strong>Stars:</strong> 8</li><li><strong>Language:</strong> Go</li><li><strong>Updated:</strong> 2025-10-25T08:39:16Z</li></ul>]]></content:encoded>
+Updated: 2025-11-04T16:19:37Z</description>
+      <content:encoded><![CDATA[<p>基于StarResonanceDamageCounter实现的网络抓包提供一些星痕共鸣扩展API详细数据</p><ul><li><strong>Stars:</strong> 9</li><li><strong>Language:</strong> Go</li><li><strong>Updated:</strong> 2025-11-04T16:19:37Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/balrogsxt/StarResonanceAPI</guid>
-      <pubDate>Sat, 25 Oct 2025 08:39:16 +0000</pubDate>
+      <pubDate>Tue, 04 Nov 2025 16:19:37 +0000</pubDate>
     </item>
     <item>
       <title>Xuan-cc/ShiroFisher-StarResonanceSmartFishing</title>
@@ -295,26 +295,26 @@ Updated: 2025-11-03T13:04:51Z</description>
       <pubDate>Mon, 03 Nov 2025 13:04:51 +0000</pubDate>
     </item>
     <item>
+      <title>233Official/MaaStarResonance</title>
+      <link>https://github.com/233Official/MaaStarResonance</link>
+      <description>基于MAAFW的星痕共鸣黑盒测试工具
+Stars: 4
+Language: Python
+Updated: 2025-11-04T15:53:04Z</description>
+      <content:encoded><![CDATA[<p>基于MAAFW的星痕共鸣黑盒测试工具</p><ul><li><strong>Stars:</strong> 4</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2025-11-04T15:53:04Z</li></ul>]]></content:encoded>
+      <guid isPermaLink="false">https://github.com/233Official/MaaStarResonance</guid>
+      <pubDate>Tue, 04 Nov 2025 15:53:04 +0000</pubDate>
+    </item>
+    <item>
       <title>Sanheiii/ok-star-resonance</title>
       <link>https://github.com/Sanheiii/ok-star-resonance</link>
       <description>基于ok-script的星痕共鸣自动工具
 Stars: 77
 Language: Python
-Updated: 2025-11-03T19:03:58Z</description>
-      <content:encoded><![CDATA[<p>基于ok-script的星痕共鸣自动工具</p><ul><li><strong>Stars:</strong> 77</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2025-11-03T19:03:58Z</li></ul>]]></content:encoded>
+Updated: 2025-11-04T16:35:31Z</description>
+      <content:encoded><![CDATA[<p>基于ok-script的星痕共鸣自动工具</p><ul><li><strong>Stars:</strong> 77</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2025-11-04T16:35:31Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/Sanheiii/ok-star-resonance</guid>
-      <pubDate>Mon, 03 Nov 2025 19:03:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>233Official/MaaStarResonance</title>
-      <link>https://github.com/233Official/MaaStarResonance</link>
-      <description>基于MAAFW的星痕共鸣黑盒测试工具
-Stars: 0
-Language: Python
-Updated: 2025-11-03T19:07:16Z</description>
-      <content:encoded><![CDATA[<p>基于MAAFW的星痕共鸣黑盒测试工具</p><ul><li><strong>Stars:</strong> 0</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2025-11-03T19:07:16Z</li></ul>]]></content:encoded>
-      <guid isPermaLink="false">https://github.com/233Official/MaaStarResonance</guid>
-      <pubDate>Mon, 03 Nov 2025 19:07:16 +0000</pubDate>
+      <pubDate>Tue, 04 Nov 2025 16:35:31 +0000</pubDate>
     </item>
   </channel>
 </rss>
