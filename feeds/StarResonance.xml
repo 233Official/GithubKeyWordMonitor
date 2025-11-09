@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 08 Nov 2025 00:22:58 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Nov 2025 00:26:46 +0000</lastBuildDate>
     <item>
       <title>Icebear-Z/StarResonanceDamageCounter-Client</title>
       <link>https://github.com/Icebear-Z/StarResonanceDamageCounter-Client</link>
@@ -246,16 +246,6 @@ Updated: 2025-11-02T15:04:55Z</description>
       <pubDate>Sun, 02 Nov 2025 15:04:55 +0000</pubDate>
     </item>
     <item>
-      <title>anying1073/StarResonanceDps</title>
-      <link>https://github.com/anying1073/StarResonanceDps</link>
-      <description>Stars: 49
-Language: C#
-Updated: 2025-11-03T18:27:31Z</description>
-      <content:encoded><![CDATA[<ul><li><strong>Stars:</strong> 49</li><li><strong>Language:</strong> C#</li><li><strong>Updated:</strong> 2025-11-03T18:27:31Z</li></ul>]]></content:encoded>
-      <guid isPermaLink="false">https://github.com/anying1073/StarResonanceDps</guid>
-      <pubDate>Mon, 03 Nov 2025 18:27:31 +0000</pubDate>
-    </item>
-    <item>
       <title>josilo/StarResonanceOptimizer</title>
       <link>https://github.com/josilo/StarResonanceOptimizer</link>
       <description>Stars: 0
@@ -286,6 +276,16 @@ Updated: 2025-11-07T13:35:27Z</description>
       <content:encoded><![CDATA[<p>Damage Counter for Star Resonance</p><ul><li><strong>Stars:</strong> 255</li><li><strong>Language:</strong> JavaScript</li><li><strong>Updated:</strong> 2025-11-07T13:35:27Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/dmlgzs/StarResonanceDamageCounter</guid>
       <pubDate>Fri, 07 Nov 2025 13:35:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>anying1073/StarResonanceDps</title>
+      <link>https://github.com/anying1073/StarResonanceDps</link>
+      <description>Stars: 50
+Language: C#
+Updated: 2025-11-08T22:03:15Z</description>
+      <content:encoded><![CDATA[<ul><li><strong>Stars:</strong> 50</li><li><strong>Language:</strong> C#</li><li><strong>Updated:</strong> 2025-11-08T22:03:15Z</li></ul>]]></content:encoded>
+      <guid isPermaLink="false">https://github.com/anying1073/StarResonanceDps</guid>
+      <pubDate>Sat, 08 Nov 2025 22:03:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
