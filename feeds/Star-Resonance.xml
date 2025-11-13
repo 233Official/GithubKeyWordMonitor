@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 12 Nov 2025 00:24:46 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Nov 2025 00:24:47 +0000</lastBuildDate>
     <item>
       <title>YoramCriel/Star-Resonance</title>
       <link>https://github.com/YoramCriel/Star-Resonance</link>
@@ -131,23 +131,23 @@ Updated: 2025-11-11T04:02:29Z</description>
       <title>Sanheiii/ok-star-resonance</title>
       <link>https://github.com/Sanheiii/ok-star-resonance</link>
       <description>基于ok-script的星痕共鸣自动工具
-Stars: 82
+Stars: 83
 Language: Python
-Updated: 2025-11-11T08:32:04Z</description>
-      <content:encoded><![CDATA[<p>基于ok-script的星痕共鸣自动工具</p><ul><li><strong>Stars:</strong> 82</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2025-11-11T08:32:04Z</li></ul>]]></content:encoded>
+Updated: 2025-11-12T19:49:12Z</description>
+      <content:encoded><![CDATA[<p>基于ok-script的星痕共鸣自动工具</p><ul><li><strong>Stars:</strong> 83</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2025-11-12T19:49:12Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/Sanheiii/ok-star-resonance</guid>
-      <pubDate>Tue, 11 Nov 2025 08:32:04 +0000</pubDate>
+      <pubDate>Wed, 12 Nov 2025 19:49:12 +0000</pubDate>
     </item>
     <item>
       <title>asgharkapk/star-resonance-module-optimizer</title>
       <link>https://github.com/asgharkapk/star-resonance-module-optimizer</link>
       <description>Web-based Blue Protocol module calculator. Import CSVs, edit stats, and find the best module combinations with color-coded levels and icon support.Calculate and optimize your Blue Protocol module setups. Supports CSV import/export, dynamic stat editing, best combo calculation (total, highest, balanced), and stat icons for easy visualization.
-Stars: 0
+Stars: 1
 Language: HTML
-Updated: 2025-11-11T13:39:07Z</description>
-      <content:encoded><![CDATA[<p>Web-based Blue Protocol module calculator. Import CSVs, edit stats, and find the best module combinations with color-coded levels and icon support.Calculate and optimize your Blue Protocol module setups. Supports CSV import/export, dynamic stat editing, best combo calculation (total, highest, balanced), and stat icons for easy visualization.</p><ul><li><strong>Stars:</strong> 0</li><li><strong>Language:</strong> HTML</li><li><strong>Updated:</strong> 2025-11-11T13:39:07Z</li></ul>]]></content:encoded>
+Updated: 2025-11-12T17:26:02Z</description>
+      <content:encoded><![CDATA[<p>Web-based Blue Protocol module calculator. Import CSVs, edit stats, and find the best module combinations with color-coded levels and icon support.Calculate and optimize your Blue Protocol module setups. Supports CSV import/export, dynamic stat editing, best combo calculation (total, highest, balanced), and stat icons for easy visualization.</p><ul><li><strong>Stars:</strong> 1</li><li><strong>Language:</strong> HTML</li><li><strong>Updated:</strong> 2025-11-12T17:26:02Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/asgharkapk/star-resonance-module-optimizer</guid>
-      <pubDate>Tue, 11 Nov 2025 13:39:07 +0000</pubDate>
+      <pubDate>Wed, 12 Nov 2025 17:26:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
