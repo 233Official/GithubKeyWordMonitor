@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 14 Nov 2025 00:25:30 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Nov 2025 00:24:05 +0000</lastBuildDate>
     <item>
       <title>[Star-Resonance] YoramCriel/Star-Resonance</title>
       <link>https://github.com/YoramCriel/Star-Resonance</link>
@@ -120,23 +120,23 @@ Updated: 2025-11-04T15:24:11Z</description>
       <title>[Star-Resonance] Sanheiii/ok-star-resonance</title>
       <link>https://github.com/Sanheiii/ok-star-resonance</link>
       <description>基于ok-script的星痕共鸣自动工具
-Stars: 83
+Stars: 85
 Language: Python
-Updated: 2025-11-13T05:45:48Z</description>
-      <content:encoded><![CDATA[<p>基于ok-script的星痕共鸣自动工具</p><ul><li><strong>Stars:</strong> 83</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2025-11-13T05:45:48Z</li></ul>]]></content:encoded>
+Updated: 2025-11-14T09:18:44Z</description>
+      <content:encoded><![CDATA[<p>基于ok-script的星痕共鸣自动工具</p><ul><li><strong>Stars:</strong> 85</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2025-11-14T09:18:44Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/Sanheiii/ok-star-resonance</guid>
-      <pubDate>Thu, 13 Nov 2025 05:45:48 +0000</pubDate>
+      <pubDate>Fri, 14 Nov 2025 09:18:44 +0000</pubDate>
     </item>
     <item>
       <title>[Star-Resonance] asgharkapk/Star-Resonance-GitHub-Projects</title>
       <link>https://github.com/asgharkapk/Star-Resonance-GitHub-Projects</link>
       <description>A compilation of open-source projects for Star Resonance (Blue Protocol). These tools cover DPS meters, overlays, bots, asset extraction, and community utilities. Use responsibly and follow the game’s terms of service.
-Stars: 27
+Stars: 28
 Language: HTML
-Updated: 2025-11-13T13:01:39Z</description>
-      <content:encoded><![CDATA[<p>A compilation of open-source projects for Star Resonance (Blue Protocol). These tools cover DPS meters, overlays, bots, asset extraction, and community utilities. Use responsibly and follow the game’s terms of service.</p><ul><li><strong>Stars:</strong> 27</li><li><strong>Language:</strong> HTML</li><li><strong>Updated:</strong> 2025-11-13T13:01:39Z</li></ul>]]></content:encoded>
+Updated: 2025-11-14T15:39:57Z</description>
+      <content:encoded><![CDATA[<p>A compilation of open-source projects for Star Resonance (Blue Protocol). These tools cover DPS meters, overlays, bots, asset extraction, and community utilities. Use responsibly and follow the game’s terms of service.</p><ul><li><strong>Stars:</strong> 28</li><li><strong>Language:</strong> HTML</li><li><strong>Updated:</strong> 2025-11-14T15:39:57Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/asgharkapk/Star-Resonance-GitHub-Projects</guid>
-      <pubDate>Thu, 13 Nov 2025 13:01:39 +0000</pubDate>
+      <pubDate>Fri, 14 Nov 2025 15:39:57 +0000</pubDate>
     </item>
     <item>
       <title>[Star-Resonance] asgharkapk/star-resonance-module-optimizer</title>
@@ -282,12 +282,12 @@ Updated: 2025-08-22T11:26:40Z</description>
       <title>[StarResonance] HuaChunOXO/StarResonanceModuleSolver</title>
       <link>https://github.com/HuaChunOXO/StarResonanceModuleSolver</link>
       <description>星痕共鸣模组求解器
-Stars: 7
+Stars: 8
 Language: Python
-Updated: 2025-10-03T11:56:42Z</description>
-      <content:encoded><![CDATA[<p>星痕共鸣模组求解器</p><ul><li><strong>Stars:</strong> 7</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2025-10-03T11:56:42Z</li></ul>]]></content:encoded>
+Updated: 2025-11-14T11:24:09Z</description>
+      <content:encoded><![CDATA[<p>星痕共鸣模组求解器</p><ul><li><strong>Stars:</strong> 8</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2025-11-14T11:24:09Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/HuaChunOXO/StarResonanceModuleSolver</guid>
-      <pubDate>Fri, 03 Oct 2025 11:56:42 +0000</pubDate>
+      <pubDate>Fri, 14 Nov 2025 11:24:09 +0000</pubDate>
     </item>
     <item>
       <title>[StarResonance] xxfttkx/StarResonanceEnemyCapture</title>
@@ -400,12 +400,12 @@ Updated: 2025-11-03T17:48:02Z</description>
       <title>[StarResonance] dmlgzs/StarResonanceDamageCounter</title>
       <link>https://github.com/dmlgzs/StarResonanceDamageCounter</link>
       <description>Damage Counter for Star Resonance
-Stars: 255
+Stars: 257
 Language: JavaScript
-Updated: 2025-11-07T13:35:27Z</description>
-      <content:encoded><![CDATA[<p>Damage Counter for Star Resonance</p><ul><li><strong>Stars:</strong> 255</li><li><strong>Language:</strong> JavaScript</li><li><strong>Updated:</strong> 2025-11-07T13:35:27Z</li></ul>]]></content:encoded>
+Updated: 2025-11-14T22:27:12Z</description>
+      <content:encoded><![CDATA[<p>Damage Counter for Star Resonance</p><ul><li><strong>Stars:</strong> 257</li><li><strong>Language:</strong> JavaScript</li><li><strong>Updated:</strong> 2025-11-14T22:27:12Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/dmlgzs/StarResonanceDamageCounter</guid>
-      <pubDate>Fri, 07 Nov 2025 13:35:27 +0000</pubDate>
+      <pubDate>Fri, 14 Nov 2025 22:27:12 +0000</pubDate>
     </item>
     <item>
       <title>[StarResonance] fudiyangjin/StarResonanceAutoMod</title>
@@ -433,10 +433,10 @@ Updated: 2025-11-13T09:08:16Z</description>
       <link>https://github.com/anying1073/StarResonanceDps</link>
       <description>Stars: 52
 Language: C#
-Updated: 2025-11-13T10:39:41Z</description>
-      <content:encoded><![CDATA[<ul><li><strong>Stars:</strong> 52</li><li><strong>Language:</strong> C#</li><li><strong>Updated:</strong> 2025-11-13T10:39:41Z</li></ul>]]></content:encoded>
+Updated: 2025-11-14T06:46:31Z</description>
+      <content:encoded><![CDATA[<ul><li><strong>Stars:</strong> 52</li><li><strong>Language:</strong> C#</li><li><strong>Updated:</strong> 2025-11-14T06:46:31Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/anying1073/StarResonanceDps</guid>
-      <pubDate>Thu, 13 Nov 2025 10:39:41 +0000</pubDate>
+      <pubDate>Fri, 14 Nov 2025 06:46:31 +0000</pubDate>
     </item>
     <item>
       <title>[星痕共鸣] Nemoxxxxx/-</title>
@@ -585,12 +585,12 @@ Updated: 2025-09-22T10:55:46Z</description>
       <title>[星痕共鸣] HuaChunOXO/StarResonanceModuleSolver</title>
       <link>https://github.com/HuaChunOXO/StarResonanceModuleSolver</link>
       <description>星痕共鸣模组求解器
-Stars: 7
+Stars: 8
 Language: Python
-Updated: 2025-10-03T11:56:42Z</description>
-      <content:encoded><![CDATA[<p>星痕共鸣模组求解器</p><ul><li><strong>Stars:</strong> 7</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2025-10-03T11:56:42Z</li></ul>]]></content:encoded>
+Updated: 2025-11-14T11:24:09Z</description>
+      <content:encoded><![CDATA[<p>星痕共鸣模组求解器</p><ul><li><strong>Stars:</strong> 8</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2025-11-14T11:24:09Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/HuaChunOXO/StarResonanceModuleSolver</guid>
-      <pubDate>Fri, 03 Oct 2025 11:56:42 +0000</pubDate>
+      <pubDate>Fri, 14 Nov 2025 11:24:09 +0000</pubDate>
     </item>
     <item>
       <title>[星痕共鸣] EricHongXDD/nonebot-activity-reminder-pic</title>
@@ -728,12 +728,12 @@ Updated: 2025-11-12T10:38:38Z</description>
       <title>[星痕共鸣] Sanheiii/ok-star-resonance</title>
       <link>https://github.com/Sanheiii/ok-star-resonance</link>
       <description>基于ok-script的星痕共鸣自动工具
-Stars: 83
+Stars: 85
 Language: Python
-Updated: 2025-11-13T05:45:48Z</description>
-      <content:encoded><![CDATA[<p>基于ok-script的星痕共鸣自动工具</p><ul><li><strong>Stars:</strong> 83</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2025-11-13T05:45:48Z</li></ul>]]></content:encoded>
+Updated: 2025-11-14T09:18:44Z</description>
+      <content:encoded><![CDATA[<p>基于ok-script的星痕共鸣自动工具</p><ul><li><strong>Stars:</strong> 85</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2025-11-14T09:18:44Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/Sanheiii/ok-star-resonance</guid>
-      <pubDate>Thu, 13 Nov 2025 05:45:48 +0000</pubDate>
+      <pubDate>Fri, 14 Nov 2025 09:18:44 +0000</pubDate>
     </item>
     <item>
       <title>[星痕共鸣] 233Official/MaaStarResonance</title>
