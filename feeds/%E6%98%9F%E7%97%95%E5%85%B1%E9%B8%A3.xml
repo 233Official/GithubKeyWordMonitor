@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 15 Nov 2025 00:24:05 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Nov 2025 00:26:53 +0000</lastBuildDate>
     <item>
       <title>Nemoxxxxx/-</title>
       <link>https://github.com/Nemoxxxxx/-</link>
@@ -221,12 +221,12 @@ Updated: 2025-10-20T02:12:54Z</description>
       <title>balrogsxt/StarResonanceAPI</title>
       <link>https://github.com/balrogsxt/StarResonanceAPI</link>
       <description>基于StarResonanceDamageCounter实现的网络抓包提供一些星痕共鸣扩展API详细数据
-Stars: 9
+Stars: 10
 Language: Go
-Updated: 2025-11-04T16:19:37Z</description>
-      <content:encoded><![CDATA[<p>基于StarResonanceDamageCounter实现的网络抓包提供一些星痕共鸣扩展API详细数据</p><ul><li><strong>Stars:</strong> 9</li><li><strong>Language:</strong> Go</li><li><strong>Updated:</strong> 2025-11-04T16:19:37Z</li></ul>]]></content:encoded>
+Updated: 2025-11-15T13:41:35Z</description>
+      <content:encoded><![CDATA[<p>基于StarResonanceDamageCounter实现的网络抓包提供一些星痕共鸣扩展API详细数据</p><ul><li><strong>Stars:</strong> 10</li><li><strong>Language:</strong> Go</li><li><strong>Updated:</strong> 2025-11-15T13:41:35Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/balrogsxt/StarResonanceAPI</guid>
-      <pubDate>Tue, 04 Nov 2025 16:19:37 +0000</pubDate>
+      <pubDate>Sat, 15 Nov 2025 13:41:35 +0000</pubDate>
     </item>
     <item>
       <title>Xuan-cc/ShiroFisher-StarResonanceSmartFishing</title>
@@ -243,12 +243,12 @@ Updated: 2025-11-02T15:04:55Z</description>
       <title>balrogsxt/StarBox</title>
       <link>https://github.com/balrogsxt/StarBox</link>
       <description>星盒-支持星痕共鸣自动钓鱼、自动采集、一键连招、职业天赋切换、自动副本、自动肉鸽、自动分解、顺线BOSS等功能
-Stars: 28
+Stars: 29
 Language: N/A
-Updated: 2025-11-06T23:55:15Z</description>
-      <content:encoded><![CDATA[<p>星盒-支持星痕共鸣自动钓鱼、自动采集、一键连招、职业天赋切换、自动副本、自动肉鸽、自动分解、顺线BOSS等功能</p><ul><li><strong>Stars:</strong> 28</li><li><strong>Language:</strong> N/A</li><li><strong>Updated:</strong> 2025-11-06T23:55:15Z</li></ul>]]></content:encoded>
+Updated: 2025-11-15T21:54:29Z</description>
+      <content:encoded><![CDATA[<p>星盒-支持星痕共鸣自动钓鱼、自动采集、一键连招、职业天赋切换、自动副本、自动肉鸽、自动分解、顺线BOSS等功能</p><ul><li><strong>Stars:</strong> 29</li><li><strong>Language:</strong> N/A</li><li><strong>Updated:</strong> 2025-11-15T21:54:29Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/balrogsxt/StarBox</guid>
-      <pubDate>Thu, 06 Nov 2025 23:55:15 +0000</pubDate>
+      <pubDate>Sat, 15 Nov 2025 21:54:29 +0000</pubDate>
     </item>
     <item>
       <title>xxfttkx/auto_fish</title>
@@ -265,12 +265,12 @@ Updated: 2025-10-31T03:21:13Z</description>
       <title>VanillaIceCreams/AutoFuckBKLGetDress</title>
       <link>https://github.com/VanillaIceCreams/AutoFuckBKLGetDress</link>
       <description>星痕共鸣自动普本
-Stars: 15
+Stars: 16
 Language: Python
-Updated: 2025-11-12T19:49:08Z</description>
-      <content:encoded><![CDATA[<p>星痕共鸣自动普本</p><ul><li><strong>Stars:</strong> 15</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2025-11-12T19:49:08Z</li></ul>]]></content:encoded>
+Updated: 2025-11-15T21:51:15Z</description>
+      <content:encoded><![CDATA[<p>星痕共鸣自动普本</p><ul><li><strong>Stars:</strong> 16</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2025-11-15T21:51:15Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/VanillaIceCreams/AutoFuckBKLGetDress</guid>
-      <pubDate>Wed, 12 Nov 2025 19:49:08 +0000</pubDate>
+      <pubDate>Sat, 15 Nov 2025 21:51:15 +0000</pubDate>
     </item>
     <item>
       <title>DarylLi/mika-star-fishing-py</title>
@@ -309,12 +309,12 @@ Updated: 2025-11-14T09:18:44Z</description>
       <title>233Official/MaaStarResonance</title>
       <link>https://github.com/233Official/MaaStarResonance</link>
       <description>基于MAAFW的星痕共鸣黑盒测试工具
-Stars: 5
+Stars: 6
 Language: Python
-Updated: 2025-11-13T06:16:23Z</description>
-      <content:encoded><![CDATA[<p>基于MAAFW的星痕共鸣黑盒测试工具</p><ul><li><strong>Stars:</strong> 5</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2025-11-13T06:16:23Z</li></ul>]]></content:encoded>
+Updated: 2025-11-15T18:29:54Z</description>
+      <content:encoded><![CDATA[<p>基于MAAFW的星痕共鸣黑盒测试工具</p><ul><li><strong>Stars:</strong> 6</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2025-11-15T18:29:54Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/233Official/MaaStarResonance</guid>
-      <pubDate>Thu, 13 Nov 2025 06:16:23 +0000</pubDate>
+      <pubDate>Sat, 15 Nov 2025 18:29:54 +0000</pubDate>
     </item>
   </channel>
 </rss>

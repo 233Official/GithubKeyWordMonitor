@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 15 Nov 2025 00:24:05 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Nov 2025 00:26:53 +0000</lastBuildDate>
     <item>
       <title>YoramCriel/Star-Resonance</title>
       <link>https://github.com/YoramCriel/Star-Resonance</link>
@@ -95,17 +95,6 @@ Updated: 2025-10-18T08:00:10Z</description>
       <pubDate>Sat, 18 Oct 2025 08:00:10 +0000</pubDate>
     </item>
     <item>
-      <title>asgharkapk/star-resonance-crafting-database</title>
-      <link>https://github.com/asgharkapk/star-resonance-crafting-database</link>
-      <description>Community-driven dataset for Star Resonance life skills, crafting materials, and currency costs (Focus, Luno, Homestead). Includes mining, crafting, and vendor prices from CN and EN sources. Star Resonance life skill &amp; crafting data: materials, Focus cost, and currency prices.
-Stars: 2
-Language: HTML
-Updated: 2025-10-29T13:04:45Z</description>
-      <content:encoded><![CDATA[<p>Community-driven dataset for Star Resonance life skills, crafting materials, and currency costs (Focus, Luno, Homestead). Includes mining, crafting, and vendor prices from CN and EN sources. Star Resonance life skill &amp; crafting data: materials, Focus cost, and currency prices.</p><ul><li><strong>Stars:</strong> 2</li><li><strong>Language:</strong> HTML</li><li><strong>Updated:</strong> 2025-10-29T13:04:45Z</li></ul>]]></content:encoded>
-      <guid isPermaLink="false">https://github.com/asgharkapk/star-resonance-crafting-database</guid>
-      <pubDate>Wed, 29 Oct 2025 13:04:45 +0000</pubDate>
-    </item>
-    <item>
       <title>26F-Studio/maa-star-resonance</title>
       <link>https://github.com/26F-Studio/maa-star-resonance</link>
       <description>A Star Resonance helper powered by Quasar and MAA frameworks
@@ -131,12 +120,23 @@ Updated: 2025-11-14T09:18:44Z</description>
       <title>asgharkapk/Star-Resonance-GitHub-Projects</title>
       <link>https://github.com/asgharkapk/Star-Resonance-GitHub-Projects</link>
       <description>A compilation of open-source projects for Star Resonance (Blue Protocol). These tools cover DPS meters, overlays, bots, asset extraction, and community utilities. Use responsibly and follow the game’s terms of service.
-Stars: 28
+Stars: 29
 Language: HTML
-Updated: 2025-11-14T15:39:57Z</description>
-      <content:encoded><![CDATA[<p>A compilation of open-source projects for Star Resonance (Blue Protocol). These tools cover DPS meters, overlays, bots, asset extraction, and community utilities. Use responsibly and follow the game’s terms of service.</p><ul><li><strong>Stars:</strong> 28</li><li><strong>Language:</strong> HTML</li><li><strong>Updated:</strong> 2025-11-14T15:39:57Z</li></ul>]]></content:encoded>
+Updated: 2025-11-15T13:33:25Z</description>
+      <content:encoded><![CDATA[<p>A compilation of open-source projects for Star Resonance (Blue Protocol). These tools cover DPS meters, overlays, bots, asset extraction, and community utilities. Use responsibly and follow the game’s terms of service.</p><ul><li><strong>Stars:</strong> 29</li><li><strong>Language:</strong> HTML</li><li><strong>Updated:</strong> 2025-11-15T13:33:25Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/asgharkapk/Star-Resonance-GitHub-Projects</guid>
-      <pubDate>Fri, 14 Nov 2025 15:39:57 +0000</pubDate>
+      <pubDate>Sat, 15 Nov 2025 13:33:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>asgharkapk/star-resonance-crafting-database</title>
+      <link>https://github.com/asgharkapk/star-resonance-crafting-database</link>
+      <description>Community-driven dataset for Star Resonance life skills, crafting materials, and currency costs (Focus, Luno, Homestead). Includes mining, crafting, and vendor prices from CN and EN sources. Star Resonance life skill &amp; crafting data: materials, Focus cost, and currency prices.
+Stars: 2
+Language: HTML
+Updated: 2025-11-15T06:31:01Z</description>
+      <content:encoded><![CDATA[<p>Community-driven dataset for Star Resonance life skills, crafting materials, and currency costs (Focus, Luno, Homestead). Includes mining, crafting, and vendor prices from CN and EN sources. Star Resonance life skill &amp; crafting data: materials, Focus cost, and currency prices.</p><ul><li><strong>Stars:</strong> 2</li><li><strong>Language:</strong> HTML</li><li><strong>Updated:</strong> 2025-11-15T06:31:01Z</li></ul>]]></content:encoded>
+      <guid isPermaLink="false">https://github.com/asgharkapk/star-resonance-crafting-database</guid>
+      <pubDate>Sat, 15 Nov 2025 06:31:01 +0000</pubDate>
     </item>
     <item>
       <title>asgharkapk/star-resonance-module-optimizer</title>
@@ -144,10 +144,10 @@ Updated: 2025-11-14T15:39:57Z</description>
       <description>Web-based Blue Protocol module calculator. Import CSVs, edit stats, and find the best module combinations with color-coded levels and icon support.Calculate and optimize your Blue Protocol module setups. Supports CSV import/export, dynamic stat editing, best combo calculation (total, highest, balanced), and stat icons for easy visualization.
 Stars: 2
 Language: HTML
-Updated: 2025-11-13T14:47:25Z</description>
-      <content:encoded><![CDATA[<p>Web-based Blue Protocol module calculator. Import CSVs, edit stats, and find the best module combinations with color-coded levels and icon support.Calculate and optimize your Blue Protocol module setups. Supports CSV import/export, dynamic stat editing, best combo calculation (total, highest, balanced), and stat icons for easy visualization.</p><ul><li><strong>Stars:</strong> 2</li><li><strong>Language:</strong> HTML</li><li><strong>Updated:</strong> 2025-11-13T14:47:25Z</li></ul>]]></content:encoded>
+Updated: 2025-11-15T13:25:07Z</description>
+      <content:encoded><![CDATA[<p>Web-based Blue Protocol module calculator. Import CSVs, edit stats, and find the best module combinations with color-coded levels and icon support.Calculate and optimize your Blue Protocol module setups. Supports CSV import/export, dynamic stat editing, best combo calculation (total, highest, balanced), and stat icons for easy visualization.</p><ul><li><strong>Stars:</strong> 2</li><li><strong>Language:</strong> HTML</li><li><strong>Updated:</strong> 2025-11-15T13:25:07Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/asgharkapk/star-resonance-module-optimizer</guid>
-      <pubDate>Thu, 13 Nov 2025 14:47:25 +0000</pubDate>
+      <pubDate>Sat, 15 Nov 2025 13:25:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
