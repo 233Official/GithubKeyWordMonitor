@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 16 Nov 2025 00:26:53 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Nov 2025 00:25:26 +0000</lastBuildDate>
     <item>
       <title>Icebear-Z/StarResonanceDamageCounter-Client</title>
       <link>https://github.com/Icebear-Z/StarResonanceDamageCounter-Client</link>
@@ -162,12 +162,12 @@ Updated: 2025-09-12T09:11:57Z</description>
       <title>PotRooms/StarResonanceTool</title>
       <link>https://github.com/PotRooms/StarResonanceTool</link>
       <description>WIP data parser for the game "Blue Protocol: Star Resonance"
-Stars: 8
+Stars: 9
 Language: C#
-Updated: 2025-11-11T11:35:52Z</description>
-      <content:encoded><![CDATA[<p>WIP data parser for the game &quot;Blue Protocol: Star Resonance&quot;</p><ul><li><strong>Stars:</strong> 8</li><li><strong>Language:</strong> C#</li><li><strong>Updated:</strong> 2025-11-11T11:35:52Z</li></ul>]]></content:encoded>
+Updated: 2025-11-16T11:43:07Z</description>
+      <content:encoded><![CDATA[<p>WIP data parser for the game &quot;Blue Protocol: Star Resonance&quot;</p><ul><li><strong>Stars:</strong> 9</li><li><strong>Language:</strong> C#</li><li><strong>Updated:</strong> 2025-11-16T11:43:07Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/PotRooms/StarResonanceTool</guid>
-      <pubDate>Tue, 11 Nov 2025 11:35:52 +0000</pubDate>
+      <pubDate>Sun, 16 Nov 2025 11:43:07 +0000</pubDate>
     </item>
     <item>
       <title>PotRooms/StarResonanceData</title>
@@ -238,12 +238,12 @@ Updated: 2025-11-15T13:41:35Z</description>
       <title>Xuan-cc/ShiroFisher-StarResonanceSmartFishing</title>
       <link>https://github.com/Xuan-cc/ShiroFisher-StarResonanceSmartFishing</link>
       <description>星痕共鸣钓鱼jio本，Python控制台项目，基于opencv+pyautogui
-Stars: 17
+Stars: 18
 Language: Python
-Updated: 2025-11-02T15:04:55Z</description>
-      <content:encoded><![CDATA[<p>星痕共鸣钓鱼jio本，Python控制台项目，基于opencv+pyautogui</p><ul><li><strong>Stars:</strong> 17</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2025-11-02T15:04:55Z</li></ul>]]></content:encoded>
+Updated: 2025-11-16T07:30:44Z</description>
+      <content:encoded><![CDATA[<p>星痕共鸣钓鱼jio本，Python控制台项目，基于opencv+pyautogui</p><ul><li><strong>Stars:</strong> 18</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2025-11-16T07:30:44Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/Xuan-cc/ShiroFisher-StarResonanceSmartFishing</guid>
-      <pubDate>Sun, 02 Nov 2025 15:04:55 +0000</pubDate>
+      <pubDate>Sun, 16 Nov 2025 07:30:44 +0000</pubDate>
     </item>
     <item>
       <title>josilo/StarResonanceOptimizer</title>
