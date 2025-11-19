@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 18 Nov 2025 00:24:58 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Nov 2025 00:25:37 +0000</lastBuildDate>
     <item>
       <title>[Star-Resonance] YoramCriel/Star-Resonance</title>
       <link>https://github.com/YoramCriel/Star-Resonance</link>
@@ -128,26 +128,26 @@ Updated: 2025-11-15T06:31:01Z</description>
       <pubDate>Sat, 15 Nov 2025 06:31:01 +0000</pubDate>
     </item>
     <item>
-      <title>[Star-Resonance] asgharkapk/Star-Resonance-GitHub-Projects</title>
-      <link>https://github.com/asgharkapk/Star-Resonance-GitHub-Projects</link>
-      <description>A compilation of open-source projects for Star Resonance (Blue Protocol). These tools cover DPS meters, overlays, bots, asset extraction, and community utilities. Use responsibly and follow the game’s terms of service.
-Stars: 32
-Language: HTML
-Updated: 2025-11-17T17:09:39Z</description>
-      <content:encoded><![CDATA[<p>A compilation of open-source projects for Star Resonance (Blue Protocol). These tools cover DPS meters, overlays, bots, asset extraction, and community utilities. Use responsibly and follow the game’s terms of service.</p><ul><li><strong>Stars:</strong> 32</li><li><strong>Language:</strong> HTML</li><li><strong>Updated:</strong> 2025-11-17T17:09:39Z</li></ul>]]></content:encoded>
-      <guid isPermaLink="false">https://github.com/asgharkapk/Star-Resonance-GitHub-Projects</guid>
-      <pubDate>Mon, 17 Nov 2025 17:09:39 +0000</pubDate>
-    </item>
-    <item>
       <title>[Star-Resonance] asgharkapk/star-resonance-module-optimizer</title>
       <link>https://github.com/asgharkapk/star-resonance-module-optimizer</link>
       <description>Web-based Blue Protocol module calculator. Import CSVs, edit stats, and find the best module combinations with color-coded levels and icon support.Calculate and optimize your Blue Protocol module setups. Supports CSV import/export, dynamic stat editing, best combo calculation (total, highest, balanced), and stat icons for easy visualization.
 Stars: 2
 Language: HTML
-Updated: 2025-11-17T15:34:16Z</description>
-      <content:encoded><![CDATA[<p>Web-based Blue Protocol module calculator. Import CSVs, edit stats, and find the best module combinations with color-coded levels and icon support.Calculate and optimize your Blue Protocol module setups. Supports CSV import/export, dynamic stat editing, best combo calculation (total, highest, balanced), and stat icons for easy visualization.</p><ul><li><strong>Stars:</strong> 2</li><li><strong>Language:</strong> HTML</li><li><strong>Updated:</strong> 2025-11-17T15:34:16Z</li></ul>]]></content:encoded>
+Updated: 2025-11-18T13:11:29Z</description>
+      <content:encoded><![CDATA[<p>Web-based Blue Protocol module calculator. Import CSVs, edit stats, and find the best module combinations with color-coded levels and icon support.Calculate and optimize your Blue Protocol module setups. Supports CSV import/export, dynamic stat editing, best combo calculation (total, highest, balanced), and stat icons for easy visualization.</p><ul><li><strong>Stars:</strong> 2</li><li><strong>Language:</strong> HTML</li><li><strong>Updated:</strong> 2025-11-18T13:11:29Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/asgharkapk/star-resonance-module-optimizer</guid>
-      <pubDate>Mon, 17 Nov 2025 15:34:16 +0000</pubDate>
+      <pubDate>Tue, 18 Nov 2025 13:11:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Star-Resonance] asgharkapk/Star-Resonance-GitHub-Projects</title>
+      <link>https://github.com/asgharkapk/Star-Resonance-GitHub-Projects</link>
+      <description>A compilation of open-source projects for Star Resonance (Blue Protocol). These tools cover DPS meters, overlays, bots, asset extraction, and community utilities. Use responsibly and follow the game’s terms of service.
+Stars: 32
+Language: HTML
+Updated: 2025-11-18T13:33:06Z</description>
+      <content:encoded><![CDATA[<p>A compilation of open-source projects for Star Resonance (Blue Protocol). These tools cover DPS meters, overlays, bots, asset extraction, and community utilities. Use responsibly and follow the game’s terms of service.</p><ul><li><strong>Stars:</strong> 32</li><li><strong>Language:</strong> HTML</li><li><strong>Updated:</strong> 2025-11-18T13:33:06Z</li></ul>]]></content:encoded>
+      <guid isPermaLink="false">https://github.com/asgharkapk/Star-Resonance-GitHub-Projects</guid>
+      <pubDate>Tue, 18 Nov 2025 13:33:06 +0000</pubDate>
     </item>
     <item>
       <title>[StarResonance] Icebear-Z/StarResonanceDamageCounter-Client</title>
@@ -379,12 +379,12 @@ Updated: 2025-11-15T13:41:35Z</description>
       <title>[StarResonance] Xuan-cc/ShiroFisher-StarResonanceSmartFishing</title>
       <link>https://github.com/Xuan-cc/ShiroFisher-StarResonanceSmartFishing</link>
       <description>星痕共鸣钓鱼jio本，Python控制台项目，基于opencv+pyautogui
-Stars: 18
+Stars: 19
 Language: Python
-Updated: 2025-11-16T07:30:44Z</description>
-      <content:encoded><![CDATA[<p>星痕共鸣钓鱼jio本，Python控制台项目，基于opencv+pyautogui</p><ul><li><strong>Stars:</strong> 18</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2025-11-16T07:30:44Z</li></ul>]]></content:encoded>
+Updated: 2025-11-18T08:32:40Z</description>
+      <content:encoded><![CDATA[<p>星痕共鸣钓鱼jio本，Python控制台项目，基于opencv+pyautogui</p><ul><li><strong>Stars:</strong> 19</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2025-11-18T08:32:40Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/Xuan-cc/ShiroFisher-StarResonanceSmartFishing</guid>
-      <pubDate>Sun, 16 Nov 2025 07:30:44 +0000</pubDate>
+      <pubDate>Tue, 18 Nov 2025 08:32:40 +0000</pubDate>
     </item>
     <item>
       <title>[StarResonance] josilo/StarResonanceOptimizer</title>
@@ -411,12 +411,12 @@ Updated: 2025-11-14T22:27:12Z</description>
       <title>[StarResonance] fudiyangjin/StarResonanceAutoMod</title>
       <link>https://github.com/fudiyangjin/StarResonanceAutoMod</link>
       <description>星痕共鸣全自动模组筛选(BPSR automatic filtering module)
-Stars: 54
+Stars: 56
 Language: Python
-Updated: 2025-11-12T10:38:38Z</description>
-      <content:encoded><![CDATA[<p>星痕共鸣全自动模组筛选(BPSR automatic filtering module)</p><ul><li><strong>Stars:</strong> 54</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2025-11-12T10:38:38Z</li></ul>]]></content:encoded>
+Updated: 2025-11-18T04:42:18Z</description>
+      <content:encoded><![CDATA[<p>星痕共鸣全自动模组筛选(BPSR automatic filtering module)</p><ul><li><strong>Stars:</strong> 56</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2025-11-18T04:42:18Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/fudiyangjin/StarResonanceAutoMod</guid>
-      <pubDate>Wed, 12 Nov 2025 10:38:38 +0000</pubDate>
+      <pubDate>Tue, 18 Nov 2025 04:42:18 +0000</pubDate>
     </item>
     <item>
       <title>[StarResonance] Roli-Ram/StarResonance</title>
@@ -437,6 +437,28 @@ Updated: 2025-11-17T02:18:55Z</description>
       <content:encoded><![CDATA[<ul><li><strong>Stars:</strong> 53</li><li><strong>Language:</strong> C#</li><li><strong>Updated:</strong> 2025-11-17T02:18:55Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/anying1073/StarResonanceDps</guid>
       <pubDate>Mon, 17 Nov 2025 02:18:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>[StarResonance] rushkii/StarResonanceMetadata</title>
+      <link>https://github.com/rushkii/StarResonanceMetadata</link>
+      <description>A tool for dumping BPSR global-metadata.dat from the memory dump file
+Stars: 0
+Language: Python
+Updated: 2025-11-18T09:10:35Z</description>
+      <content:encoded><![CDATA[<p>A tool for dumping BPSR global-metadata.dat from the memory dump file</p><ul><li><strong>Stars:</strong> 0</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2025-11-18T09:10:35Z</li></ul>]]></content:encoded>
+      <guid isPermaLink="false">https://github.com/rushkii/StarResonanceMetadata</guid>
+      <pubDate>Tue, 18 Nov 2025 09:10:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>[StarResonance] rushkii/StarResonanceData</title>
+      <link>https://github.com/rushkii/StarResonanceData</link>
+      <description>A game data for the Blue Protocol: Star Resonance
+Stars: 1
+Language: N/A
+Updated: 2025-11-18T18:21:20Z</description>
+      <content:encoded><![CDATA[<p>A game data for the Blue Protocol: Star Resonance</p><ul><li><strong>Stars:</strong> 1</li><li><strong>Language:</strong> N/A</li><li><strong>Updated:</strong> 2025-11-18T18:21:20Z</li></ul>]]></content:encoded>
+      <guid isPermaLink="false">https://github.com/rushkii/StarResonanceData</guid>
+      <pubDate>Tue, 18 Nov 2025 18:21:20 +0000</pubDate>
     </item>
     <item>
       <title>[星痕共鸣] Nemoxxxxx/-</title>
@@ -662,12 +684,12 @@ Updated: 2025-11-15T13:41:35Z</description>
       <title>[星痕共鸣] Xuan-cc/ShiroFisher-StarResonanceSmartFishing</title>
       <link>https://github.com/Xuan-cc/ShiroFisher-StarResonanceSmartFishing</link>
       <description>星痕共鸣钓鱼jio本，Python控制台项目，基于opencv+pyautogui
-Stars: 18
+Stars: 19
 Language: Python
-Updated: 2025-11-16T07:30:44Z</description>
-      <content:encoded><![CDATA[<p>星痕共鸣钓鱼jio本，Python控制台项目，基于opencv+pyautogui</p><ul><li><strong>Stars:</strong> 18</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2025-11-16T07:30:44Z</li></ul>]]></content:encoded>
+Updated: 2025-11-18T08:32:40Z</description>
+      <content:encoded><![CDATA[<p>星痕共鸣钓鱼jio本，Python控制台项目，基于opencv+pyautogui</p><ul><li><strong>Stars:</strong> 19</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2025-11-18T08:32:40Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/Xuan-cc/ShiroFisher-StarResonanceSmartFishing</guid>
-      <pubDate>Sun, 16 Nov 2025 07:30:44 +0000</pubDate>
+      <pubDate>Tue, 18 Nov 2025 08:32:40 +0000</pubDate>
     </item>
     <item>
       <title>[星痕共鸣] balrogsxt/StarBox</title>
@@ -717,12 +739,12 @@ Updated: 2025-11-06T01:35:45Z</description>
       <title>[星痕共鸣] fudiyangjin/StarResonanceAutoMod</title>
       <link>https://github.com/fudiyangjin/StarResonanceAutoMod</link>
       <description>星痕共鸣全自动模组筛选(BPSR automatic filtering module)
-Stars: 54
+Stars: 56
 Language: Python
-Updated: 2025-11-12T10:38:38Z</description>
-      <content:encoded><![CDATA[<p>星痕共鸣全自动模组筛选(BPSR automatic filtering module)</p><ul><li><strong>Stars:</strong> 54</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2025-11-12T10:38:38Z</li></ul>]]></content:encoded>
+Updated: 2025-11-18T04:42:18Z</description>
+      <content:encoded><![CDATA[<p>星痕共鸣全自动模组筛选(BPSR automatic filtering module)</p><ul><li><strong>Stars:</strong> 56</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2025-11-18T04:42:18Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/fudiyangjin/StarResonanceAutoMod</guid>
-      <pubDate>Wed, 12 Nov 2025 10:38:38 +0000</pubDate>
+      <pubDate>Tue, 18 Nov 2025 04:42:18 +0000</pubDate>
     </item>
     <item>
       <title>[星痕共鸣] Sanheiii/ok-star-resonance</title>
@@ -741,10 +763,10 @@ Updated: 2025-11-16T05:44:40Z</description>
       <description>基于MAAFW的星痕共鸣黑盒测试工具
 Stars: 8
 Language: Python
-Updated: 2025-11-17T11:55:02Z</description>
-      <content:encoded><![CDATA[<p>基于MAAFW的星痕共鸣黑盒测试工具</p><ul><li><strong>Stars:</strong> 8</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2025-11-17T11:55:02Z</li></ul>]]></content:encoded>
+Updated: 2025-11-18T19:55:55Z</description>
+      <content:encoded><![CDATA[<p>基于MAAFW的星痕共鸣黑盒测试工具</p><ul><li><strong>Stars:</strong> 8</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2025-11-18T19:55:55Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/233Official/MaaStarResonance</guid>
-      <pubDate>Mon, 17 Nov 2025 11:55:02 +0000</pubDate>
+      <pubDate>Tue, 18 Nov 2025 19:55:55 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 18 Nov 2025 00:24:58 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Nov 2025 00:25:37 +0000</lastBuildDate>
     <item>
       <title>YoramCriel/Star-Resonance</title>
       <link>https://github.com/YoramCriel/Star-Resonance</link>
@@ -128,26 +128,26 @@ Updated: 2025-11-15T06:31:01Z</description>
       <pubDate>Sat, 15 Nov 2025 06:31:01 +0000</pubDate>
     </item>
     <item>
-      <title>asgharkapk/Star-Resonance-GitHub-Projects</title>
-      <link>https://github.com/asgharkapk/Star-Resonance-GitHub-Projects</link>
-      <description>A compilation of open-source projects for Star Resonance (Blue Protocol). These tools cover DPS meters, overlays, bots, asset extraction, and community utilities. Use responsibly and follow the game’s terms of service.
-Stars: 32
-Language: HTML
-Updated: 2025-11-17T17:09:39Z</description>
-      <content:encoded><![CDATA[<p>A compilation of open-source projects for Star Resonance (Blue Protocol). These tools cover DPS meters, overlays, bots, asset extraction, and community utilities. Use responsibly and follow the game’s terms of service.</p><ul><li><strong>Stars:</strong> 32</li><li><strong>Language:</strong> HTML</li><li><strong>Updated:</strong> 2025-11-17T17:09:39Z</li></ul>]]></content:encoded>
-      <guid isPermaLink="false">https://github.com/asgharkapk/Star-Resonance-GitHub-Projects</guid>
-      <pubDate>Mon, 17 Nov 2025 17:09:39 +0000</pubDate>
-    </item>
-    <item>
       <title>asgharkapk/star-resonance-module-optimizer</title>
       <link>https://github.com/asgharkapk/star-resonance-module-optimizer</link>
       <description>Web-based Blue Protocol module calculator. Import CSVs, edit stats, and find the best module combinations with color-coded levels and icon support.Calculate and optimize your Blue Protocol module setups. Supports CSV import/export, dynamic stat editing, best combo calculation (total, highest, balanced), and stat icons for easy visualization.
 Stars: 2
 Language: HTML
-Updated: 2025-11-17T15:34:16Z</description>
-      <content:encoded><![CDATA[<p>Web-based Blue Protocol module calculator. Import CSVs, edit stats, and find the best module combinations with color-coded levels and icon support.Calculate and optimize your Blue Protocol module setups. Supports CSV import/export, dynamic stat editing, best combo calculation (total, highest, balanced), and stat icons for easy visualization.</p><ul><li><strong>Stars:</strong> 2</li><li><strong>Language:</strong> HTML</li><li><strong>Updated:</strong> 2025-11-17T15:34:16Z</li></ul>]]></content:encoded>
+Updated: 2025-11-18T13:11:29Z</description>
+      <content:encoded><![CDATA[<p>Web-based Blue Protocol module calculator. Import CSVs, edit stats, and find the best module combinations with color-coded levels and icon support.Calculate and optimize your Blue Protocol module setups. Supports CSV import/export, dynamic stat editing, best combo calculation (total, highest, balanced), and stat icons for easy visualization.</p><ul><li><strong>Stars:</strong> 2</li><li><strong>Language:</strong> HTML</li><li><strong>Updated:</strong> 2025-11-18T13:11:29Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/asgharkapk/star-resonance-module-optimizer</guid>
-      <pubDate>Mon, 17 Nov 2025 15:34:16 +0000</pubDate>
+      <pubDate>Tue, 18 Nov 2025 13:11:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>asgharkapk/Star-Resonance-GitHub-Projects</title>
+      <link>https://github.com/asgharkapk/Star-Resonance-GitHub-Projects</link>
+      <description>A compilation of open-source projects for Star Resonance (Blue Protocol). These tools cover DPS meters, overlays, bots, asset extraction, and community utilities. Use responsibly and follow the game’s terms of service.
+Stars: 32
+Language: HTML
+Updated: 2025-11-18T13:33:06Z</description>
+      <content:encoded><![CDATA[<p>A compilation of open-source projects for Star Resonance (Blue Protocol). These tools cover DPS meters, overlays, bots, asset extraction, and community utilities. Use responsibly and follow the game’s terms of service.</p><ul><li><strong>Stars:</strong> 32</li><li><strong>Language:</strong> HTML</li><li><strong>Updated:</strong> 2025-11-18T13:33:06Z</li></ul>]]></content:encoded>
+      <guid isPermaLink="false">https://github.com/asgharkapk/Star-Resonance-GitHub-Projects</guid>
+      <pubDate>Tue, 18 Nov 2025 13:33:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
