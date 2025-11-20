@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 19 Nov 2025 00:25:37 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Nov 2025 00:24:49 +0000</lastBuildDate>
     <item>
       <title>[Star-Resonance] YoramCriel/Star-Resonance</title>
       <link>https://github.com/YoramCriel/Star-Resonance</link>
@@ -106,17 +106,6 @@ Updated: 2025-11-04T15:24:11Z</description>
       <pubDate>Tue, 04 Nov 2025 15:24:11 +0000</pubDate>
     </item>
     <item>
-      <title>[Star-Resonance] Sanheiii/ok-star-resonance</title>
-      <link>https://github.com/Sanheiii/ok-star-resonance</link>
-      <description>基于ok-script的星痕共鸣自动工具
-Stars: 86
-Language: Python
-Updated: 2025-11-16T05:44:40Z</description>
-      <content:encoded><![CDATA[<p>基于ok-script的星痕共鸣自动工具</p><ul><li><strong>Stars:</strong> 86</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2025-11-16T05:44:40Z</li></ul>]]></content:encoded>
-      <guid isPermaLink="false">https://github.com/Sanheiii/ok-star-resonance</guid>
-      <pubDate>Sun, 16 Nov 2025 05:44:40 +0000</pubDate>
-    </item>
-    <item>
       <title>[Star-Resonance] asgharkapk/star-resonance-crafting-database</title>
       <link>https://github.com/asgharkapk/star-resonance-crafting-database</link>
       <description>Community-driven dataset for Star Resonance life skills, crafting materials, and currency costs (Focus, Luno, Homestead). Includes mining, crafting, and vendor prices from CN and EN sources. Star Resonance life skill &amp; crafting data: materials, Focus cost, and currency prices.
@@ -128,17 +117,6 @@ Updated: 2025-11-15T06:31:01Z</description>
       <pubDate>Sat, 15 Nov 2025 06:31:01 +0000</pubDate>
     </item>
     <item>
-      <title>[Star-Resonance] asgharkapk/star-resonance-module-optimizer</title>
-      <link>https://github.com/asgharkapk/star-resonance-module-optimizer</link>
-      <description>Web-based Blue Protocol module calculator. Import CSVs, edit stats, and find the best module combinations with color-coded levels and icon support.Calculate and optimize your Blue Protocol module setups. Supports CSV import/export, dynamic stat editing, best combo calculation (total, highest, balanced), and stat icons for easy visualization.
-Stars: 2
-Language: HTML
-Updated: 2025-11-18T13:11:29Z</description>
-      <content:encoded><![CDATA[<p>Web-based Blue Protocol module calculator. Import CSVs, edit stats, and find the best module combinations with color-coded levels and icon support.Calculate and optimize your Blue Protocol module setups. Supports CSV import/export, dynamic stat editing, best combo calculation (total, highest, balanced), and stat icons for easy visualization.</p><ul><li><strong>Stars:</strong> 2</li><li><strong>Language:</strong> HTML</li><li><strong>Updated:</strong> 2025-11-18T13:11:29Z</li></ul>]]></content:encoded>
-      <guid isPermaLink="false">https://github.com/asgharkapk/star-resonance-module-optimizer</guid>
-      <pubDate>Tue, 18 Nov 2025 13:11:29 +0000</pubDate>
-    </item>
-    <item>
       <title>[Star-Resonance] asgharkapk/Star-Resonance-GitHub-Projects</title>
       <link>https://github.com/asgharkapk/Star-Resonance-GitHub-Projects</link>
       <description>A compilation of open-source projects for Star Resonance (Blue Protocol). These tools cover DPS meters, overlays, bots, asset extraction, and community utilities. Use responsibly and follow the game’s terms of service.
@@ -148,6 +126,28 @@ Updated: 2025-11-18T13:33:06Z</description>
       <content:encoded><![CDATA[<p>A compilation of open-source projects for Star Resonance (Blue Protocol). These tools cover DPS meters, overlays, bots, asset extraction, and community utilities. Use responsibly and follow the game’s terms of service.</p><ul><li><strong>Stars:</strong> 32</li><li><strong>Language:</strong> HTML</li><li><strong>Updated:</strong> 2025-11-18T13:33:06Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/asgharkapk/Star-Resonance-GitHub-Projects</guid>
       <pubDate>Tue, 18 Nov 2025 13:33:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Star-Resonance] Sanheiii/ok-star-resonance</title>
+      <link>https://github.com/Sanheiii/ok-star-resonance</link>
+      <description>基于ok-script的星痕共鸣自动工具
+Stars: 86
+Language: Python
+Updated: 2025-11-19T15:24:21Z</description>
+      <content:encoded><![CDATA[<p>基于ok-script的星痕共鸣自动工具</p><ul><li><strong>Stars:</strong> 86</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2025-11-19T15:24:21Z</li></ul>]]></content:encoded>
+      <guid isPermaLink="false">https://github.com/Sanheiii/ok-star-resonance</guid>
+      <pubDate>Wed, 19 Nov 2025 15:24:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Star-Resonance] asgharkapk/star-resonance-module-optimizer</title>
+      <link>https://github.com/asgharkapk/star-resonance-module-optimizer</link>
+      <description>Web-based Blue Protocol module calculator. Import CSVs, edit stats, and find the best module combinations with color-coded levels and icon support.Calculate and optimize your Blue Protocol module setups. Supports CSV import/export, dynamic stat editing, best combo calculation (total, highest, balanced), and stat icons for easy visualization.
+Stars: 2
+Language: HTML
+Updated: 2025-11-19T13:03:44Z</description>
+      <content:encoded><![CDATA[<p>Web-based Blue Protocol module calculator. Import CSVs, edit stats, and find the best module combinations with color-coded levels and icon support.Calculate and optimize your Blue Protocol module setups. Supports CSV import/export, dynamic stat editing, best combo calculation (total, highest, balanced), and stat icons for easy visualization.</p><ul><li><strong>Stars:</strong> 2</li><li><strong>Language:</strong> HTML</li><li><strong>Updated:</strong> 2025-11-19T13:03:44Z</li></ul>]]></content:encoded>
+      <guid isPermaLink="false">https://github.com/asgharkapk/star-resonance-module-optimizer</guid>
+      <pubDate>Wed, 19 Nov 2025 13:03:44 +0000</pubDate>
     </item>
     <item>
       <title>[StarResonance] Icebear-Z/StarResonanceDamageCounter-Client</title>
@@ -431,12 +431,12 @@ Updated: 2025-11-13T09:08:16Z</description>
     <item>
       <title>[StarResonance] anying1073/StarResonanceDps</title>
       <link>https://github.com/anying1073/StarResonanceDps</link>
-      <description>Stars: 53
+      <description>Stars: 52
 Language: C#
-Updated: 2025-11-17T02:18:55Z</description>
-      <content:encoded><![CDATA[<ul><li><strong>Stars:</strong> 53</li><li><strong>Language:</strong> C#</li><li><strong>Updated:</strong> 2025-11-17T02:18:55Z</li></ul>]]></content:encoded>
+Updated: 2025-11-19T07:00:49Z</description>
+      <content:encoded><![CDATA[<ul><li><strong>Stars:</strong> 52</li><li><strong>Language:</strong> C#</li><li><strong>Updated:</strong> 2025-11-19T07:00:49Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/anying1073/StarResonanceDps</guid>
-      <pubDate>Mon, 17 Nov 2025 02:18:55 +0000</pubDate>
+      <pubDate>Wed, 19 Nov 2025 07:00:49 +0000</pubDate>
     </item>
     <item>
       <title>[StarResonance] rushkii/StarResonanceMetadata</title>
@@ -747,17 +747,6 @@ Updated: 2025-11-18T04:42:18Z</description>
       <pubDate>Tue, 18 Nov 2025 04:42:18 +0000</pubDate>
     </item>
     <item>
-      <title>[星痕共鸣] Sanheiii/ok-star-resonance</title>
-      <link>https://github.com/Sanheiii/ok-star-resonance</link>
-      <description>基于ok-script的星痕共鸣自动工具
-Stars: 86
-Language: Python
-Updated: 2025-11-16T05:44:40Z</description>
-      <content:encoded><![CDATA[<p>基于ok-script的星痕共鸣自动工具</p><ul><li><strong>Stars:</strong> 86</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2025-11-16T05:44:40Z</li></ul>]]></content:encoded>
-      <guid isPermaLink="false">https://github.com/Sanheiii/ok-star-resonance</guid>
-      <pubDate>Sun, 16 Nov 2025 05:44:40 +0000</pubDate>
-    </item>
-    <item>
       <title>[星痕共鸣] 233Official/MaaStarResonance</title>
       <link>https://github.com/233Official/MaaStarResonance</link>
       <description>基于MAAFW的星痕共鸣黑盒测试工具
@@ -767,6 +756,28 @@ Updated: 2025-11-18T19:55:55Z</description>
       <content:encoded><![CDATA[<p>基于MAAFW的星痕共鸣黑盒测试工具</p><ul><li><strong>Stars:</strong> 8</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2025-11-18T19:55:55Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/233Official/MaaStarResonance</guid>
       <pubDate>Tue, 18 Nov 2025 19:55:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>[星痕共鸣] Sanheiii/ok-star-resonance</title>
+      <link>https://github.com/Sanheiii/ok-star-resonance</link>
+      <description>基于ok-script的星痕共鸣自动工具
+Stars: 86
+Language: Python
+Updated: 2025-11-19T15:24:21Z</description>
+      <content:encoded><![CDATA[<p>基于ok-script的星痕共鸣自动工具</p><ul><li><strong>Stars:</strong> 86</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2025-11-19T15:24:21Z</li></ul>]]></content:encoded>
+      <guid isPermaLink="false">https://github.com/Sanheiii/ok-star-resonance</guid>
+      <pubDate>Wed, 19 Nov 2025 15:24:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>[星痕共鸣] Yukino12333/star_maa</title>
+      <link>https://github.com/Yukino12333/star_maa</link>
+      <description>星痕共鸣脚本
+Stars: 0
+Language: Python
+Updated: 2025-11-19T07:39:50Z</description>
+      <content:encoded><![CDATA[<p>星痕共鸣脚本</p><ul><li><strong>Stars:</strong> 0</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2025-11-19T07:39:50Z</li></ul>]]></content:encoded>
+      <guid isPermaLink="false">https://github.com/Yukino12333/star_maa</guid>
+      <pubDate>Wed, 19 Nov 2025 07:39:50 +0000</pubDate>
     </item>
   </channel>
 </rss>
