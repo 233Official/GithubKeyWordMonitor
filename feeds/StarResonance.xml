@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 20 Nov 2025 00:24:49 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Nov 2025 00:24:23 +0000</lastBuildDate>
     <item>
       <title>Icebear-Z/StarResonanceDamageCounter-Client</title>
       <link>https://github.com/Icebear-Z/StarResonanceDamageCounter-Client</link>
@@ -164,32 +164,21 @@ Updated: 2025-09-12T09:11:57Z</description>
       <description>WIP data parser for the game "Blue Protocol: Star Resonance"
 Stars: 10
 Language: C#
-Updated: 2025-11-17T23:41:22Z</description>
-      <content:encoded><![CDATA[<p>WIP data parser for the game &quot;Blue Protocol: Star Resonance&quot;</p><ul><li><strong>Stars:</strong> 10</li><li><strong>Language:</strong> C#</li><li><strong>Updated:</strong> 2025-11-17T23:41:22Z</li></ul>]]></content:encoded>
+Updated: 2025-11-21T00:12:35Z</description>
+      <content:encoded><![CDATA[<p>WIP data parser for the game &quot;Blue Protocol: Star Resonance&quot;</p><ul><li><strong>Stars:</strong> 10</li><li><strong>Language:</strong> C#</li><li><strong>Updated:</strong> 2025-11-21T00:12:35Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/PotRooms/StarResonanceTool</guid>
-      <pubDate>Mon, 17 Nov 2025 23:41:22 +0000</pubDate>
+      <pubDate>Fri, 21 Nov 2025 00:12:35 +0000</pubDate>
     </item>
     <item>
       <title>PotRooms/StarResonanceData</title>
       <link>https://github.com/PotRooms/StarResonanceData</link>
       <description>Blue Protocol: Star Resonance data
-Stars: 30
+Stars: 31
 Language: Lua
-Updated: 2025-11-17T15:35:38Z</description>
-      <content:encoded><![CDATA[<p>Blue Protocol: Star Resonance data</p><ul><li><strong>Stars:</strong> 30</li><li><strong>Language:</strong> Lua</li><li><strong>Updated:</strong> 2025-11-17T15:35:38Z</li></ul>]]></content:encoded>
+Updated: 2025-11-20T10:00:27Z</description>
+      <content:encoded><![CDATA[<p>Blue Protocol: Star Resonance data</p><ul><li><strong>Stars:</strong> 31</li><li><strong>Language:</strong> Lua</li><li><strong>Updated:</strong> 2025-11-20T10:00:27Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/PotRooms/StarResonanceData</guid>
-      <pubDate>Mon, 17 Nov 2025 15:35:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>azmiao/StarResonanceNotice</title>
-      <link>https://github.com/azmiao/StarResonanceNotice</link>
-      <description>适用于YuiChyanBot的星痕共鸣提醒小助手
-Stars: 2
-Language: Python
-Updated: 2025-10-14T06:45:27Z</description>
-      <content:encoded><![CDATA[<p>适用于YuiChyanBot的星痕共鸣提醒小助手</p><ul><li><strong>Stars:</strong> 2</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2025-10-14T06:45:27Z</li></ul>]]></content:encoded>
-      <guid isPermaLink="false">https://github.com/azmiao/StarResonanceNotice</guid>
-      <pubDate>Tue, 14 Oct 2025 06:45:27 +0000</pubDate>
+      <pubDate>Thu, 20 Nov 2025 10:00:27 +0000</pubDate>
     </item>
     <item>
       <title>xxfttkx/StarResonanceAutoHunt</title>
@@ -288,16 +277,6 @@ Updated: 2025-11-13T09:08:16Z</description>
       <pubDate>Thu, 13 Nov 2025 09:08:16 +0000</pubDate>
     </item>
     <item>
-      <title>anying1073/StarResonanceDps</title>
-      <link>https://github.com/anying1073/StarResonanceDps</link>
-      <description>Stars: 52
-Language: C#
-Updated: 2025-11-19T07:00:49Z</description>
-      <content:encoded><![CDATA[<ul><li><strong>Stars:</strong> 52</li><li><strong>Language:</strong> C#</li><li><strong>Updated:</strong> 2025-11-19T07:00:49Z</li></ul>]]></content:encoded>
-      <guid isPermaLink="false">https://github.com/anying1073/StarResonanceDps</guid>
-      <pubDate>Wed, 19 Nov 2025 07:00:49 +0000</pubDate>
-    </item>
-    <item>
       <title>rushkii/StarResonanceMetadata</title>
       <link>https://github.com/rushkii/StarResonanceMetadata</link>
       <description>A tool for dumping BPSR global-metadata.dat from the memory dump file
@@ -318,6 +297,27 @@ Updated: 2025-11-18T18:21:20Z</description>
       <content:encoded><![CDATA[<p>A game data for the Blue Protocol: Star Resonance</p><ul><li><strong>Stars:</strong> 1</li><li><strong>Language:</strong> N/A</li><li><strong>Updated:</strong> 2025-11-18T18:21:20Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/rushkii/StarResonanceData</guid>
       <pubDate>Tue, 18 Nov 2025 18:21:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>azmiao/StarResonanceNotice</title>
+      <link>https://github.com/azmiao/StarResonanceNotice</link>
+      <description>适用于YuiChyanBot的星痕共鸣提醒小助手
+Stars: 2
+Language: Python
+Updated: 2025-11-20T03:23:22Z</description>
+      <content:encoded><![CDATA[<p>适用于YuiChyanBot的星痕共鸣提醒小助手</p><ul><li><strong>Stars:</strong> 2</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2025-11-20T03:23:22Z</li></ul>]]></content:encoded>
+      <guid isPermaLink="false">https://github.com/azmiao/StarResonanceNotice</guid>
+      <pubDate>Thu, 20 Nov 2025 03:23:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>anying1073/StarResonanceDps</title>
+      <link>https://github.com/anying1073/StarResonanceDps</link>
+      <description>Stars: 52
+Language: C#
+Updated: 2025-11-20T05:35:56Z</description>
+      <content:encoded><![CDATA[<ul><li><strong>Stars:</strong> 52</li><li><strong>Language:</strong> C#</li><li><strong>Updated:</strong> 2025-11-20T05:35:56Z</li></ul>]]></content:encoded>
+      <guid isPermaLink="false">https://github.com/anying1073/StarResonanceDps</guid>
+      <pubDate>Thu, 20 Nov 2025 05:35:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
