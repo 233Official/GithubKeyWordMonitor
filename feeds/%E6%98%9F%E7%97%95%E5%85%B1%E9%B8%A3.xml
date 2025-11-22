@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 21 Nov 2025 00:24:23 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Nov 2025 00:23:53 +0000</lastBuildDate>
     <item>
       <title>Nemoxxxxx/-</title>
       <link>https://github.com/Nemoxxxxx/-</link>
@@ -317,15 +317,26 @@ Updated: 2025-11-20T03:23:22Z</description>
       <pubDate>Thu, 20 Nov 2025 03:23:22 +0000</pubDate>
     </item>
     <item>
+      <title>YinZe0/star-map-tool</title>
+      <link>https://github.com/YinZe0/star-map-tool</link>
+      <description>星痕共鸣 S2刷图工具
+Stars: 0
+Language: Go
+Updated: 2025-11-21T05:50:36Z</description>
+      <content:encoded><![CDATA[<p>星痕共鸣 S2刷图工具</p><ul><li><strong>Stars:</strong> 0</li><li><strong>Language:</strong> Go</li><li><strong>Updated:</strong> 2025-11-21T05:50:36Z</li></ul>]]></content:encoded>
+      <guid isPermaLink="false">https://github.com/YinZe0/star-map-tool</guid>
+      <pubDate>Fri, 21 Nov 2025 05:50:36 +0000</pubDate>
+    </item>
+    <item>
       <title>233Official/MaaStarResonance</title>
       <link>https://github.com/233Official/MaaStarResonance</link>
       <description>基于MAAFW的星痕共鸣黑盒测试工具
 Stars: 8
 Language: Python
-Updated: 2025-11-20T15:01:13Z</description>
-      <content:encoded><![CDATA[<p>基于MAAFW的星痕共鸣黑盒测试工具</p><ul><li><strong>Stars:</strong> 8</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2025-11-20T15:01:13Z</li></ul>]]></content:encoded>
+Updated: 2025-11-21T06:49:41Z</description>
+      <content:encoded><![CDATA[<p>基于MAAFW的星痕共鸣黑盒测试工具</p><ul><li><strong>Stars:</strong> 8</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2025-11-21T06:49:41Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/233Official/MaaStarResonance</guid>
-      <pubDate>Thu, 20 Nov 2025 15:01:13 +0000</pubDate>
+      <pubDate>Fri, 21 Nov 2025 06:49:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
