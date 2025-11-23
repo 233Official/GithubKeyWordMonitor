@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 22 Nov 2025 00:23:53 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Nov 2025 00:28:34 +0000</lastBuildDate>
     <item>
       <title>YoramCriel/Star-Resonance</title>
       <link>https://github.com/YoramCriel/Star-Resonance</link>
@@ -144,10 +144,10 @@ Updated: 2025-11-20T05:41:35Z</description>
       <description>Community-driven dataset for Star Resonance life skills, crafting materials, and currency costs (Focus, Luno, Homestead). Includes mining, crafting, and vendor prices from CN and EN sources. Star Resonance life skill &amp; crafting data: materials, Focus cost, and currency prices.
 Stars: 2
 Language: HTML
-Updated: 2025-11-20T14:11:21Z</description>
-      <content:encoded><![CDATA[<p>Community-driven dataset for Star Resonance life skills, crafting materials, and currency costs (Focus, Luno, Homestead). Includes mining, crafting, and vendor prices from CN and EN sources. Star Resonance life skill &amp; crafting data: materials, Focus cost, and currency prices.</p><ul><li><strong>Stars:</strong> 2</li><li><strong>Language:</strong> HTML</li><li><strong>Updated:</strong> 2025-11-20T14:11:21Z</li></ul>]]></content:encoded>
+Updated: 2025-11-22T13:33:41Z</description>
+      <content:encoded><![CDATA[<p>Community-driven dataset for Star Resonance life skills, crafting materials, and currency costs (Focus, Luno, Homestead). Includes mining, crafting, and vendor prices from CN and EN sources. Star Resonance life skill &amp; crafting data: materials, Focus cost, and currency prices.</p><ul><li><strong>Stars:</strong> 2</li><li><strong>Language:</strong> HTML</li><li><strong>Updated:</strong> 2025-11-22T13:33:41Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/asgharkapk/star-resonance-crafting-database</guid>
-      <pubDate>Thu, 20 Nov 2025 14:11:21 +0000</pubDate>
+      <pubDate>Sat, 22 Nov 2025 13:33:41 +0000</pubDate>
     </item>
   </channel>
 </rss>

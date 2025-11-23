@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 22 Nov 2025 00:23:53 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Nov 2025 00:28:34 +0000</lastBuildDate>
     <item>
       <title>[Star-Resonance] YoramCriel/Star-Resonance</title>
       <link>https://github.com/YoramCriel/Star-Resonance</link>
@@ -144,10 +144,10 @@ Updated: 2025-11-20T05:41:35Z</description>
       <description>Community-driven dataset for Star Resonance life skills, crafting materials, and currency costs (Focus, Luno, Homestead). Includes mining, crafting, and vendor prices from CN and EN sources. Star Resonance life skill &amp; crafting data: materials, Focus cost, and currency prices.
 Stars: 2
 Language: HTML
-Updated: 2025-11-20T14:11:21Z</description>
-      <content:encoded><![CDATA[<p>Community-driven dataset for Star Resonance life skills, crafting materials, and currency costs (Focus, Luno, Homestead). Includes mining, crafting, and vendor prices from CN and EN sources. Star Resonance life skill &amp; crafting data: materials, Focus cost, and currency prices.</p><ul><li><strong>Stars:</strong> 2</li><li><strong>Language:</strong> HTML</li><li><strong>Updated:</strong> 2025-11-20T14:11:21Z</li></ul>]]></content:encoded>
+Updated: 2025-11-22T13:33:41Z</description>
+      <content:encoded><![CDATA[<p>Community-driven dataset for Star Resonance life skills, crafting materials, and currency costs (Focus, Luno, Homestead). Includes mining, crafting, and vendor prices from CN and EN sources. Star Resonance life skill &amp; crafting data: materials, Focus cost, and currency prices.</p><ul><li><strong>Stars:</strong> 2</li><li><strong>Language:</strong> HTML</li><li><strong>Updated:</strong> 2025-11-22T13:33:41Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/asgharkapk/star-resonance-crafting-database</guid>
-      <pubDate>Thu, 20 Nov 2025 14:11:21 +0000</pubDate>
+      <pubDate>Sat, 22 Nov 2025 13:33:41 +0000</pubDate>
     </item>
     <item>
       <title>[StarResonance] Icebear-Z/StarResonanceDamageCounter-Client</title>
@@ -453,12 +453,12 @@ Updated: 2025-11-20T03:23:22Z</description>
     <item>
       <title>[StarResonance] anying1073/StarResonanceDps</title>
       <link>https://github.com/anying1073/StarResonanceDps</link>
-      <description>Stars: 53
+      <description>Stars: 54
 Language: C#
-Updated: 2025-11-21T07:59:44Z</description>
-      <content:encoded><![CDATA[<ul><li><strong>Stars:</strong> 53</li><li><strong>Language:</strong> C#</li><li><strong>Updated:</strong> 2025-11-21T07:59:44Z</li></ul>]]></content:encoded>
+Updated: 2025-11-22T15:24:49Z</description>
+      <content:encoded><![CDATA[<ul><li><strong>Stars:</strong> 54</li><li><strong>Language:</strong> C#</li><li><strong>Updated:</strong> 2025-11-22T15:24:49Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/anying1073/StarResonanceDps</guid>
-      <pubDate>Fri, 21 Nov 2025 07:59:44 +0000</pubDate>
+      <pubDate>Sat, 22 Nov 2025 15:24:49 +0000</pubDate>
     </item>
     <item>
       <title>[星痕共鸣] Nemoxxxxx/-</title>
@@ -769,26 +769,26 @@ Updated: 2025-11-20T03:23:22Z</description>
       <pubDate>Thu, 20 Nov 2025 03:23:22 +0000</pubDate>
     </item>
     <item>
-      <title>[星痕共鸣] YinZe0/star-map-tool</title>
-      <link>https://github.com/YinZe0/star-map-tool</link>
-      <description>星痕共鸣 S2刷图工具
-Stars: 0
-Language: Go
-Updated: 2025-11-21T05:50:36Z</description>
-      <content:encoded><![CDATA[<p>星痕共鸣 S2刷图工具</p><ul><li><strong>Stars:</strong> 0</li><li><strong>Language:</strong> Go</li><li><strong>Updated:</strong> 2025-11-21T05:50:36Z</li></ul>]]></content:encoded>
-      <guid isPermaLink="false">https://github.com/YinZe0/star-map-tool</guid>
-      <pubDate>Fri, 21 Nov 2025 05:50:36 +0000</pubDate>
-    </item>
-    <item>
       <title>[星痕共鸣] 233Official/MaaStarResonance</title>
       <link>https://github.com/233Official/MaaStarResonance</link>
       <description>基于MAAFW的星痕共鸣黑盒测试工具
 Stars: 8
 Language: Python
-Updated: 2025-11-21T06:49:41Z</description>
-      <content:encoded><![CDATA[<p>基于MAAFW的星痕共鸣黑盒测试工具</p><ul><li><strong>Stars:</strong> 8</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2025-11-21T06:49:41Z</li></ul>]]></content:encoded>
+Updated: 2025-11-22T03:29:14Z</description>
+      <content:encoded><![CDATA[<p>基于MAAFW的星痕共鸣黑盒测试工具</p><ul><li><strong>Stars:</strong> 8</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2025-11-22T03:29:14Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/233Official/MaaStarResonance</guid>
-      <pubDate>Fri, 21 Nov 2025 06:49:41 +0000</pubDate>
+      <pubDate>Sat, 22 Nov 2025 03:29:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>[星痕共鸣] YinZe0/star-map-tool</title>
+      <link>https://github.com/YinZe0/star-map-tool</link>
+      <description>星痕共鸣 S2刷图工具
+Stars: 0
+Language: Go
+Updated: 2025-11-23T00:05:10Z</description>
+      <content:encoded><![CDATA[<p>星痕共鸣 S2刷图工具</p><ul><li><strong>Stars:</strong> 0</li><li><strong>Language:</strong> Go</li><li><strong>Updated:</strong> 2025-11-23T00:05:10Z</li></ul>]]></content:encoded>
+      <guid isPermaLink="false">https://github.com/YinZe0/star-map-tool</guid>
+      <pubDate>Sun, 23 Nov 2025 00:05:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
