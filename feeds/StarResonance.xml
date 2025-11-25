@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 24 Nov 2025 00:27:12 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Nov 2025 00:23:40 +0000</lastBuildDate>
     <item>
       <title>Icebear-Z/StarResonanceDamageCounter-Client</title>
       <link>https://github.com/Icebear-Z/StarResonanceDamageCounter-Client</link>
@@ -173,12 +173,12 @@ Updated: 2025-11-21T00:12:35Z</description>
       <title>PotRooms/StarResonanceData</title>
       <link>https://github.com/PotRooms/StarResonanceData</link>
       <description>Blue Protocol: Star Resonance data
-Stars: 31
+Stars: 29
 Language: Lua
-Updated: 2025-11-20T10:00:27Z</description>
-      <content:encoded><![CDATA[<p>Blue Protocol: Star Resonance data</p><ul><li><strong>Stars:</strong> 31</li><li><strong>Language:</strong> Lua</li><li><strong>Updated:</strong> 2025-11-20T10:00:27Z</li></ul>]]></content:encoded>
+Updated: 2025-11-24T23:46:06Z</description>
+      <content:encoded><![CDATA[<p>Blue Protocol: Star Resonance data</p><ul><li><strong>Stars:</strong> 29</li><li><strong>Language:</strong> Lua</li><li><strong>Updated:</strong> 2025-11-24T23:46:06Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/PotRooms/StarResonanceData</guid>
-      <pubDate>Thu, 20 Nov 2025 10:00:27 +0000</pubDate>
+      <pubDate>Mon, 24 Nov 2025 23:46:06 +0000</pubDate>
     </item>
     <item>
       <title>xxfttkx/StarResonanceAutoHunt</title>
@@ -248,12 +248,12 @@ Updated: 2025-11-03T17:48:02Z</description>
       <title>dmlgzs/StarResonanceDamageCounter</title>
       <link>https://github.com/dmlgzs/StarResonanceDamageCounter</link>
       <description>Damage Counter for Star Resonance
-Stars: 257
+Stars: 258
 Language: JavaScript
-Updated: 2025-11-14T22:27:12Z</description>
-      <content:encoded><![CDATA[<p>Damage Counter for Star Resonance</p><ul><li><strong>Stars:</strong> 257</li><li><strong>Language:</strong> JavaScript</li><li><strong>Updated:</strong> 2025-11-14T22:27:12Z</li></ul>]]></content:encoded>
+Updated: 2025-11-24T06:30:02Z</description>
+      <content:encoded><![CDATA[<p>Damage Counter for Star Resonance</p><ul><li><strong>Stars:</strong> 258</li><li><strong>Language:</strong> JavaScript</li><li><strong>Updated:</strong> 2025-11-24T06:30:02Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/dmlgzs/StarResonanceDamageCounter</guid>
-      <pubDate>Fri, 14 Nov 2025 22:27:12 +0000</pubDate>
+      <pubDate>Mon, 24 Nov 2025 06:30:02 +0000</pubDate>
     </item>
     <item>
       <title>fudiyangjin/StarResonanceAutoMod</title>
