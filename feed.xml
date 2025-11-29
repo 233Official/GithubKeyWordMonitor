@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 28 Nov 2025 00:24:15 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Nov 2025 00:24:21 +0000</lastBuildDate>
     <item>
       <title>[Star-Resonance] YoramCriel/Star-Resonance</title>
       <link>https://github.com/YoramCriel/Star-Resonance</link>
@@ -303,23 +303,23 @@ Updated: 2025-09-12T09:11:57Z</description>
       <title>[StarResonance] PotRooms/StarResonanceTool</title>
       <link>https://github.com/PotRooms/StarResonanceTool</link>
       <description>WIP data parser for the game "Blue Protocol: Star Resonance"
-Stars: 10
+Stars: 12
 Language: C#
-Updated: 2025-11-21T00:12:35Z</description>
-      <content:encoded><![CDATA[<p>WIP data parser for the game &quot;Blue Protocol: Star Resonance&quot;</p><ul><li><strong>Stars:</strong> 10</li><li><strong>Language:</strong> C#</li><li><strong>Updated:</strong> 2025-11-21T00:12:35Z</li></ul>]]></content:encoded>
+Updated: 2025-11-28T11:35:53Z</description>
+      <content:encoded><![CDATA[<p>WIP data parser for the game &quot;Blue Protocol: Star Resonance&quot;</p><ul><li><strong>Stars:</strong> 12</li><li><strong>Language:</strong> C#</li><li><strong>Updated:</strong> 2025-11-28T11:35:53Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/PotRooms/StarResonanceTool</guid>
-      <pubDate>Fri, 21 Nov 2025 00:12:35 +0000</pubDate>
+      <pubDate>Fri, 28 Nov 2025 11:35:53 +0000</pubDate>
     </item>
     <item>
       <title>[StarResonance] PotRooms/StarResonanceData</title>
       <link>https://github.com/PotRooms/StarResonanceData</link>
       <description>Blue Protocol: Star Resonance data
-Stars: 29
+Stars: 31
 Language: Lua
-Updated: 2025-11-24T23:46:06Z</description>
-      <content:encoded><![CDATA[<p>Blue Protocol: Star Resonance data</p><ul><li><strong>Stars:</strong> 29</li><li><strong>Language:</strong> Lua</li><li><strong>Updated:</strong> 2025-11-24T23:46:06Z</li></ul>]]></content:encoded>
+Updated: 2025-11-28T15:30:07Z</description>
+      <content:encoded><![CDATA[<p>Blue Protocol: Star Resonance data</p><ul><li><strong>Stars:</strong> 31</li><li><strong>Language:</strong> Lua</li><li><strong>Updated:</strong> 2025-11-28T15:30:07Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/PotRooms/StarResonanceData</guid>
-      <pubDate>Mon, 24 Nov 2025 23:46:06 +0000</pubDate>
+      <pubDate>Fri, 28 Nov 2025 15:30:07 +0000</pubDate>
     </item>
     <item>
       <title>[StarResonance] xxfttkx/StarResonanceAutoHunt</title>
@@ -418,17 +418,6 @@ Updated: 2025-11-13T09:08:16Z</description>
       <pubDate>Thu, 13 Nov 2025 09:08:16 +0000</pubDate>
     </item>
     <item>
-      <title>[StarResonance] rushkii/StarResonanceMetadata</title>
-      <link>https://github.com/rushkii/StarResonanceMetadata</link>
-      <description>A tool for dumping BPSR global-metadata.dat from the memory dump file
-Stars: 1
-Language: Python
-Updated: 2025-11-25T05:32:52Z</description>
-      <content:encoded><![CDATA[<p>A tool for dumping BPSR global-metadata.dat from the memory dump file</p><ul><li><strong>Stars:</strong> 1</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2025-11-25T05:32:52Z</li></ul>]]></content:encoded>
-      <guid isPermaLink="false">https://github.com/rushkii/StarResonanceMetadata</guid>
-      <pubDate>Tue, 25 Nov 2025 05:32:52 +0000</pubDate>
-    </item>
-    <item>
       <title>[StarResonance] rushkii/StarResonanceData</title>
       <link>https://github.com/rushkii/StarResonanceData</link>
       <description>A game data for the Blue Protocol: Star Resonance
@@ -451,14 +440,25 @@ Updated: 2025-11-20T03:23:22Z</description>
       <pubDate>Thu, 20 Nov 2025 03:23:22 +0000</pubDate>
     </item>
     <item>
+      <title>[StarResonance] rushkii/StarResonanceMetadata</title>
+      <link>https://github.com/rushkii/StarResonanceMetadata</link>
+      <description>A tool for dumping BPSR global-metadata.dat from the memory dump file
+Stars: 1
+Language: Python
+Updated: 2025-11-28T15:23:07Z</description>
+      <content:encoded><![CDATA[<p>A tool for dumping BPSR global-metadata.dat from the memory dump file</p><ul><li><strong>Stars:</strong> 1</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2025-11-28T15:23:07Z</li></ul>]]></content:encoded>
+      <guid isPermaLink="false">https://github.com/rushkii/StarResonanceMetadata</guid>
+      <pubDate>Fri, 28 Nov 2025 15:23:07 +0000</pubDate>
+    </item>
+    <item>
       <title>[StarResonance] anying1073/StarResonanceDps</title>
       <link>https://github.com/anying1073/StarResonanceDps</link>
       <description>Stars: 56
 Language: C#
-Updated: 2025-11-27T08:02:07Z</description>
-      <content:encoded><![CDATA[<ul><li><strong>Stars:</strong> 56</li><li><strong>Language:</strong> C#</li><li><strong>Updated:</strong> 2025-11-27T08:02:07Z</li></ul>]]></content:encoded>
+Updated: 2025-11-28T16:59:29Z</description>
+      <content:encoded><![CDATA[<ul><li><strong>Stars:</strong> 56</li><li><strong>Language:</strong> C#</li><li><strong>Updated:</strong> 2025-11-28T16:59:29Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/anying1073/StarResonanceDps</guid>
-      <pubDate>Thu, 27 Nov 2025 08:02:07 +0000</pubDate>
+      <pubDate>Fri, 28 Nov 2025 16:59:29 +0000</pubDate>
     </item>
     <item>
       <title>[星痕共鸣] Nemoxxxxx/-</title>
@@ -530,12 +530,12 @@ Updated: 2025-08-31T04:57:28Z</description>
       <title>[星痕共鸣] Alex1911-Jiang/StarResonanseMiningHelper</title>
       <link>https://github.com/Alex1911-Jiang/StarResonanseMiningHelper</link>
       <description>自用星痕共鸣挂机挖矿软件
-Stars: 2
+Stars: 3
 Language: C#
-Updated: 2025-08-21T06:58:40Z</description>
-      <content:encoded><![CDATA[<p>自用星痕共鸣挂机挖矿软件</p><ul><li><strong>Stars:</strong> 2</li><li><strong>Language:</strong> C#</li><li><strong>Updated:</strong> 2025-08-21T06:58:40Z</li></ul>]]></content:encoded>
+Updated: 2025-11-28T08:28:16Z</description>
+      <content:encoded><![CDATA[<p>自用星痕共鸣挂机挖矿软件</p><ul><li><strong>Stars:</strong> 3</li><li><strong>Language:</strong> C#</li><li><strong>Updated:</strong> 2025-11-28T08:28:16Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/Alex1911-Jiang/StarResonanseMiningHelper</guid>
-      <pubDate>Thu, 21 Aug 2025 06:58:40 +0000</pubDate>
+      <pubDate>Fri, 28 Nov 2025 08:28:16 +0000</pubDate>
     </item>
     <item>
       <title>[星痕共鸣] CKylinMC/StarResonanceDamageCounterOverlay</title>
