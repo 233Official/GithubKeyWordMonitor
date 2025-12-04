@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 03 Dec 2025 00:25:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Dec 2025 00:25:59 +0000</lastBuildDate>
     <item>
       <title>[Star-Resonance] YoramCriel/Star-Resonance</title>
       <link>https://github.com/YoramCriel/Star-Resonance</link>
@@ -455,10 +455,10 @@ Updated: 2025-11-28T15:23:07Z</description>
       <link>https://github.com/anying1073/StarResonanceDps</link>
       <description>Stars: 61
 Language: C#
-Updated: 2025-12-02T21:59:13Z</description>
-      <content:encoded><![CDATA[<ul><li><strong>Stars:</strong> 61</li><li><strong>Language:</strong> C#</li><li><strong>Updated:</strong> 2025-12-02T21:59:13Z</li></ul>]]></content:encoded>
+Updated: 2025-12-03T16:45:15Z</description>
+      <content:encoded><![CDATA[<ul><li><strong>Stars:</strong> 61</li><li><strong>Language:</strong> C#</li><li><strong>Updated:</strong> 2025-12-03T16:45:15Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/anying1073/StarResonanceDps</guid>
-      <pubDate>Tue, 02 Dec 2025 21:59:13 +0000</pubDate>
+      <pubDate>Wed, 03 Dec 2025 16:45:15 +0000</pubDate>
     </item>
     <item>
       <title>[星痕共鸣] Nemoxxxxx/-</title>
@@ -763,10 +763,10 @@ Updated: 2025-11-20T03:23:22Z</description>
       <description>基于MAAFW的星痕共鸣黑盒测试工具
 Stars: 8
 Language: Python
-Updated: 2025-12-01T03:13:30Z</description>
-      <content:encoded><![CDATA[<p>基于MAAFW的星痕共鸣黑盒测试工具</p><ul><li><strong>Stars:</strong> 8</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2025-12-01T03:13:30Z</li></ul>]]></content:encoded>
+Updated: 2025-12-03T06:51:17Z</description>
+      <content:encoded><![CDATA[<p>基于MAAFW的星痕共鸣黑盒测试工具</p><ul><li><strong>Stars:</strong> 8</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2025-12-03T06:51:17Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/233Official/MaaStarResonance</guid>
-      <pubDate>Mon, 01 Dec 2025 03:13:30 +0000</pubDate>
+      <pubDate>Wed, 03 Dec 2025 06:51:17 +0000</pubDate>
     </item>
     <item>
       <title>[星痕共鸣] YinZe0/star-map-tool</title>
@@ -774,10 +774,10 @@ Updated: 2025-12-01T03:13:30Z</description>
       <description>星痕共鸣 S2刷图工具
 Stars: 0
 Language: Go
-Updated: 2025-12-01T18:04:30Z</description>
-      <content:encoded><![CDATA[<p>星痕共鸣 S2刷图工具</p><ul><li><strong>Stars:</strong> 0</li><li><strong>Language:</strong> Go</li><li><strong>Updated:</strong> 2025-12-01T18:04:30Z</li></ul>]]></content:encoded>
+Updated: 2025-12-04T00:16:24Z</description>
+      <content:encoded><![CDATA[<p>星痕共鸣 S2刷图工具</p><ul><li><strong>Stars:</strong> 0</li><li><strong>Language:</strong> Go</li><li><strong>Updated:</strong> 2025-12-04T00:16:24Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/YinZe0/star-map-tool</guid>
-      <pubDate>Mon, 01 Dec 2025 18:04:30 +0000</pubDate>
+      <pubDate>Thu, 04 Dec 2025 00:16:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
