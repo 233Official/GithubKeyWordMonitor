@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 04 Dec 2025 00:25:59 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Dec 2025 00:25:59 +0000</lastBuildDate>
     <item>
       <title>YoramCriel/Star-Resonance</title>
       <link>https://github.com/YoramCriel/Star-Resonance</link>
@@ -34,12 +34,12 @@ Updated: 2021-03-10T22:09:26Z</description>
       <title>EricHongXDD/nonebot-star-resonance-plugin</title>
       <link>https://github.com/EricHongXDD/nonebot-star-resonance-plugin</link>
       <description>nonebot框架的插件、星痕共鸣相关
-Stars: 3
+Stars: 4
 Language: Python
-Updated: 2025-11-24T23:46:06Z</description>
-      <content:encoded><![CDATA[<p>nonebot框架的插件、星痕共鸣相关</p><ul><li><strong>Stars:</strong> 3</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2025-11-24T23:46:06Z</li></ul>]]></content:encoded>
+Updated: 2025-12-04T16:37:39Z</description>
+      <content:encoded><![CDATA[<p>nonebot框架的插件、星痕共鸣相关</p><ul><li><strong>Stars:</strong> 4</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2025-12-04T16:37:39Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/EricHongXDD/nonebot-star-resonance-plugin</guid>
-      <pubDate>Mon, 24 Nov 2025 23:46:06 +0000</pubDate>
+      <pubDate>Thu, 04 Dec 2025 16:37:39 +0000</pubDate>
     </item>
     <item>
       <title>onecdz/Star-Resonance-Damage-Counter</title>
@@ -144,10 +144,21 @@ Updated: 2025-11-26T14:04:29Z</description>
       <description>A compilation of open-source projects for Star Resonance (Blue Protocol). These tools cover DPS meters, overlays, bots, asset extraction, and community utilities. Use responsibly and follow the game’s terms of service.
 Stars: 32
 Language: HTML
-Updated: 2025-12-02T05:35:18Z</description>
-      <content:encoded><![CDATA[<p>A compilation of open-source projects for Star Resonance (Blue Protocol). These tools cover DPS meters, overlays, bots, asset extraction, and community utilities. Use responsibly and follow the game’s terms of service.</p><ul><li><strong>Stars:</strong> 32</li><li><strong>Language:</strong> HTML</li><li><strong>Updated:</strong> 2025-12-02T05:35:18Z</li></ul>]]></content:encoded>
+Updated: 2025-12-04T14:10:14Z</description>
+      <content:encoded><![CDATA[<p>A compilation of open-source projects for Star Resonance (Blue Protocol). These tools cover DPS meters, overlays, bots, asset extraction, and community utilities. Use responsibly and follow the game’s terms of service.</p><ul><li><strong>Stars:</strong> 32</li><li><strong>Language:</strong> HTML</li><li><strong>Updated:</strong> 2025-12-04T14:10:14Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/asgharkapk/Star-Resonance-GitHub-Projects</guid>
-      <pubDate>Tue, 02 Dec 2025 05:35:18 +0000</pubDate>
+      <pubDate>Thu, 04 Dec 2025 14:10:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>zeroone91/star-resonance-id-maker</title>
+      <link>https://github.com/zeroone91/star-resonance-id-maker</link>
+      <description>STAR RESONANCE ID MAKER
+Stars: 0
+Language: JavaScript
+Updated: 2025-12-04T21:49:55Z</description>
+      <content:encoded><![CDATA[<p>STAR RESONANCE ID MAKER</p><ul><li><strong>Stars:</strong> 0</li><li><strong>Language:</strong> JavaScript</li><li><strong>Updated:</strong> 2025-12-04T21:49:55Z</li></ul>]]></content:encoded>
+      <guid isPermaLink="false">https://github.com/zeroone91/star-resonance-id-maker</guid>
+      <pubDate>Thu, 04 Dec 2025 21:49:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
