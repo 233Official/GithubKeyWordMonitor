@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 05 Dec 2025 00:25:59 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Dec 2025 00:24:22 +0000</lastBuildDate>
     <item>
       <title>Icebear-Z/StarResonanceDamageCounter-Client</title>
       <link>https://github.com/Icebear-Z/StarResonanceDamageCounter-Client</link>
@@ -248,12 +248,12 @@ Updated: 2025-11-03T17:48:02Z</description>
       <title>dmlgzs/StarResonanceDamageCounter</title>
       <link>https://github.com/dmlgzs/StarResonanceDamageCounter</link>
       <description>Damage Counter for Star Resonance
-Stars: 259
+Stars: 260
 Language: JavaScript
-Updated: 2025-11-27T02:38:07Z</description>
-      <content:encoded><![CDATA[<p>Damage Counter for Star Resonance</p><ul><li><strong>Stars:</strong> 259</li><li><strong>Language:</strong> JavaScript</li><li><strong>Updated:</strong> 2025-11-27T02:38:07Z</li></ul>]]></content:encoded>
+Updated: 2025-12-05T15:29:00Z</description>
+      <content:encoded><![CDATA[<p>Damage Counter for Star Resonance</p><ul><li><strong>Stars:</strong> 260</li><li><strong>Language:</strong> JavaScript</li><li><strong>Updated:</strong> 2025-12-05T15:29:00Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/dmlgzs/StarResonanceDamageCounter</guid>
-      <pubDate>Thu, 27 Nov 2025 02:38:07 +0000</pubDate>
+      <pubDate>Fri, 05 Dec 2025 15:29:00 +0000</pubDate>
     </item>
     <item>
       <title>fudiyangjin/StarResonanceAutoMod</title>
@@ -314,10 +314,10 @@ Updated: 2025-11-28T15:23:07Z</description>
       <link>https://github.com/anying1073/StarResonanceDps</link>
       <description>Stars: 62
 Language: C#
-Updated: 2025-12-04T17:03:20Z</description>
-      <content:encoded><![CDATA[<ul><li><strong>Stars:</strong> 62</li><li><strong>Language:</strong> C#</li><li><strong>Updated:</strong> 2025-12-04T17:03:20Z</li></ul>]]></content:encoded>
+Updated: 2025-12-05T16:56:11Z</description>
+      <content:encoded><![CDATA[<ul><li><strong>Stars:</strong> 62</li><li><strong>Language:</strong> C#</li><li><strong>Updated:</strong> 2025-12-05T16:56:11Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/anying1073/StarResonanceDps</guid>
-      <pubDate>Thu, 04 Dec 2025 17:03:20 +0000</pubDate>
+      <pubDate>Fri, 05 Dec 2025 16:56:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
