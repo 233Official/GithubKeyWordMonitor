@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 07 Dec 2025 00:28:13 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Dec 2025 00:26:29 +0000</lastBuildDate>
     <item>
       <title>Icebear-Z/StarResonanceDamageCounter-Client</title>
       <link>https://github.com/Icebear-Z/StarResonanceDamageCounter-Client</link>
@@ -245,17 +245,6 @@ Updated: 2025-11-03T17:48:02Z</description>
       <pubDate>Mon, 03 Nov 2025 17:48:02 +0000</pubDate>
     </item>
     <item>
-      <title>dmlgzs/StarResonanceDamageCounter</title>
-      <link>https://github.com/dmlgzs/StarResonanceDamageCounter</link>
-      <description>Damage Counter for Star Resonance
-Stars: 261
-Language: JavaScript
-Updated: 2025-12-06T13:37:34Z</description>
-      <content:encoded><![CDATA[<p>Damage Counter for Star Resonance</p><ul><li><strong>Stars:</strong> 261</li><li><strong>Language:</strong> JavaScript</li><li><strong>Updated:</strong> 2025-12-06T13:37:34Z</li></ul>]]></content:encoded>
-      <guid isPermaLink="false">https://github.com/dmlgzs/StarResonanceDamageCounter</guid>
-      <pubDate>Sat, 06 Dec 2025 13:37:34 +0000</pubDate>
-    </item>
-    <item>
       <title>fudiyangjin/StarResonanceAutoMod</title>
       <link>https://github.com/fudiyangjin/StarResonanceAutoMod</link>
       <description>星痕共鸣全自动模组筛选(BPSR automatic filtering module)
@@ -310,14 +299,25 @@ Updated: 2025-11-28T15:23:07Z</description>
       <pubDate>Fri, 28 Nov 2025 15:23:07 +0000</pubDate>
     </item>
     <item>
+      <title>dmlgzs/StarResonanceDamageCounter</title>
+      <link>https://github.com/dmlgzs/StarResonanceDamageCounter</link>
+      <description>Damage Counter for Star Resonance
+Stars: 261
+Language: JavaScript
+Updated: 2025-12-07T05:41:31Z</description>
+      <content:encoded><![CDATA[<p>Damage Counter for Star Resonance</p><ul><li><strong>Stars:</strong> 261</li><li><strong>Language:</strong> JavaScript</li><li><strong>Updated:</strong> 2025-12-07T05:41:31Z</li></ul>]]></content:encoded>
+      <guid isPermaLink="false">https://github.com/dmlgzs/StarResonanceDamageCounter</guid>
+      <pubDate>Sun, 07 Dec 2025 05:41:31 +0000</pubDate>
+    </item>
+    <item>
       <title>anying1073/StarResonanceDps</title>
       <link>https://github.com/anying1073/StarResonanceDps</link>
       <description>Stars: 62
 Language: C#
-Updated: 2025-12-05T16:56:11Z</description>
-      <content:encoded><![CDATA[<ul><li><strong>Stars:</strong> 62</li><li><strong>Language:</strong> C#</li><li><strong>Updated:</strong> 2025-12-05T16:56:11Z</li></ul>]]></content:encoded>
+Updated: 2025-12-07T16:05:21Z</description>
+      <content:encoded><![CDATA[<ul><li><strong>Stars:</strong> 62</li><li><strong>Language:</strong> C#</li><li><strong>Updated:</strong> 2025-12-07T16:05:21Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/anying1073/StarResonanceDps</guid>
-      <pubDate>Fri, 05 Dec 2025 16:56:11 +0000</pubDate>
+      <pubDate>Sun, 07 Dec 2025 16:05:21 +0000</pubDate>
     </item>
   </channel>
 </rss>

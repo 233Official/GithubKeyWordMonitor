@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 07 Dec 2025 00:28:13 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Dec 2025 00:26:29 +0000</lastBuildDate>
     <item>
       <title>[Star-Resonance] YoramCriel/Star-Resonance</title>
       <link>https://github.com/YoramCriel/Star-Resonance</link>
@@ -155,10 +155,10 @@ Updated: 2025-12-04T14:10:14Z</description>
       <description>STAR RESONANCE ID MAKER
 Stars: 0
 Language: JavaScript
-Updated: 2025-12-07T00:14:28Z</description>
-      <content:encoded><![CDATA[<p>STAR RESONANCE ID MAKER</p><ul><li><strong>Stars:</strong> 0</li><li><strong>Language:</strong> JavaScript</li><li><strong>Updated:</strong> 2025-12-07T00:14:28Z</li></ul>]]></content:encoded>
+Updated: 2025-12-07T01:04:13Z</description>
+      <content:encoded><![CDATA[<p>STAR RESONANCE ID MAKER</p><ul><li><strong>Stars:</strong> 0</li><li><strong>Language:</strong> JavaScript</li><li><strong>Updated:</strong> 2025-12-07T01:04:13Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/zeroone91/star-resonance-id-maker</guid>
-      <pubDate>Sun, 07 Dec 2025 00:14:28 +0000</pubDate>
+      <pubDate>Sun, 07 Dec 2025 01:04:13 +0000</pubDate>
     </item>
     <item>
       <title>[StarResonance] Icebear-Z/StarResonanceDamageCounter-Client</title>
@@ -397,17 +397,6 @@ Updated: 2025-11-03T17:48:02Z</description>
       <pubDate>Mon, 03 Nov 2025 17:48:02 +0000</pubDate>
     </item>
     <item>
-      <title>[StarResonance] dmlgzs/StarResonanceDamageCounter</title>
-      <link>https://github.com/dmlgzs/StarResonanceDamageCounter</link>
-      <description>Damage Counter for Star Resonance
-Stars: 261
-Language: JavaScript
-Updated: 2025-12-06T13:37:34Z</description>
-      <content:encoded><![CDATA[<p>Damage Counter for Star Resonance</p><ul><li><strong>Stars:</strong> 261</li><li><strong>Language:</strong> JavaScript</li><li><strong>Updated:</strong> 2025-12-06T13:37:34Z</li></ul>]]></content:encoded>
-      <guid isPermaLink="false">https://github.com/dmlgzs/StarResonanceDamageCounter</guid>
-      <pubDate>Sat, 06 Dec 2025 13:37:34 +0000</pubDate>
-    </item>
-    <item>
       <title>[StarResonance] fudiyangjin/StarResonanceAutoMod</title>
       <link>https://github.com/fudiyangjin/StarResonanceAutoMod</link>
       <description>星痕共鸣全自动模组筛选(BPSR automatic filtering module)
@@ -462,14 +451,25 @@ Updated: 2025-11-28T15:23:07Z</description>
       <pubDate>Fri, 28 Nov 2025 15:23:07 +0000</pubDate>
     </item>
     <item>
+      <title>[StarResonance] dmlgzs/StarResonanceDamageCounter</title>
+      <link>https://github.com/dmlgzs/StarResonanceDamageCounter</link>
+      <description>Damage Counter for Star Resonance
+Stars: 261
+Language: JavaScript
+Updated: 2025-12-07T05:41:31Z</description>
+      <content:encoded><![CDATA[<p>Damage Counter for Star Resonance</p><ul><li><strong>Stars:</strong> 261</li><li><strong>Language:</strong> JavaScript</li><li><strong>Updated:</strong> 2025-12-07T05:41:31Z</li></ul>]]></content:encoded>
+      <guid isPermaLink="false">https://github.com/dmlgzs/StarResonanceDamageCounter</guid>
+      <pubDate>Sun, 07 Dec 2025 05:41:31 +0000</pubDate>
+    </item>
+    <item>
       <title>[StarResonance] anying1073/StarResonanceDps</title>
       <link>https://github.com/anying1073/StarResonanceDps</link>
       <description>Stars: 62
 Language: C#
-Updated: 2025-12-05T16:56:11Z</description>
-      <content:encoded><![CDATA[<ul><li><strong>Stars:</strong> 62</li><li><strong>Language:</strong> C#</li><li><strong>Updated:</strong> 2025-12-05T16:56:11Z</li></ul>]]></content:encoded>
+Updated: 2025-12-07T16:05:21Z</description>
+      <content:encoded><![CDATA[<ul><li><strong>Stars:</strong> 62</li><li><strong>Language:</strong> C#</li><li><strong>Updated:</strong> 2025-12-07T16:05:21Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/anying1073/StarResonanceDps</guid>
-      <pubDate>Fri, 05 Dec 2025 16:56:11 +0000</pubDate>
+      <pubDate>Sun, 07 Dec 2025 16:05:21 +0000</pubDate>
     </item>
     <item>
       <title>[星痕共鸣] Nemoxxxxx/-</title>
