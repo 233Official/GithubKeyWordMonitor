@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 13 Dec 2025 00:25:06 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Dec 2025 00:28:55 +0000</lastBuildDate>
     <item>
       <title>[Star-Resonance] YoramCriel/Star-Resonance</title>
       <link>https://github.com/YoramCriel/Star-Resonance</link>
@@ -98,12 +98,12 @@ Updated: 2025-10-18T08:00:10Z</description>
       <title>[Star-Resonance] 26F-Studio/maa-star-resonance</title>
       <link>https://github.com/26F-Studio/maa-star-resonance</link>
       <description>A Star Resonance helper powered by Quasar and MAA frameworks
-Stars: 2
+Stars: 3
 Language: TypeScript
-Updated: 2025-11-04T15:24:11Z</description>
-      <content:encoded><![CDATA[<p>A Star Resonance helper powered by Quasar and MAA frameworks</p><ul><li><strong>Stars:</strong> 2</li><li><strong>Language:</strong> TypeScript</li><li><strong>Updated:</strong> 2025-11-04T15:24:11Z</li></ul>]]></content:encoded>
+Updated: 2025-12-13T08:12:58Z</description>
+      <content:encoded><![CDATA[<p>A Star Resonance helper powered by Quasar and MAA frameworks</p><ul><li><strong>Stars:</strong> 3</li><li><strong>Language:</strong> TypeScript</li><li><strong>Updated:</strong> 2025-12-13T08:12:58Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/26F-Studio/maa-star-resonance</guid>
-      <pubDate>Tue, 04 Nov 2025 15:24:11 +0000</pubDate>
+      <pubDate>Sat, 13 Dec 2025 08:12:58 +0000</pubDate>
     </item>
     <item>
       <title>[Star-Resonance] Sanheiii/ok-star-resonance</title>
@@ -472,6 +472,16 @@ Updated: 2025-12-12T07:56:07Z</description>
       <pubDate>Fri, 12 Dec 2025 07:56:07 +0000</pubDate>
     </item>
     <item>
+      <title>[StarResonance] otae-1204/StarResonance-Builder</title>
+      <link>https://github.com/otae-1204/StarResonance-Builder</link>
+      <description>Stars: 0
+Language: N/A
+Updated: 2025-12-13T14:11:53Z</description>
+      <content:encoded><![CDATA[<ul><li><strong>Stars:</strong> 0</li><li><strong>Language:</strong> N/A</li><li><strong>Updated:</strong> 2025-12-13T14:11:53Z</li></ul>]]></content:encoded>
+      <guid isPermaLink="false">https://github.com/otae-1204/StarResonance-Builder</guid>
+      <pubDate>Sat, 13 Dec 2025 14:11:53 +0000</pubDate>
+    </item>
+    <item>
       <title>[星痕共鸣] Nemoxxxxx/-</title>
       <link>https://github.com/Nemoxxxxx/-</link>
       <description>星痕共鸣全地图资源工具
@@ -695,12 +705,12 @@ Updated: 2025-11-18T08:32:40Z</description>
       <title>[星痕共鸣] xxfttkx/auto_fish</title>
       <link>https://github.com/xxfttkx/auto_fish</link>
       <description>星痕共鸣自动钓鱼
-Stars: 9
+Stars: 8
 Language: Python
-Updated: 2025-10-31T03:21:13Z</description>
-      <content:encoded><![CDATA[<p>星痕共鸣自动钓鱼</p><ul><li><strong>Stars:</strong> 9</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2025-10-31T03:21:13Z</li></ul>]]></content:encoded>
+Updated: 2025-12-13T00:33:59Z</description>
+      <content:encoded><![CDATA[<p>星痕共鸣自动钓鱼</p><ul><li><strong>Stars:</strong> 8</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2025-12-13T00:33:59Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/xxfttkx/auto_fish</guid>
-      <pubDate>Fri, 31 Oct 2025 03:21:13 +0000</pubDate>
+      <pubDate>Sat, 13 Dec 2025 00:33:59 +0000</pubDate>
     </item>
     <item>
       <title>[星痕共鸣] VanillaIceCreams/AutoFuckBKLGetDress</title>
@@ -712,17 +722,6 @@ Updated: 2025-11-15T21:51:15Z</description>
       <content:encoded><![CDATA[<p>星痕共鸣自动普本</p><ul><li><strong>Stars:</strong> 16</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2025-11-15T21:51:15Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/VanillaIceCreams/AutoFuckBKLGetDress</guid>
       <pubDate>Sat, 15 Nov 2025 21:51:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>[星痕共鸣] DarylLi/mika-star-fishing-py</title>
-      <link>https://github.com/DarylLi/mika-star-fishing-py</link>
-      <description>一个用于《星痕共鸣》游戏的自动化钓鱼辅助工具，使用 Python 和 PyAutoGUI 实现自动化操作。
-Stars: 2
-Language: HTML
-Updated: 2025-11-06T01:35:45Z</description>
-      <content:encoded><![CDATA[<p>一个用于《星痕共鸣》游戏的自动化钓鱼辅助工具，使用 Python 和 PyAutoGUI 实现自动化操作。</p><ul><li><strong>Stars:</strong> 2</li><li><strong>Language:</strong> HTML</li><li><strong>Updated:</strong> 2025-11-06T01:35:45Z</li></ul>]]></content:encoded>
-      <guid isPermaLink="false">https://github.com/DarylLi/mika-star-fishing-py</guid>
-      <pubDate>Thu, 06 Nov 2025 01:35:45 +0000</pubDate>
     </item>
     <item>
       <title>[星痕共鸣] fudiyangjin/StarResonanceAutoMod</title>
@@ -783,12 +782,23 @@ Updated: 2025-12-08T23:51:15Z</description>
       <title>[星痕共鸣] 233Official/MaaStarResonance</title>
       <link>https://github.com/233Official/MaaStarResonance</link>
       <description>基于MAAFW的星痕共鸣黑盒测试工具
-Stars: 8
+Stars: 10
 Language: Python
-Updated: 2025-12-09T02:04:21Z</description>
-      <content:encoded><![CDATA[<p>基于MAAFW的星痕共鸣黑盒测试工具</p><ul><li><strong>Stars:</strong> 8</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2025-12-09T02:04:21Z</li></ul>]]></content:encoded>
+Updated: 2025-12-13T08:13:01Z</description>
+      <content:encoded><![CDATA[<p>基于MAAFW的星痕共鸣黑盒测试工具</p><ul><li><strong>Stars:</strong> 10</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2025-12-13T08:13:01Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/233Official/MaaStarResonance</guid>
-      <pubDate>Tue, 09 Dec 2025 02:04:21 +0000</pubDate>
+      <pubDate>Sat, 13 Dec 2025 08:13:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>[星痕共鸣] DarylLi/mika-star-fishing-py</title>
+      <link>https://github.com/DarylLi/mika-star-fishing-py</link>
+      <description>一个用于《星痕共鸣》游戏的自动化钓鱼辅助工具，使用 Python 和 PyAutoGUI 实现自动化操作。
+Stars: 2
+Language: HTML
+Updated: 2025-12-13T05:39:57Z</description>
+      <content:encoded><![CDATA[<p>一个用于《星痕共鸣》游戏的自动化钓鱼辅助工具，使用 Python 和 PyAutoGUI 实现自动化操作。</p><ul><li><strong>Stars:</strong> 2</li><li><strong>Language:</strong> HTML</li><li><strong>Updated:</strong> 2025-12-13T05:39:57Z</li></ul>]]></content:encoded>
+      <guid isPermaLink="false">https://github.com/DarylLi/mika-star-fishing-py</guid>
+      <pubDate>Sat, 13 Dec 2025 05:39:57 +0000</pubDate>
     </item>
   </channel>
 </rss>

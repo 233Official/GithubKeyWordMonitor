@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 13 Dec 2025 00:25:06 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Dec 2025 00:28:55 +0000</lastBuildDate>
     <item>
       <title>YoramCriel/Star-Resonance</title>
       <link>https://github.com/YoramCriel/Star-Resonance</link>
@@ -98,12 +98,12 @@ Updated: 2025-10-18T08:00:10Z</description>
       <title>26F-Studio/maa-star-resonance</title>
       <link>https://github.com/26F-Studio/maa-star-resonance</link>
       <description>A Star Resonance helper powered by Quasar and MAA frameworks
-Stars: 2
+Stars: 3
 Language: TypeScript
-Updated: 2025-11-04T15:24:11Z</description>
-      <content:encoded><![CDATA[<p>A Star Resonance helper powered by Quasar and MAA frameworks</p><ul><li><strong>Stars:</strong> 2</li><li><strong>Language:</strong> TypeScript</li><li><strong>Updated:</strong> 2025-11-04T15:24:11Z</li></ul>]]></content:encoded>
+Updated: 2025-12-13T08:12:58Z</description>
+      <content:encoded><![CDATA[<p>A Star Resonance helper powered by Quasar and MAA frameworks</p><ul><li><strong>Stars:</strong> 3</li><li><strong>Language:</strong> TypeScript</li><li><strong>Updated:</strong> 2025-12-13T08:12:58Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/26F-Studio/maa-star-resonance</guid>
-      <pubDate>Tue, 04 Nov 2025 15:24:11 +0000</pubDate>
+      <pubDate>Sat, 13 Dec 2025 08:12:58 +0000</pubDate>
     </item>
     <item>
       <title>Sanheiii/ok-star-resonance</title>
