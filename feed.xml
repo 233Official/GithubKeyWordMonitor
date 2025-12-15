@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 14 Dec 2025 00:28:55 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Dec 2025 00:28:20 +0000</lastBuildDate>
     <item>
       <title>[Star-Resonance] YoramCriel/Star-Resonance</title>
       <link>https://github.com/YoramCriel/Star-Resonance</link>
@@ -365,15 +365,15 @@ Updated: 2025-10-25T05:59:27Z</description>
       <pubDate>Sat, 25 Oct 2025 05:59:27 +0000</pubDate>
     </item>
     <item>
-      <title>[StarResonance] balrogsxt/StarResonanceAPI</title>
-      <link>https://github.com/balrogsxt/StarResonanceAPI</link>
+      <title>[StarResonance] 233Official/StarResonanceAPI</title>
+      <link>https://github.com/233Official/StarResonanceAPI</link>
       <description>基于StarResonanceDamageCounter实现的网络抓包提供一些星痕共鸣扩展API详细数据
-Stars: 10
-Language: Go
-Updated: 2025-11-15T13:41:35Z</description>
-      <content:encoded><![CDATA[<p>基于StarResonanceDamageCounter实现的网络抓包提供一些星痕共鸣扩展API详细数据</p><ul><li><strong>Stars:</strong> 10</li><li><strong>Language:</strong> Go</li><li><strong>Updated:</strong> 2025-11-15T13:41:35Z</li></ul>]]></content:encoded>
-      <guid isPermaLink="false">https://github.com/balrogsxt/StarResonanceAPI</guid>
-      <pubDate>Sat, 15 Nov 2025 13:41:35 +0000</pubDate>
+Stars: 0
+Language: N/A
+Updated: 2025-11-08T04:39:57Z</description>
+      <content:encoded><![CDATA[<p>基于StarResonanceDamageCounter实现的网络抓包提供一些星痕共鸣扩展API详细数据</p><ul><li><strong>Stars:</strong> 0</li><li><strong>Language:</strong> N/A</li><li><strong>Updated:</strong> 2025-11-08T04:39:57Z</li></ul>]]></content:encoded>
+      <guid isPermaLink="false">https://github.com/233Official/StarResonanceAPI</guid>
+      <pubDate>Sat, 08 Nov 2025 04:39:57 +0000</pubDate>
     </item>
     <item>
       <title>[StarResonance] Xuan-cc/ShiroFisher-StarResonanceSmartFishing</title>
@@ -421,12 +421,12 @@ Updated: 2025-11-13T09:08:16Z</description>
       <title>[StarResonance] rushkii/StarResonanceData</title>
       <link>https://github.com/rushkii/StarResonanceData</link>
       <description>A game data for the Blue Protocol: Star Resonance
-Stars: 2
+Stars: 3
 Language: N/A
-Updated: 2025-11-27T10:07:14Z</description>
-      <content:encoded><![CDATA[<p>A game data for the Blue Protocol: Star Resonance</p><ul><li><strong>Stars:</strong> 2</li><li><strong>Language:</strong> N/A</li><li><strong>Updated:</strong> 2025-11-27T10:07:14Z</li></ul>]]></content:encoded>
+Updated: 2025-12-14T14:58:36Z</description>
+      <content:encoded><![CDATA[<p>A game data for the Blue Protocol: Star Resonance</p><ul><li><strong>Stars:</strong> 3</li><li><strong>Language:</strong> N/A</li><li><strong>Updated:</strong> 2025-12-14T14:58:36Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/rushkii/StarResonanceData</guid>
-      <pubDate>Thu, 27 Nov 2025 10:07:14 +0000</pubDate>
+      <pubDate>Sun, 14 Dec 2025 14:58:36 +0000</pubDate>
     </item>
     <item>
       <title>[StarResonance] azmiao/StarResonanceNotice</title>
@@ -462,16 +462,6 @@ Updated: 2025-12-12T03:07:33Z</description>
       <pubDate>Fri, 12 Dec 2025 03:07:33 +0000</pubDate>
     </item>
     <item>
-      <title>[StarResonance] anying1073/StarResonanceDps</title>
-      <link>https://github.com/anying1073/StarResonanceDps</link>
-      <description>Stars: 62
-Language: C#
-Updated: 2025-12-12T07:56:07Z</description>
-      <content:encoded><![CDATA[<ul><li><strong>Stars:</strong> 62</li><li><strong>Language:</strong> C#</li><li><strong>Updated:</strong> 2025-12-12T07:56:07Z</li></ul>]]></content:encoded>
-      <guid isPermaLink="false">https://github.com/anying1073/StarResonanceDps</guid>
-      <pubDate>Fri, 12 Dec 2025 07:56:07 +0000</pubDate>
-    </item>
-    <item>
       <title>[StarResonance] otae-1204/StarResonance-Builder</title>
       <link>https://github.com/otae-1204/StarResonance-Builder</link>
       <description>Stars: 0
@@ -480,6 +470,16 @@ Updated: 2025-12-13T14:11:53Z</description>
       <content:encoded><![CDATA[<ul><li><strong>Stars:</strong> 0</li><li><strong>Language:</strong> N/A</li><li><strong>Updated:</strong> 2025-12-13T14:11:53Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/otae-1204/StarResonance-Builder</guid>
       <pubDate>Sat, 13 Dec 2025 14:11:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>[StarResonance] anying1073/StarResonanceDps</title>
+      <link>https://github.com/anying1073/StarResonanceDps</link>
+      <description>Stars: 62
+Language: C#
+Updated: 2025-12-14T11:49:16Z</description>
+      <content:encoded><![CDATA[<ul><li><strong>Stars:</strong> 62</li><li><strong>Language:</strong> C#</li><li><strong>Updated:</strong> 2025-12-14T11:49:16Z</li></ul>]]></content:encoded>
+      <guid isPermaLink="false">https://github.com/anying1073/StarResonanceDps</guid>
+      <pubDate>Sun, 14 Dec 2025 11:49:16 +0000</pubDate>
     </item>
     <item>
       <title>[星痕共鸣] Nemoxxxxx/-</title>
@@ -680,15 +680,15 @@ Updated: 2025-10-20T02:12:54Z</description>
       <pubDate>Mon, 20 Oct 2025 02:12:54 +0000</pubDate>
     </item>
     <item>
-      <title>[星痕共鸣] balrogsxt/StarResonanceAPI</title>
-      <link>https://github.com/balrogsxt/StarResonanceAPI</link>
+      <title>[星痕共鸣] 233Official/StarResonanceAPI</title>
+      <link>https://github.com/233Official/StarResonanceAPI</link>
       <description>基于StarResonanceDamageCounter实现的网络抓包提供一些星痕共鸣扩展API详细数据
-Stars: 10
-Language: Go
-Updated: 2025-11-15T13:41:35Z</description>
-      <content:encoded><![CDATA[<p>基于StarResonanceDamageCounter实现的网络抓包提供一些星痕共鸣扩展API详细数据</p><ul><li><strong>Stars:</strong> 10</li><li><strong>Language:</strong> Go</li><li><strong>Updated:</strong> 2025-11-15T13:41:35Z</li></ul>]]></content:encoded>
-      <guid isPermaLink="false">https://github.com/balrogsxt/StarResonanceAPI</guid>
-      <pubDate>Sat, 15 Nov 2025 13:41:35 +0000</pubDate>
+Stars: 0
+Language: N/A
+Updated: 2025-11-08T04:39:57Z</description>
+      <content:encoded><![CDATA[<p>基于StarResonanceDamageCounter实现的网络抓包提供一些星痕共鸣扩展API详细数据</p><ul><li><strong>Stars:</strong> 0</li><li><strong>Language:</strong> N/A</li><li><strong>Updated:</strong> 2025-11-08T04:39:57Z</li></ul>]]></content:encoded>
+      <guid isPermaLink="false">https://github.com/233Official/StarResonanceAPI</guid>
+      <pubDate>Sat, 08 Nov 2025 04:39:57 +0000</pubDate>
     </item>
     <item>
       <title>[星痕共鸣] Xuan-cc/ShiroFisher-StarResonanceSmartFishing</title>
