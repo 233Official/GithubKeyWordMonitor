@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 16 Dec 2025 00:26:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Dec 2025 00:25:46 +0000</lastBuildDate>
     <item>
       <title>Nemoxxxxx/-</title>
       <link>https://github.com/Nemoxxxxx/-</link>
@@ -298,12 +298,12 @@ Updated: 2025-11-20T03:23:22Z</description>
       <title>YinZe0/star-map-tool</title>
       <link>https://github.com/YinZe0/star-map-tool</link>
       <description>星痕共鸣 S2刷图工具
-Stars: 1
+Stars: 2
 Language: Go
-Updated: 2025-12-08T23:51:15Z</description>
-      <content:encoded><![CDATA[<p>星痕共鸣 S2刷图工具</p><ul><li><strong>Stars:</strong> 1</li><li><strong>Language:</strong> Go</li><li><strong>Updated:</strong> 2025-12-08T23:51:15Z</li></ul>]]></content:encoded>
+Updated: 2025-12-16T08:07:27Z</description>
+      <content:encoded><![CDATA[<p>星痕共鸣 S2刷图工具</p><ul><li><strong>Stars:</strong> 2</li><li><strong>Language:</strong> Go</li><li><strong>Updated:</strong> 2025-12-16T08:07:27Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/YinZe0/star-map-tool</guid>
-      <pubDate>Mon, 08 Dec 2025 23:51:15 +0000</pubDate>
+      <pubDate>Tue, 16 Dec 2025 08:07:27 +0000</pubDate>
     </item>
     <item>
       <title>233Official/MaaStarResonance</title>
