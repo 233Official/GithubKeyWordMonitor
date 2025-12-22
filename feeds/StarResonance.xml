@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 21 Dec 2025 00:28:31 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Dec 2025 00:28:09 +0000</lastBuildDate>
     <item>
       <title>Icebear-Z/StarResonanceDamageCounter-Client</title>
       <link>https://github.com/Icebear-Z/StarResonanceDamageCounter-Client</link>
@@ -322,12 +322,23 @@ Updated: 2025-12-13T14:11:53Z</description>
     <item>
       <title>anying1073/StarResonanceDps</title>
       <link>https://github.com/anying1073/StarResonanceDps</link>
-      <description>Stars: 63
+      <description>Stars: 64
 Language: C#
-Updated: 2025-12-20T23:51:02Z</description>
-      <content:encoded><![CDATA[<ul><li><strong>Stars:</strong> 63</li><li><strong>Language:</strong> C#</li><li><strong>Updated:</strong> 2025-12-20T23:51:02Z</li></ul>]]></content:encoded>
+Updated: 2025-12-21T14:13:06Z</description>
+      <content:encoded><![CDATA[<ul><li><strong>Stars:</strong> 64</li><li><strong>Language:</strong> C#</li><li><strong>Updated:</strong> 2025-12-21T14:13:06Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/anying1073/StarResonanceDps</guid>
-      <pubDate>Sat, 20 Dec 2025 23:51:02 +0000</pubDate>
+      <pubDate>Sun, 21 Dec 2025 14:13:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>spicakirakira/StarResonanceDps_JP</title>
+      <link>https://github.com/spicakirakira/StarResonanceDps_JP</link>
+      <description>StarResonanceDps Japanese Version / スタレゾDPSメーター（日本語版）
+Stars: 0
+Language: C#
+Updated: 2025-12-21T20:52:05Z</description>
+      <content:encoded><![CDATA[<p>StarResonanceDps Japanese Version / スタレゾDPSメーター（日本語版）</p><ul><li><strong>Stars:</strong> 0</li><li><strong>Language:</strong> C#</li><li><strong>Updated:</strong> 2025-12-21T20:52:05Z</li></ul>]]></content:encoded>
+      <guid isPermaLink="false">https://github.com/spicakirakira/StarResonanceDps_JP</guid>
+      <pubDate>Sun, 21 Dec 2025 20:52:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
