@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 23 Dec 2025 00:26:08 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Dec 2025 00:26:18 +0000</lastBuildDate>
     <item>
       <title>[Star-Resonance] YoramCriel/Star-Resonance</title>
       <link>https://github.com/YoramCriel/Star-Resonance</link>
@@ -472,16 +472,6 @@ Updated: 2025-12-13T14:11:53Z</description>
       <pubDate>Sat, 13 Dec 2025 14:11:53 +0000</pubDate>
     </item>
     <item>
-      <title>[StarResonance] anying1073/StarResonanceDps</title>
-      <link>https://github.com/anying1073/StarResonanceDps</link>
-      <description>Stars: 64
-Language: C#
-Updated: 2025-12-21T14:13:06Z</description>
-      <content:encoded><![CDATA[<ul><li><strong>Stars:</strong> 64</li><li><strong>Language:</strong> C#</li><li><strong>Updated:</strong> 2025-12-21T14:13:06Z</li></ul>]]></content:encoded>
-      <guid isPermaLink="false">https://github.com/anying1073/StarResonanceDps</guid>
-      <pubDate>Sun, 21 Dec 2025 14:13:06 +0000</pubDate>
-    </item>
-    <item>
       <title>[StarResonance] spicakirakira/StarResonanceDps_JP</title>
       <link>https://github.com/spicakirakira/StarResonanceDps_JP</link>
       <description>StarResonanceDps Japanese Version / スタレゾDPSメーター（日本語版）
@@ -498,10 +488,20 @@ Updated: 2025-12-22T00:59:00Z</description>
       <description>Some scripts and plugins for automation in Star Resonance
 Stars: 0
 Language: Jupyter Notebook
-Updated: 2025-12-22T10:10:15Z</description>
-      <content:encoded><![CDATA[<p>Some scripts and plugins for automation in Star Resonance</p><ul><li><strong>Stars:</strong> 0</li><li><strong>Language:</strong> Jupyter Notebook</li><li><strong>Updated:</strong> 2025-12-22T10:10:15Z</li></ul>]]></content:encoded>
+Updated: 2025-12-23T07:41:47Z</description>
+      <content:encoded><![CDATA[<p>Some scripts and plugins for automation in Star Resonance</p><ul><li><strong>Stars:</strong> 0</li><li><strong>Language:</strong> Jupyter Notebook</li><li><strong>Updated:</strong> 2025-12-23T07:41:47Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/Sucrosato/KeymouseGo_StarResonance</guid>
-      <pubDate>Mon, 22 Dec 2025 10:10:15 +0000</pubDate>
+      <pubDate>Tue, 23 Dec 2025 07:41:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>[StarResonance] anying1073/StarResonanceDps</title>
+      <link>https://github.com/anying1073/StarResonanceDps</link>
+      <description>Stars: 65
+Language: C#
+Updated: 2025-12-23T17:07:32Z</description>
+      <content:encoded><![CDATA[<ul><li><strong>Stars:</strong> 65</li><li><strong>Language:</strong> C#</li><li><strong>Updated:</strong> 2025-12-23T17:07:32Z</li></ul>]]></content:encoded>
+      <guid isPermaLink="false">https://github.com/anying1073/StarResonanceDps</guid>
+      <pubDate>Tue, 23 Dec 2025 17:07:32 +0000</pubDate>
     </item>
     <item>
       <title>[星痕共鸣] Nemoxxxxx/-</title>
