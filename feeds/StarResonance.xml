@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 26 Dec 2025 00:26:15 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Dec 2025 00:26:01 +0000</lastBuildDate>
     <item>
       <title>Icebear-Z/StarResonanceDamageCounter-Client</title>
       <link>https://github.com/Icebear-Z/StarResonanceDamageCounter-Client</link>
@@ -288,17 +288,6 @@ Updated: 2025-11-20T03:23:22Z</description>
       <pubDate>Thu, 20 Nov 2025 03:23:22 +0000</pubDate>
     </item>
     <item>
-      <title>rushkii/StarResonanceMetadata</title>
-      <link>https://github.com/rushkii/StarResonanceMetadata</link>
-      <description>A tool for dumping BPSR global-metadata.dat from the memory dump file
-Stars: 1
-Language: Python
-Updated: 2025-11-28T15:23:07Z</description>
-      <content:encoded><![CDATA[<p>A tool for dumping BPSR global-metadata.dat from the memory dump file</p><ul><li><strong>Stars:</strong> 1</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2025-11-28T15:23:07Z</li></ul>]]></content:encoded>
-      <guid isPermaLink="false">https://github.com/rushkii/StarResonanceMetadata</guid>
-      <pubDate>Fri, 28 Nov 2025 15:23:07 +0000</pubDate>
-    </item>
-    <item>
       <title>dmlgzs/StarResonanceDamageCounter</title>
       <link>https://github.com/dmlgzs/StarResonanceDamageCounter</link>
       <description>Damage Counter for Star Resonance
@@ -346,10 +335,21 @@ Updated: 2025-12-24T14:52:39Z</description>
       <link>https://github.com/anying1073/StarResonanceDps</link>
       <description>Stars: 66
 Language: C#
-Updated: 2025-12-25T15:10:01Z</description>
-      <content:encoded><![CDATA[<ul><li><strong>Stars:</strong> 66</li><li><strong>Language:</strong> C#</li><li><strong>Updated:</strong> 2025-12-25T15:10:01Z</li></ul>]]></content:encoded>
+Updated: 2025-12-26T16:08:09Z</description>
+      <content:encoded><![CDATA[<ul><li><strong>Stars:</strong> 66</li><li><strong>Language:</strong> C#</li><li><strong>Updated:</strong> 2025-12-26T16:08:09Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/anying1073/StarResonanceDps</guid>
-      <pubDate>Thu, 25 Dec 2025 15:10:01 +0000</pubDate>
+      <pubDate>Fri, 26 Dec 2025 16:08:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>rushkii/StarResonanceMetadata</title>
+      <link>https://github.com/rushkii/StarResonanceMetadata</link>
+      <description>A tool for dumping BPSR global-metadata.dat from the memory dump file
+Stars: 1
+Language: Python
+Updated: 2025-12-27T00:18:41Z</description>
+      <content:encoded><![CDATA[<p>A tool for dumping BPSR global-metadata.dat from the memory dump file</p><ul><li><strong>Stars:</strong> 1</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2025-12-27T00:18:41Z</li></ul>]]></content:encoded>
+      <guid isPermaLink="false">https://github.com/rushkii/StarResonanceMetadata</guid>
+      <pubDate>Sat, 27 Dec 2025 00:18:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
