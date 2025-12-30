@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 29 Dec 2025 00:29:07 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Dec 2025 00:26:33 +0000</lastBuildDate>
     <item>
       <title>[Star-Resonance] YoramCriel/Star-Resonance</title>
       <link>https://github.com/YoramCriel/Star-Resonance</link>
@@ -402,10 +402,10 @@ Updated: 2025-11-03T17:48:02Z</description>
       <description>星痕共鸣全自动模组筛选(BPSR automatic filtering module)
 Stars: 60
 Language: Python
-Updated: 2025-12-24T04:54:04Z</description>
-      <content:encoded><![CDATA[<p>星痕共鸣全自动模组筛选(BPSR automatic filtering module)</p><ul><li><strong>Stars:</strong> 60</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2025-12-24T04:54:04Z</li></ul>]]></content:encoded>
+Updated: 2025-12-29T15:58:11Z</description>
+      <content:encoded><![CDATA[<p>星痕共鸣全自动模组筛选(BPSR automatic filtering module)</p><ul><li><strong>Stars:</strong> 60</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2025-12-29T15:58:11Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/fudiyangjin/StarResonanceAutoMod</guid>
-      <pubDate>Wed, 24 Dec 2025 04:54:04 +0000</pubDate>
+      <pubDate>Mon, 29 Dec 2025 15:58:11 +0000</pubDate>
     </item>
     <item>
       <title>[StarResonance] Roli-Ram/StarResonance</title>
@@ -496,12 +496,12 @@ Updated: 2025-12-27T00:18:41Z</description>
     <item>
       <title>[StarResonance] anying1073/StarResonanceDps</title>
       <link>https://github.com/anying1073/StarResonanceDps</link>
-      <description>Stars: 66
+      <description>Stars: 67
 Language: C#
-Updated: 2025-12-27T08:13:41Z</description>
-      <content:encoded><![CDATA[<ul><li><strong>Stars:</strong> 66</li><li><strong>Language:</strong> C#</li><li><strong>Updated:</strong> 2025-12-27T08:13:41Z</li></ul>]]></content:encoded>
+Updated: 2025-12-29T09:36:36Z</description>
+      <content:encoded><![CDATA[<ul><li><strong>Stars:</strong> 67</li><li><strong>Language:</strong> C#</li><li><strong>Updated:</strong> 2025-12-29T09:36:36Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/anying1073/StarResonanceDps</guid>
-      <pubDate>Sat, 27 Dec 2025 08:13:41 +0000</pubDate>
+      <pubDate>Mon, 29 Dec 2025 09:36:36 +0000</pubDate>
     </item>
     <item>
       <title>[星痕共鸣] Nemoxxxxx/-</title>
@@ -751,10 +751,10 @@ Updated: 2025-11-15T21:51:15Z</description>
       <description>星痕共鸣全自动模组筛选(BPSR automatic filtering module)
 Stars: 60
 Language: Python
-Updated: 2025-12-24T04:54:04Z</description>
-      <content:encoded><![CDATA[<p>星痕共鸣全自动模组筛选(BPSR automatic filtering module)</p><ul><li><strong>Stars:</strong> 60</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2025-12-24T04:54:04Z</li></ul>]]></content:encoded>
+Updated: 2025-12-29T15:58:11Z</description>
+      <content:encoded><![CDATA[<p>星痕共鸣全自动模组筛选(BPSR automatic filtering module)</p><ul><li><strong>Stars:</strong> 60</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2025-12-29T15:58:11Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/fudiyangjin/StarResonanceAutoMod</guid>
-      <pubDate>Wed, 24 Dec 2025 04:54:04 +0000</pubDate>
+      <pubDate>Mon, 29 Dec 2025 15:58:11 +0000</pubDate>
     </item>
     <item>
       <title>[星痕共鸣] Yukino12333/star_maa</title>
@@ -817,10 +817,10 @@ Updated: 2025-12-24T13:27:33Z</description>
       <description>基于MAAFW的星痕共鸣黑盒测试工具
 Stars: 12
 Language: Python
-Updated: 2025-12-28T05:52:13Z</description>
-      <content:encoded><![CDATA[<p>基于MAAFW的星痕共鸣黑盒测试工具</p><ul><li><strong>Stars:</strong> 12</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2025-12-28T05:52:13Z</li></ul>]]></content:encoded>
+Updated: 2025-12-29T06:47:30Z</description>
+      <content:encoded><![CDATA[<p>基于MAAFW的星痕共鸣黑盒测试工具</p><ul><li><strong>Stars:</strong> 12</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2025-12-29T06:47:30Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/233Official/MaaStarResonance</guid>
-      <pubDate>Sun, 28 Dec 2025 05:52:13 +0000</pubDate>
+      <pubDate>Mon, 29 Dec 2025 06:47:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
