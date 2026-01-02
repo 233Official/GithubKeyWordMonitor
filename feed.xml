@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 01 Jan 2026 00:30:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Jan 2026 00:27:09 +0000</lastBuildDate>
     <item>
       <title>[Star-Resonance] YoramCriel/Star-Resonance</title>
       <link>https://github.com/YoramCriel/Star-Resonance</link>
@@ -483,17 +483,6 @@ Updated: 2025-12-27T00:18:41Z</description>
       <pubDate>Sat, 27 Dec 2025 00:18:41 +0000</pubDate>
     </item>
     <item>
-      <title>[StarResonance] Sucrosato/KeymouseGo_StarResonance</title>
-      <link>https://github.com/Sucrosato/KeymouseGo_StarResonance</link>
-      <description>Some scripts and plugins for automation in Star Resonance
-Stars: 0
-Language: Jupyter Notebook
-Updated: 2025-12-30T10:16:49Z</description>
-      <content:encoded><![CDATA[<p>Some scripts and plugins for automation in Star Resonance</p><ul><li><strong>Stars:</strong> 0</li><li><strong>Language:</strong> Jupyter Notebook</li><li><strong>Updated:</strong> 2025-12-30T10:16:49Z</li></ul>]]></content:encoded>
-      <guid isPermaLink="false">https://github.com/Sucrosato/KeymouseGo_StarResonance</guid>
-      <pubDate>Tue, 30 Dec 2025 10:16:49 +0000</pubDate>
-    </item>
-    <item>
       <title>[StarResonance] anying1073/StarResonanceDps</title>
       <link>https://github.com/anying1073/StarResonanceDps</link>
       <description>Stars: 67
@@ -502,6 +491,17 @@ Updated: 2025-12-31T15:58:17Z</description>
       <content:encoded><![CDATA[<ul><li><strong>Stars:</strong> 67</li><li><strong>Language:</strong> C#</li><li><strong>Updated:</strong> 2025-12-31T15:58:17Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/anying1073/StarResonanceDps</guid>
       <pubDate>Wed, 31 Dec 2025 15:58:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>[StarResonance] Sucrosato/KeymouseGo_StarResonance</title>
+      <link>https://github.com/Sucrosato/KeymouseGo_StarResonance</link>
+      <description>Some scripts and plugins for automation in Star Resonance
+Stars: 0
+Language: Python
+Updated: 2026-01-01T10:40:06Z</description>
+      <content:encoded><![CDATA[<p>Some scripts and plugins for automation in Star Resonance</p><ul><li><strong>Stars:</strong> 0</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2026-01-01T10:40:06Z</li></ul>]]></content:encoded>
+      <guid isPermaLink="false">https://github.com/Sucrosato/KeymouseGo_StarResonance</guid>
+      <pubDate>Thu, 01 Jan 2026 10:40:06 +0000</pubDate>
     </item>
     <item>
       <title>[星痕共鸣] Nemoxxxxx/-</title>
