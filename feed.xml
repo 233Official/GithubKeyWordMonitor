@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 03 Jan 2026 00:25:26 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Jan 2026 00:30:19 +0000</lastBuildDate>
     <item>
       <title>[Star-Resonance] YoramCriel/Star-Resonance</title>
       <link>https://github.com/YoramCriel/Star-Resonance</link>
@@ -165,10 +165,10 @@ Updated: 2025-12-31T09:16:58Z</description>
       <link>https://github.com/cabernet96258/star-resonance-tracker</link>
       <description>Stars: 0
 Language: HTML
-Updated: 2026-01-02T10:19:33Z</description>
-      <content:encoded><![CDATA[<ul><li><strong>Stars:</strong> 0</li><li><strong>Language:</strong> HTML</li><li><strong>Updated:</strong> 2026-01-02T10:19:33Z</li></ul>]]></content:encoded>
+Updated: 2026-01-03T14:14:33Z</description>
+      <content:encoded><![CDATA[<ul><li><strong>Stars:</strong> 0</li><li><strong>Language:</strong> HTML</li><li><strong>Updated:</strong> 2026-01-03T14:14:33Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/cabernet96258/star-resonance-tracker</guid>
-      <pubDate>Fri, 02 Jan 2026 10:19:33 +0000</pubDate>
+      <pubDate>Sat, 03 Jan 2026 14:14:33 +0000</pubDate>
     </item>
     <item>
       <title>[StarResonance] Icebear-Z/StarResonanceDamageCounter-Client</title>
