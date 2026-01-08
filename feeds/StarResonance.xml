@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 07 Jan 2026 00:26:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Jan 2026 00:27:15 +0000</lastBuildDate>
     <item>
       <title>Icebear-Z/StarResonanceDamageCounter-Client</title>
       <link>https://github.com/Icebear-Z/StarResonanceDamageCounter-Client</link>
@@ -331,25 +331,15 @@ Updated: 2025-12-27T00:18:41Z</description>
       <pubDate>Sat, 27 Dec 2025 00:18:41 +0000</pubDate>
     </item>
     <item>
-      <title>anying1073/StarResonanceDps</title>
-      <link>https://github.com/anying1073/StarResonanceDps</link>
-      <description>Stars: 69
-Language: C#
-Updated: 2026-01-06T06:14:41Z</description>
-      <content:encoded><![CDATA[<ul><li><strong>Stars:</strong> 69</li><li><strong>Language:</strong> C#</li><li><strong>Updated:</strong> 2026-01-06T06:14:41Z</li></ul>]]></content:encoded>
-      <guid isPermaLink="false">https://github.com/anying1073/StarResonanceDps</guid>
-      <pubDate>Tue, 06 Jan 2026 06:14:41 +0000</pubDate>
-    </item>
-    <item>
       <title>Sucrosato/KeymouseGo_StarResonance</title>
       <link>https://github.com/Sucrosato/KeymouseGo_StarResonance</link>
       <description>Some scripts and plugins for automation in Star Resonance
-Stars: 0
+Stars: 1
 Language: Python
-Updated: 2026-01-04T03:42:13Z</description>
-      <content:encoded><![CDATA[<p>Some scripts and plugins for automation in Star Resonance</p><ul><li><strong>Stars:</strong> 0</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2026-01-04T03:42:13Z</li></ul>]]></content:encoded>
+Updated: 2026-01-07T04:13:48Z</description>
+      <content:encoded><![CDATA[<p>Some scripts and plugins for automation in Star Resonance</p><ul><li><strong>Stars:</strong> 1</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2026-01-07T04:13:48Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/Sucrosato/KeymouseGo_StarResonance</guid>
-      <pubDate>Sun, 04 Jan 2026 03:42:13 +0000</pubDate>
+      <pubDate>Wed, 07 Jan 2026 04:13:48 +0000</pubDate>
     </item>
     <item>
       <title>Amamo-1119/BlueProtocol_StarResonance</title>
@@ -360,6 +350,16 @@ Updated: 2026-01-06T04:28:10Z</description>
       <content:encoded><![CDATA[<ul><li><strong>Stars:</strong> 0</li><li><strong>Language:</strong> HTML</li><li><strong>Updated:</strong> 2026-01-06T04:28:10Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/Amamo-1119/BlueProtocol_StarResonance</guid>
       <pubDate>Tue, 06 Jan 2026 04:28:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>anying1073/StarResonanceDps</title>
+      <link>https://github.com/anying1073/StarResonanceDps</link>
+      <description>Stars: 70
+Language: C#
+Updated: 2026-01-07T03:41:50Z</description>
+      <content:encoded><![CDATA[<ul><li><strong>Stars:</strong> 70</li><li><strong>Language:</strong> C#</li><li><strong>Updated:</strong> 2026-01-07T03:41:50Z</li></ul>]]></content:encoded>
+      <guid isPermaLink="false">https://github.com/anying1073/StarResonanceDps</guid>
+      <pubDate>Wed, 07 Jan 2026 03:41:50 +0000</pubDate>
     </item>
   </channel>
 </rss>
