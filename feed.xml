@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 09 Jan 2026 00:26:54 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Jan 2026 00:26:11 +0000</lastBuildDate>
     <item>
       <title>[Star-Resonance] YoramCriel/Star-Resonance</title>
       <link>https://github.com/YoramCriel/Star-Resonance</link>
@@ -139,17 +139,6 @@ Updated: 2025-12-31T22:33:55Z</description>
       <pubDate>Wed, 31 Dec 2025 22:33:55 +0000</pubDate>
     </item>
     <item>
-      <title>[Star-Resonance] zeroone91/star-resonance-id-maker</title>
-      <link>https://github.com/zeroone91/star-resonance-id-maker</link>
-      <description>STAR RESONANCE ID MAKER
-Stars: 0
-Language: JavaScript
-Updated: 2025-12-31T09:16:58Z</description>
-      <content:encoded><![CDATA[<p>STAR RESONANCE ID MAKER</p><ul><li><strong>Stars:</strong> 0</li><li><strong>Language:</strong> JavaScript</li><li><strong>Updated:</strong> 2025-12-31T09:16:58Z</li></ul>]]></content:encoded>
-      <guid isPermaLink="false">https://github.com/zeroone91/star-resonance-id-maker</guid>
-      <pubDate>Wed, 31 Dec 2025 09:16:58 +0000</pubDate>
-    </item>
-    <item>
       <title>[Star-Resonance] cabernet96258/star-resonance-tracker</title>
       <link>https://github.com/cabernet96258/star-resonance-tracker</link>
       <description>Stars: 0
@@ -179,6 +168,17 @@ Updated: 2026-01-08T13:45:29Z</description>
       <content:encoded><![CDATA[<ul><li><strong>Stars:</strong> 0</li><li><strong>Language:</strong> HTML</li><li><strong>Updated:</strong> 2026-01-08T13:45:29Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/KaanEh/BP-Star-Resonance-legal</guid>
       <pubDate>Thu, 08 Jan 2026 13:45:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Star-Resonance] zeroone91/star-resonance-id-maker</title>
+      <link>https://github.com/zeroone91/star-resonance-id-maker</link>
+      <description>STAR RESONANCE ID MAKER
+Stars: 0
+Language: JavaScript
+Updated: 2026-01-09T04:42:14Z</description>
+      <content:encoded><![CDATA[<p>STAR RESONANCE ID MAKER</p><ul><li><strong>Stars:</strong> 0</li><li><strong>Language:</strong> JavaScript</li><li><strong>Updated:</strong> 2026-01-09T04:42:14Z</li></ul>]]></content:encoded>
+      <guid isPermaLink="false">https://github.com/zeroone91/star-resonance-id-maker</guid>
+      <pubDate>Fri, 09 Jan 2026 04:42:14 +0000</pubDate>
     </item>
     <item>
       <title>[StarResonance] Icebear-Z/StarResonanceDamageCounter-Client</title>
@@ -524,14 +524,25 @@ Updated: 2026-01-06T04:28:10Z</description>
       <pubDate>Tue, 06 Jan 2026 04:28:10 +0000</pubDate>
     </item>
     <item>
+      <title>[StarResonance] StarResonance/StarResonanceHelper</title>
+      <link>https://github.com/StarResonance/StarResonanceHelper</link>
+      <description>星痕共鳴小助手
+Stars: 0
+Language: HTML
+Updated: 2026-01-09T02:06:25Z</description>
+      <content:encoded><![CDATA[<p>星痕共鳴小助手</p><ul><li><strong>Stars:</strong> 0</li><li><strong>Language:</strong> HTML</li><li><strong>Updated:</strong> 2026-01-09T02:06:25Z</li></ul>]]></content:encoded>
+      <guid isPermaLink="false">https://github.com/StarResonance/StarResonanceHelper</guid>
+      <pubDate>Fri, 09 Jan 2026 02:06:25 +0000</pubDate>
+    </item>
+    <item>
       <title>[StarResonance] anying1073/StarResonanceDps</title>
       <link>https://github.com/anying1073/StarResonanceDps</link>
       <description>Stars: 70
 Language: C#
-Updated: 2026-01-08T05:49:32Z</description>
-      <content:encoded><![CDATA[<ul><li><strong>Stars:</strong> 70</li><li><strong>Language:</strong> C#</li><li><strong>Updated:</strong> 2026-01-08T05:49:32Z</li></ul>]]></content:encoded>
+Updated: 2026-01-09T18:06:32Z</description>
+      <content:encoded><![CDATA[<ul><li><strong>Stars:</strong> 70</li><li><strong>Language:</strong> C#</li><li><strong>Updated:</strong> 2026-01-09T18:06:32Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/anying1073/StarResonanceDps</guid>
-      <pubDate>Thu, 08 Jan 2026 05:49:32 +0000</pubDate>
+      <pubDate>Fri, 09 Jan 2026 18:06:32 +0000</pubDate>
     </item>
     <item>
       <title>[星痕共鸣] Nemoxxxxx/-</title>
