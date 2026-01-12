@@ -7,18 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 11 Jan 2026 00:30:10 +0000</lastBuildDate>
-    <item>
-      <title>[Star-Resonance] YoramCriel/Star-Resonance</title>
-      <link>https://github.com/YoramCriel/Star-Resonance</link>
-      <description>Echo of connecting stars 
-Stars: 0
-Language: JavaScript
-Updated: 2017-12-20T04:58:25Z</description>
-      <content:encoded><![CDATA[<p>Echo of connecting stars </p><ul><li><strong>Stars:</strong> 0</li><li><strong>Language:</strong> JavaScript</li><li><strong>Updated:</strong> 2017-12-20T04:58:25Z</li></ul>]]></content:encoded>
-      <guid isPermaLink="false">https://github.com/YoramCriel/Star-Resonance</guid>
-      <pubDate>Wed, 20 Dec 2017 04:58:25 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 12 Jan 2026 00:28:35 +0000</lastBuildDate>
     <item>
       <title>[Star-Resonance] El-Omar/star-resonance</title>
       <link>https://github.com/El-Omar/star-resonance</link>
@@ -345,12 +334,12 @@ Updated: 2025-12-27T10:17:57Z</description>
       <title>[StarResonance] PotRooms/StarResonanceData</title>
       <link>https://github.com/PotRooms/StarResonanceData</link>
       <description>Blue Protocol: Star Resonance data
-Stars: 34
+Stars: 36
 Language: Lua
-Updated: 2025-12-27T10:17:51Z</description>
-      <content:encoded><![CDATA[<p>Blue Protocol: Star Resonance data</p><ul><li><strong>Stars:</strong> 34</li><li><strong>Language:</strong> Lua</li><li><strong>Updated:</strong> 2025-12-27T10:17:51Z</li></ul>]]></content:encoded>
+Updated: 2026-01-11T16:54:43Z</description>
+      <content:encoded><![CDATA[<p>Blue Protocol: Star Resonance data</p><ul><li><strong>Stars:</strong> 36</li><li><strong>Language:</strong> Lua</li><li><strong>Updated:</strong> 2026-01-11T16:54:43Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/PotRooms/StarResonanceData</guid>
-      <pubDate>Sat, 27 Dec 2025 10:17:51 +0000</pubDate>
+      <pubDate>Sun, 11 Jan 2026 16:54:43 +0000</pubDate>
     </item>
     <item>
       <title>[StarResonance] xxfttkx/StarResonanceAutoHunt</title>
@@ -543,6 +532,17 @@ Updated: 2026-01-10T12:43:28Z</description>
       <content:encoded><![CDATA[<p>Some scripts and plugins for automation in Star Resonance</p><ul><li><strong>Stars:</strong> 1</li><li><strong>Language:</strong> Jupyter Notebook</li><li><strong>Updated:</strong> 2026-01-10T12:43:28Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/Sucrosato/KeymouseGo_StarResonance</guid>
       <pubDate>Sat, 10 Jan 2026 12:43:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>[StarResonance] walnut-almonds/StarResonanceFishing</title>
+      <link>https://github.com/walnut-almonds/StarResonanceFishing</link>
+      <description>StarResonance fishing automation
+Stars: 0
+Language: Python
+Updated: 2026-01-11T15:44:15Z</description>
+      <content:encoded><![CDATA[<p>StarResonance fishing automation</p><ul><li><strong>Stars:</strong> 0</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2026-01-11T15:44:15Z</li></ul>]]></content:encoded>
+      <guid isPermaLink="false">https://github.com/walnut-almonds/StarResonanceFishing</guid>
+      <pubDate>Sun, 11 Jan 2026 15:44:15 +0000</pubDate>
     </item>
     <item>
       <title>[星痕共鸣] Nemoxxxxx/-</title>

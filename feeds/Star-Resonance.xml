@@ -7,18 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 11 Jan 2026 00:30:10 +0000</lastBuildDate>
-    <item>
-      <title>YoramCriel/Star-Resonance</title>
-      <link>https://github.com/YoramCriel/Star-Resonance</link>
-      <description>Echo of connecting stars 
-Stars: 0
-Language: JavaScript
-Updated: 2017-12-20T04:58:25Z</description>
-      <content:encoded><![CDATA[<p>Echo of connecting stars </p><ul><li><strong>Stars:</strong> 0</li><li><strong>Language:</strong> JavaScript</li><li><strong>Updated:</strong> 2017-12-20T04:58:25Z</li></ul>]]></content:encoded>
-      <guid isPermaLink="false">https://github.com/YoramCriel/Star-Resonance</guid>
-      <pubDate>Wed, 20 Dec 2017 04:58:25 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 12 Jan 2026 00:28:35 +0000</lastBuildDate>
     <item>
       <title>El-Omar/star-resonance</title>
       <link>https://github.com/El-Omar/star-resonance</link>
