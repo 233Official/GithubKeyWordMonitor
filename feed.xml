@@ -7,18 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 13 Jan 2026 00:23:21 +0000</lastBuildDate>
-    <item>
-      <title>[Star-Resonance] El-Omar/star-resonance</title>
-      <link>https://github.com/El-Omar/star-resonance</link>
-      <description>Pixi.JS and Tone.JS experiment (2017)
-Stars: 0
-Language: JavaScript
-Updated: 2021-03-10T22:09:26Z</description>
-      <content:encoded><![CDATA[<p>Pixi.JS and Tone.JS experiment (2017)</p><ul><li><strong>Stars:</strong> 0</li><li><strong>Language:</strong> JavaScript</li><li><strong>Updated:</strong> 2021-03-10T22:09:26Z</li></ul>]]></content:encoded>
-      <guid isPermaLink="false">https://github.com/El-Omar/star-resonance</guid>
-      <pubDate>Wed, 10 Mar 2021 22:09:26 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 14 Jan 2026 00:27:59 +0000</lastBuildDate>
     <item>
       <title>[Star-Resonance] EricHongXDD/nonebot-star-resonance-plugin</title>
       <link>https://github.com/EricHongXDD/nonebot-star-resonance-plugin</link>
@@ -141,12 +130,12 @@ Updated: 2026-01-03T14:14:33Z</description>
       <title>[Star-Resonance] asgharkapk/Star-Resonance-GitHub-Projects</title>
       <link>https://github.com/asgharkapk/Star-Resonance-GitHub-Projects</link>
       <description>A compilation of open-source projects for Star Resonance (Blue Protocol). These tools cover DPS meters, overlays, bots, asset extraction, and community utilities. Use responsibly and follow the game’s terms of service.
-Stars: 34
+Stars: 35
 Language: HTML
-Updated: 2026-01-04T05:12:22Z</description>
-      <content:encoded><![CDATA[<p>A compilation of open-source projects for Star Resonance (Blue Protocol). These tools cover DPS meters, overlays, bots, asset extraction, and community utilities. Use responsibly and follow the game’s terms of service.</p><ul><li><strong>Stars:</strong> 34</li><li><strong>Language:</strong> HTML</li><li><strong>Updated:</strong> 2026-01-04T05:12:22Z</li></ul>]]></content:encoded>
+Updated: 2026-01-13T17:05:19Z</description>
+      <content:encoded><![CDATA[<p>A compilation of open-source projects for Star Resonance (Blue Protocol). These tools cover DPS meters, overlays, bots, asset extraction, and community utilities. Use responsibly and follow the game’s terms of service.</p><ul><li><strong>Stars:</strong> 35</li><li><strong>Language:</strong> HTML</li><li><strong>Updated:</strong> 2026-01-13T17:05:19Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/asgharkapk/Star-Resonance-GitHub-Projects</guid>
-      <pubDate>Sun, 04 Jan 2026 05:12:22 +0000</pubDate>
+      <pubDate>Tue, 13 Jan 2026 17:05:19 +0000</pubDate>
     </item>
     <item>
       <title>[Star-Resonance] KaanEh/BP-Star-Resonance-legal</title>
@@ -164,10 +153,10 @@ Updated: 2026-01-08T13:45:29Z</description>
       <description>STAR RESONANCE ID MAKER
 Stars: 0
 Language: JavaScript
-Updated: 2026-01-09T04:42:14Z</description>
-      <content:encoded><![CDATA[<p>STAR RESONANCE ID MAKER</p><ul><li><strong>Stars:</strong> 0</li><li><strong>Language:</strong> JavaScript</li><li><strong>Updated:</strong> 2026-01-09T04:42:14Z</li></ul>]]></content:encoded>
+Updated: 2026-01-13T17:44:03Z</description>
+      <content:encoded><![CDATA[<p>STAR RESONANCE ID MAKER</p><ul><li><strong>Stars:</strong> 0</li><li><strong>Language:</strong> JavaScript</li><li><strong>Updated:</strong> 2026-01-13T17:44:03Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/zeroone91/star-resonance-id-maker</guid>
-      <pubDate>Fri, 09 Jan 2026 04:42:14 +0000</pubDate>
+      <pubDate>Tue, 13 Jan 2026 17:44:03 +0000</pubDate>
     </item>
     <item>
       <title>[StarResonance] Icebear-Z/StarResonanceDamageCounter-Client</title>
@@ -524,16 +513,6 @@ Updated: 2026-01-10T12:43:28Z</description>
       <pubDate>Sat, 10 Jan 2026 12:43:28 +0000</pubDate>
     </item>
     <item>
-      <title>[StarResonance] anying1073/StarResonanceDps</title>
-      <link>https://github.com/anying1073/StarResonanceDps</link>
-      <description>Stars: 72
-Language: C#
-Updated: 2026-01-12T11:03:46Z</description>
-      <content:encoded><![CDATA[<ul><li><strong>Stars:</strong> 72</li><li><strong>Language:</strong> C#</li><li><strong>Updated:</strong> 2026-01-12T11:03:46Z</li></ul>]]></content:encoded>
-      <guid isPermaLink="false">https://github.com/anying1073/StarResonanceDps</guid>
-      <pubDate>Mon, 12 Jan 2026 11:03:46 +0000</pubDate>
-    </item>
-    <item>
       <title>[StarResonance] walnut-almonds/StarResonanceFishing</title>
       <link>https://github.com/walnut-almonds/StarResonanceFishing</link>
       <description>StarResonance fishing automation
@@ -543,6 +522,38 @@ Updated: 2026-01-12T12:39:30Z</description>
       <content:encoded><![CDATA[<p>StarResonance fishing automation</p><ul><li><strong>Stars:</strong> 0</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2026-01-12T12:39:30Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/walnut-almonds/StarResonanceFishing</guid>
       <pubDate>Mon, 12 Jan 2026 12:39:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>[StarResonance] Asakitan/StarResonanceDamageCounter</title>
+      <link>https://github.com/Asakitan/StarResonanceDamageCounter</link>
+      <description>An damage counter for Starresonace. Full open sorce.
+Stars: 0
+Language: JavaScript
+Updated: 2026-01-13T06:33:58Z</description>
+      <content:encoded><![CDATA[<p>An damage counter for Starresonace. Full open sorce.</p><ul><li><strong>Stars:</strong> 0</li><li><strong>Language:</strong> JavaScript</li><li><strong>Updated:</strong> 2026-01-13T06:33:58Z</li></ul>]]></content:encoded>
+      <guid isPermaLink="false">https://github.com/Asakitan/StarResonanceDamageCounter</guid>
+      <pubDate>Tue, 13 Jan 2026 06:33:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>[StarResonance] coffin399/StarResonance_Japan_Market_Analyzer</title>
+      <link>https://github.com/coffin399/StarResonance_Japan_Market_Analyzer</link>
+      <description>DPSチェッカーと同じ要領で、パケットから取引所情報を取得するツール
+Stars: 0
+Language: Rust
+Updated: 2026-01-13T10:50:42Z</description>
+      <content:encoded><![CDATA[<p>DPSチェッカーと同じ要領で、パケットから取引所情報を取得するツール</p><ul><li><strong>Stars:</strong> 0</li><li><strong>Language:</strong> Rust</li><li><strong>Updated:</strong> 2026-01-13T10:50:42Z</li></ul>]]></content:encoded>
+      <guid isPermaLink="false">https://github.com/coffin399/StarResonance_Japan_Market_Analyzer</guid>
+      <pubDate>Tue, 13 Jan 2026 10:50:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>[StarResonance] anying1073/StarResonanceDps</title>
+      <link>https://github.com/anying1073/StarResonanceDps</link>
+      <description>Stars: 72
+Language: C#
+Updated: 2026-01-13T12:29:17Z</description>
+      <content:encoded><![CDATA[<ul><li><strong>Stars:</strong> 72</li><li><strong>Language:</strong> C#</li><li><strong>Updated:</strong> 2026-01-13T12:29:17Z</li></ul>]]></content:encoded>
+      <guid isPermaLink="false">https://github.com/anying1073/StarResonanceDps</guid>
+      <pubDate>Tue, 13 Jan 2026 12:29:17 +0000</pubDate>
     </item>
     <item>
       <title>[星痕共鸣] Nemoxxxxx/-</title>
