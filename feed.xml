@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 16 Jan 2026 00:27:26 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Jan 2026 00:25:56 +0000</lastBuildDate>
     <item>
       <title>[Star-Resonance] EricHongXDD/nonebot-star-resonance-plugin</title>
       <link>https://github.com/EricHongXDD/nonebot-star-resonance-plugin</link>
@@ -534,17 +534,6 @@ Updated: 2026-01-14T06:02:23Z</description>
       <pubDate>Wed, 14 Jan 2026 06:02:23 +0000</pubDate>
     </item>
     <item>
-      <title>[StarResonance] Sucrosato/KeymouseGo_StarResonance</title>
-      <link>https://github.com/Sucrosato/KeymouseGo_StarResonance</link>
-      <description>Some scripts and plugins for automation in Star Resonance
-Stars: 1
-Language: Jupyter Notebook
-Updated: 2026-01-14T06:59:11Z</description>
-      <content:encoded><![CDATA[<p>Some scripts and plugins for automation in Star Resonance</p><ul><li><strong>Stars:</strong> 1</li><li><strong>Language:</strong> Jupyter Notebook</li><li><strong>Updated:</strong> 2026-01-14T06:59:11Z</li></ul>]]></content:encoded>
-      <guid isPermaLink="false">https://github.com/Sucrosato/KeymouseGo_StarResonance</guid>
-      <pubDate>Wed, 14 Jan 2026 06:59:11 +0000</pubDate>
-    </item>
-    <item>
       <title>[StarResonance] coffin399/StarResonance_Japan_Market_Analyzer</title>
       <link>https://github.com/coffin399/StarResonance_Japan_Market_Analyzer</link>
       <description>DPSチェッカーと同じ要領で、パケットから取引所情報を取得するツール
@@ -556,15 +545,26 @@ Updated: 2026-01-15T01:38:01Z</description>
       <pubDate>Thu, 15 Jan 2026 01:38:01 +0000</pubDate>
     </item>
     <item>
+      <title>[StarResonance] Sucrosato/KeymouseGo_StarResonance</title>
+      <link>https://github.com/Sucrosato/KeymouseGo_StarResonance</link>
+      <description>Some scripts and plugins for automation in Star Resonance
+Stars: 1
+Language: Jupyter Notebook
+Updated: 2026-01-16T09:35:32Z</description>
+      <content:encoded><![CDATA[<p>Some scripts and plugins for automation in Star Resonance</p><ul><li><strong>Stars:</strong> 1</li><li><strong>Language:</strong> Jupyter Notebook</li><li><strong>Updated:</strong> 2026-01-16T09:35:32Z</li></ul>]]></content:encoded>
+      <guid isPermaLink="false">https://github.com/Sucrosato/KeymouseGo_StarResonance</guid>
+      <pubDate>Fri, 16 Jan 2026 09:35:32 +0000</pubDate>
+    </item>
+    <item>
       <title>[StarResonance] walnut-almonds/StarResonanceFishing</title>
       <link>https://github.com/walnut-almonds/StarResonanceFishing</link>
       <description>StarResonance fishing automation
 Stars: 0
 Language: Python
-Updated: 2026-01-15T10:33:04Z</description>
-      <content:encoded><![CDATA[<p>StarResonance fishing automation</p><ul><li><strong>Stars:</strong> 0</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2026-01-15T10:33:04Z</li></ul>]]></content:encoded>
+Updated: 2026-01-16T17:22:39Z</description>
+      <content:encoded><![CDATA[<p>StarResonance fishing automation</p><ul><li><strong>Stars:</strong> 0</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2026-01-16T17:22:39Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/walnut-almonds/StarResonanceFishing</guid>
-      <pubDate>Thu, 15 Jan 2026 10:33:04 +0000</pubDate>
+      <pubDate>Fri, 16 Jan 2026 17:22:39 +0000</pubDate>
     </item>
     <item>
       <title>[星痕共鸣] Nemoxxxxx/-</title>
