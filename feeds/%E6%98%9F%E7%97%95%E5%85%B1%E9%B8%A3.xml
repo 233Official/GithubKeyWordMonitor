@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 17 Jan 2026 00:25:56 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Jan 2026 00:29:44 +0000</lastBuildDate>
     <item>
       <title>Nemoxxxxx/-</title>
       <link>https://github.com/Nemoxxxxx/-</link>
@@ -317,17 +317,6 @@ Updated: 2025-12-13T05:39:57Z</description>
       <pubDate>Sat, 13 Dec 2025 05:39:57 +0000</pubDate>
     </item>
     <item>
-      <title>Sanheiii/ok-star-resonance</title>
-      <link>https://github.com/Sanheiii/ok-star-resonance</link>
-      <description>基于ok-script的星痕共鸣自动工具
-Stars: 93
-Language: Python
-Updated: 2026-01-15T07:31:08Z</description>
-      <content:encoded><![CDATA[<p>基于ok-script的星痕共鸣自动工具</p><ul><li><strong>Stars:</strong> 93</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2026-01-15T07:31:08Z</li></ul>]]></content:encoded>
-      <guid isPermaLink="false">https://github.com/Sanheiii/ok-star-resonance</guid>
-      <pubDate>Thu, 15 Jan 2026 07:31:08 +0000</pubDate>
-    </item>
-    <item>
       <title>233Official/MaaStarResonance</title>
       <link>https://github.com/233Official/MaaStarResonance</link>
       <description>基于MAAFW的星痕共鸣黑盒测试工具
@@ -337,6 +326,17 @@ Updated: 2025-12-29T06:47:30Z</description>
       <content:encoded><![CDATA[<p>基于MAAFW的星痕共鸣黑盒测试工具</p><ul><li><strong>Stars:</strong> 12</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2025-12-29T06:47:30Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/233Official/MaaStarResonance</guid>
       <pubDate>Mon, 29 Dec 2025 06:47:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sanheiii/ok-star-resonance</title>
+      <link>https://github.com/Sanheiii/ok-star-resonance</link>
+      <description>基于ok-script的星痕共鸣自动工具
+Stars: 94
+Language: Python
+Updated: 2026-01-17T16:27:36Z</description>
+      <content:encoded><![CDATA[<p>基于ok-script的星痕共鸣自动工具</p><ul><li><strong>Stars:</strong> 94</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2026-01-17T16:27:36Z</li></ul>]]></content:encoded>
+      <guid isPermaLink="false">https://github.com/Sanheiii/ok-star-resonance</guid>
+      <pubDate>Sat, 17 Jan 2026 16:27:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
