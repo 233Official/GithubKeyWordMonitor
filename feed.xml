@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 21 Jan 2026 00:28:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Jan 2026 00:28:46 +0000</lastBuildDate>
     <item>
       <title>[Star-Resonance] EricHongXDD/nonebot-star-resonance-plugin</title>
       <link>https://github.com/EricHongXDD/nonebot-star-resonance-plugin</link>
@@ -546,17 +546,6 @@ Updated: 2026-01-19T04:33:14Z</description>
       <pubDate>Mon, 19 Jan 2026 04:33:14 +0000</pubDate>
     </item>
     <item>
-      <title>[StarResonance] walnut-almonds/StarResonanceFishing</title>
-      <link>https://github.com/walnut-almonds/StarResonanceFishing</link>
-      <description>StarResonance fishing automation
-Stars: 0
-Language: Python
-Updated: 2026-01-20T13:48:41Z</description>
-      <content:encoded><![CDATA[<p>StarResonance fishing automation</p><ul><li><strong>Stars:</strong> 0</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2026-01-20T13:48:41Z</li></ul>]]></content:encoded>
-      <guid isPermaLink="false">https://github.com/walnut-almonds/StarResonanceFishing</guid>
-      <pubDate>Tue, 20 Jan 2026 13:48:41 +0000</pubDate>
-    </item>
-    <item>
       <title>[StarResonance] anying1073/StarResonanceDps</title>
       <link>https://github.com/anying1073/StarResonanceDps</link>
       <description>Stars: 72
@@ -565,6 +554,17 @@ Updated: 2026-01-20T15:24:39Z</description>
       <content:encoded><![CDATA[<ul><li><strong>Stars:</strong> 72</li><li><strong>Language:</strong> C#</li><li><strong>Updated:</strong> 2026-01-20T15:24:39Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/anying1073/StarResonanceDps</guid>
       <pubDate>Tue, 20 Jan 2026 15:24:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>[StarResonance] walnut-almonds/StarResonanceFishing</title>
+      <link>https://github.com/walnut-almonds/StarResonanceFishing</link>
+      <description>StarResonance fishing automation
+Stars: 0
+Language: Python
+Updated: 2026-01-21T17:54:42Z</description>
+      <content:encoded><![CDATA[<p>StarResonance fishing automation</p><ul><li><strong>Stars:</strong> 0</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2026-01-21T17:54:42Z</li></ul>]]></content:encoded>
+      <guid isPermaLink="false">https://github.com/walnut-almonds/StarResonanceFishing</guid>
+      <pubDate>Wed, 21 Jan 2026 17:54:42 +0000</pubDate>
     </item>
     <item>
       <title>[星痕共鸣] Nemoxxxxx/-</title>
