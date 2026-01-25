@@ -7,18 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 24 Jan 2026 00:26:34 +0000</lastBuildDate>
-    <item>
-      <title>[Star-Resonance] EricHongXDD/nonebot-star-resonance-plugin</title>
-      <link>https://github.com/EricHongXDD/nonebot-star-resonance-plugin</link>
-      <description>nonebot框架的插件、星痕共鸣相关
-Stars: 4
-Language: Python
-Updated: 2025-12-04T16:37:39Z</description>
-      <content:encoded><![CDATA[<p>nonebot框架的插件、星痕共鸣相关</p><ul><li><strong>Stars:</strong> 4</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2025-12-04T16:37:39Z</li></ul>]]></content:encoded>
-      <guid isPermaLink="false">https://github.com/EricHongXDD/nonebot-star-resonance-plugin</guid>
-      <pubDate>Thu, 04 Dec 2025 16:37:39 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 25 Jan 2026 00:30:21 +0000</lastBuildDate>
     <item>
       <title>[Star-Resonance] onecdz/Star-Resonance-Damage-Counter</title>
       <link>https://github.com/onecdz/Star-Resonance-Damage-Counter</link>
@@ -452,12 +441,12 @@ Updated: 2025-11-20T03:23:22Z</description>
       <title>[StarResonance] dmlgzs/StarResonanceDamageCounter</title>
       <link>https://github.com/dmlgzs/StarResonanceDamageCounter</link>
       <description>Damage Counter for Star Resonance
-Stars: 259
+Stars: 260
 Language: JavaScript
-Updated: 2026-01-20T20:45:46Z</description>
-      <content:encoded><![CDATA[<p>Damage Counter for Star Resonance</p><ul><li><strong>Stars:</strong> 259</li><li><strong>Language:</strong> JavaScript</li><li><strong>Updated:</strong> 2026-01-20T20:45:46Z</li></ul>]]></content:encoded>
+Updated: 2026-01-24T14:52:19Z</description>
+      <content:encoded><![CDATA[<p>Damage Counter for Star Resonance</p><ul><li><strong>Stars:</strong> 260</li><li><strong>Language:</strong> JavaScript</li><li><strong>Updated:</strong> 2026-01-24T14:52:19Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/dmlgzs/StarResonanceDamageCounter</guid>
-      <pubDate>Tue, 20 Jan 2026 20:45:46 +0000</pubDate>
+      <pubDate>Sat, 24 Jan 2026 14:52:19 +0000</pubDate>
     </item>
     <item>
       <title>[StarResonance] otae-1204/StarResonance-Builder</title>
@@ -545,17 +534,6 @@ Updated: 2026-01-20T15:24:39Z</description>
       <pubDate>Tue, 20 Jan 2026 15:24:39 +0000</pubDate>
     </item>
     <item>
-      <title>[StarResonance] walnut-almonds/StarResonanceFishing</title>
-      <link>https://github.com/walnut-almonds/StarResonanceFishing</link>
-      <description>StarResonance fishing automation
-Stars: 0
-Language: Python
-Updated: 2026-01-22T12:25:46Z</description>
-      <content:encoded><![CDATA[<p>StarResonance fishing automation</p><ul><li><strong>Stars:</strong> 0</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2026-01-22T12:25:46Z</li></ul>]]></content:encoded>
-      <guid isPermaLink="false">https://github.com/walnut-almonds/StarResonanceFishing</guid>
-      <pubDate>Thu, 22 Jan 2026 12:25:46 +0000</pubDate>
-    </item>
-    <item>
       <title>[StarResonance] Sucrosato/KeymouseGo_StarResonance</title>
       <link>https://github.com/Sucrosato/KeymouseGo_StarResonance</link>
       <description>Some scripts and plugins for automation in Star Resonance
@@ -565,6 +543,28 @@ Updated: 2026-01-23T06:53:48Z</description>
       <content:encoded><![CDATA[<p>Some scripts and plugins for automation in Star Resonance</p><ul><li><strong>Stars:</strong> 1</li><li><strong>Language:</strong> Jupyter Notebook</li><li><strong>Updated:</strong> 2026-01-23T06:53:48Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/Sucrosato/KeymouseGo_StarResonance</guid>
       <pubDate>Fri, 23 Jan 2026 06:53:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>[StarResonance] yuzeis/StarResonanceMahjongAutoAna</title>
+      <link>https://github.com/yuzeis/StarResonanceMahjongAutoAna</link>
+      <description>StarResonanceMahjongAutoAnalysis
+Stars: 0
+Language: Python
+Updated: 2026-01-24T08:57:47Z</description>
+      <content:encoded><![CDATA[<p>StarResonanceMahjongAutoAnalysis</p><ul><li><strong>Stars:</strong> 0</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2026-01-24T08:57:47Z</li></ul>]]></content:encoded>
+      <guid isPermaLink="false">https://github.com/yuzeis/StarResonanceMahjongAutoAna</guid>
+      <pubDate>Sat, 24 Jan 2026 08:57:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>[StarResonance] walnut-almonds/StarResonanceFishing</title>
+      <link>https://github.com/walnut-almonds/StarResonanceFishing</link>
+      <description>StarResonance fishing automation
+Stars: 0
+Language: Python
+Updated: 2026-01-24T15:50:14Z</description>
+      <content:encoded><![CDATA[<p>StarResonance fishing automation</p><ul><li><strong>Stars:</strong> 0</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2026-01-24T15:50:14Z</li></ul>]]></content:encoded>
+      <guid isPermaLink="false">https://github.com/walnut-almonds/StarResonanceFishing</guid>
+      <pubDate>Sat, 24 Jan 2026 15:50:14 +0000</pubDate>
     </item>
     <item>
       <title>[星痕共鸣] Nemoxxxxx/-</title>
