@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 30 Jan 2026 00:31:18 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Jan 2026 00:30:15 +0000</lastBuildDate>
     <item>
       <title>Icebear-Z/StarResonanceDamageCounter-Client</title>
       <link>https://github.com/Icebear-Z/StarResonanceDamageCounter-Client</link>
@@ -407,16 +407,6 @@ Updated: 2026-01-27T15:56:23Z</description>
       <pubDate>Tue, 27 Jan 2026 15:56:23 +0000</pubDate>
     </item>
     <item>
-      <title>anying1073/StarResonanceDps</title>
-      <link>https://github.com/anying1073/StarResonanceDps</link>
-      <description>Stars: 73
-Language: C#
-Updated: 2026-01-29T04:47:05Z</description>
-      <content:encoded><![CDATA[<ul><li><strong>Stars:</strong> 73</li><li><strong>Language:</strong> C#</li><li><strong>Updated:</strong> 2026-01-29T04:47:05Z</li></ul>]]></content:encoded>
-      <guid isPermaLink="false">https://github.com/anying1073/StarResonanceDps</guid>
-      <pubDate>Thu, 29 Jan 2026 04:47:05 +0000</pubDate>
-    </item>
-    <item>
       <title>coffin399/StarResonance_Japan_Market_Analyzer</title>
       <link>https://github.com/coffin399/StarResonance_Japan_Market_Analyzer</link>
       <description>DPSチェッカーと同じ要領でパケットから取引所情報を取得するツール
@@ -426,6 +416,16 @@ Updated: 2026-01-29T00:02:37Z</description>
       <content:encoded><![CDATA[<p>DPSチェッカーと同じ要領でパケットから取引所情報を取得するツール</p><ul><li><strong>Stars:</strong> 1</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2026-01-29T00:02:37Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/coffin399/StarResonance_Japan_Market_Analyzer</guid>
       <pubDate>Thu, 29 Jan 2026 00:02:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>anying1073/StarResonanceDps</title>
+      <link>https://github.com/anying1073/StarResonanceDps</link>
+      <description>Stars: 73
+Language: C#
+Updated: 2026-01-30T17:07:31Z</description>
+      <content:encoded><![CDATA[<ul><li><strong>Stars:</strong> 73</li><li><strong>Language:</strong> C#</li><li><strong>Updated:</strong> 2026-01-30T17:07:31Z</li></ul>]]></content:encoded>
+      <guid isPermaLink="false">https://github.com/anying1073/StarResonanceDps</guid>
+      <pubDate>Fri, 30 Jan 2026 17:07:31 +0000</pubDate>
     </item>
   </channel>
 </rss>
