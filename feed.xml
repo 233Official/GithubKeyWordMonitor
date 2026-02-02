@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 01 Feb 2026 00:37:31 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Feb 2026 00:33:18 +0000</lastBuildDate>
     <item>
       <title>[Star-Resonance] onecdz/Star-Resonance-Damage-Counter</title>
       <link>https://github.com/onecdz/Star-Resonance-Damage-Counter</link>
@@ -119,12 +119,12 @@ Updated: 2026-01-08T13:45:29Z</description>
       <title>[Star-Resonance] Sanheiii/ok-star-resonance</title>
       <link>https://github.com/Sanheiii/ok-star-resonance</link>
       <description>基于ok-script的星痕共鸣自动工具
-Stars: 96
+Stars: 97
 Language: Python
-Updated: 2026-01-26T04:35:18Z</description>
-      <content:encoded><![CDATA[<p>基于ok-script的星痕共鸣自动工具</p><ul><li><strong>Stars:</strong> 96</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2026-01-26T04:35:18Z</li></ul>]]></content:encoded>
+Updated: 2026-02-01T22:59:44Z</description>
+      <content:encoded><![CDATA[<p>基于ok-script的星痕共鸣自动工具</p><ul><li><strong>Stars:</strong> 97</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2026-02-01T22:59:44Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/Sanheiii/ok-star-resonance</guid>
-      <pubDate>Mon, 26 Jan 2026 04:35:18 +0000</pubDate>
+      <pubDate>Sun, 01 Feb 2026 22:59:44 +0000</pubDate>
     </item>
     <item>
       <title>[Star-Resonance] zeroone91/star-resonance-id-maker</title>
@@ -146,6 +146,16 @@ Updated: 2026-01-31T23:33:12Z</description>
       <content:encoded><![CDATA[<ul><li><strong>Stars:</strong> 0</li><li><strong>Language:</strong> HTML</li><li><strong>Updated:</strong> 2026-01-31T23:33:12Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/cabernet96258/star-resonance-tracker</guid>
       <pubDate>Sat, 31 Jan 2026 23:33:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Star-Resonance] takeshich/star-resonance-tool</title>
+      <link>https://github.com/takeshich/star-resonance-tool</link>
+      <description>Stars: 0
+Language: Python
+Updated: 2026-02-01T07:09:29Z</description>
+      <content:encoded><![CDATA[<ul><li><strong>Stars:</strong> 0</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2026-02-01T07:09:29Z</li></ul>]]></content:encoded>
+      <guid isPermaLink="false">https://github.com/takeshich/star-resonance-tool</guid>
+      <pubDate>Sun, 01 Feb 2026 07:09:29 +0000</pubDate>
     </item>
     <item>
       <title>[StarResonance] Icebear-Z/StarResonanceDamageCounter-Client</title>
@@ -561,10 +571,10 @@ Updated: 2026-01-29T00:02:37Z</description>
       <link>https://github.com/anying1073/StarResonanceDps</link>
       <description>Stars: 74
 Language: C#
-Updated: 2026-01-31T18:04:29Z</description>
-      <content:encoded><![CDATA[<ul><li><strong>Stars:</strong> 74</li><li><strong>Language:</strong> C#</li><li><strong>Updated:</strong> 2026-01-31T18:04:29Z</li></ul>]]></content:encoded>
+Updated: 2026-02-01T11:57:07Z</description>
+      <content:encoded><![CDATA[<ul><li><strong>Stars:</strong> 74</li><li><strong>Language:</strong> C#</li><li><strong>Updated:</strong> 2026-02-01T11:57:07Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/anying1073/StarResonanceDps</guid>
-      <pubDate>Sat, 31 Jan 2026 18:04:29 +0000</pubDate>
+      <pubDate>Sun, 01 Feb 2026 11:57:07 +0000</pubDate>
     </item>
     <item>
       <title>[星痕共鸣] Nemoxxxxx/-</title>
@@ -889,12 +899,12 @@ Updated: 2025-12-29T06:47:30Z</description>
       <title>[星痕共鸣] Sanheiii/ok-star-resonance</title>
       <link>https://github.com/Sanheiii/ok-star-resonance</link>
       <description>基于ok-script的星痕共鸣自动工具
-Stars: 96
+Stars: 97
 Language: Python
-Updated: 2026-01-26T04:35:18Z</description>
-      <content:encoded><![CDATA[<p>基于ok-script的星痕共鸣自动工具</p><ul><li><strong>Stars:</strong> 96</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2026-01-26T04:35:18Z</li></ul>]]></content:encoded>
+Updated: 2026-02-01T22:59:44Z</description>
+      <content:encoded><![CDATA[<p>基于ok-script的星痕共鸣自动工具</p><ul><li><strong>Stars:</strong> 97</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2026-02-01T22:59:44Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/Sanheiii/ok-star-resonance</guid>
-      <pubDate>Mon, 26 Jan 2026 04:35:18 +0000</pubDate>
+      <pubDate>Sun, 01 Feb 2026 22:59:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
