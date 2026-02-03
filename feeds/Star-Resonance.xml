@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 02 Feb 2026 00:33:18 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Feb 2026 00:33:38 +0000</lastBuildDate>
     <item>
       <title>onecdz/Star-Resonance-Damage-Counter</title>
       <link>https://github.com/onecdz/Star-Resonance-Damage-Counter</link>
@@ -152,10 +152,10 @@ Updated: 2026-01-31T23:33:12Z</description>
       <link>https://github.com/takeshich/star-resonance-tool</link>
       <description>Stars: 0
 Language: Python
-Updated: 2026-02-01T07:09:29Z</description>
-      <content:encoded><![CDATA[<ul><li><strong>Stars:</strong> 0</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2026-02-01T07:09:29Z</li></ul>]]></content:encoded>
+Updated: 2026-02-02T08:24:06Z</description>
+      <content:encoded><![CDATA[<ul><li><strong>Stars:</strong> 0</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2026-02-02T08:24:06Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/takeshich/star-resonance-tool</guid>
-      <pubDate>Sun, 01 Feb 2026 07:09:29 +0000</pubDate>
+      <pubDate>Mon, 02 Feb 2026 08:24:06 +0000</pubDate>
     </item>
   </channel>
 </rss>

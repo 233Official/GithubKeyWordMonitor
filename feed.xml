@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 02 Feb 2026 00:33:18 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Feb 2026 00:33:38 +0000</lastBuildDate>
     <item>
       <title>[Star-Resonance] onecdz/Star-Resonance-Damage-Counter</title>
       <link>https://github.com/onecdz/Star-Resonance-Damage-Counter</link>
@@ -152,10 +152,10 @@ Updated: 2026-01-31T23:33:12Z</description>
       <link>https://github.com/takeshich/star-resonance-tool</link>
       <description>Stars: 0
 Language: Python
-Updated: 2026-02-01T07:09:29Z</description>
-      <content:encoded><![CDATA[<ul><li><strong>Stars:</strong> 0</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2026-02-01T07:09:29Z</li></ul>]]></content:encoded>
+Updated: 2026-02-02T08:24:06Z</description>
+      <content:encoded><![CDATA[<ul><li><strong>Stars:</strong> 0</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2026-02-02T08:24:06Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/takeshich/star-resonance-tool</guid>
-      <pubDate>Sun, 01 Feb 2026 07:09:29 +0000</pubDate>
+      <pubDate>Mon, 02 Feb 2026 08:24:06 +0000</pubDate>
     </item>
     <item>
       <title>[StarResonance] Icebear-Z/StarResonanceDamageCounter-Client</title>
@@ -322,12 +322,12 @@ Updated: 2025-12-27T10:17:57Z</description>
       <title>[StarResonance] PotRooms/StarResonanceData</title>
       <link>https://github.com/PotRooms/StarResonanceData</link>
       <description>Blue Protocol: Star Resonance data
-Stars: 37
+Stars: 38
 Language: Lua
-Updated: 2026-01-15T03:39:28Z</description>
-      <content:encoded><![CDATA[<p>Blue Protocol: Star Resonance data</p><ul><li><strong>Stars:</strong> 37</li><li><strong>Language:</strong> Lua</li><li><strong>Updated:</strong> 2026-01-15T03:39:28Z</li></ul>]]></content:encoded>
+Updated: 2026-02-02T15:45:16Z</description>
+      <content:encoded><![CDATA[<p>Blue Protocol: Star Resonance data</p><ul><li><strong>Stars:</strong> 38</li><li><strong>Language:</strong> Lua</li><li><strong>Updated:</strong> 2026-02-02T15:45:16Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/PotRooms/StarResonanceData</guid>
-      <pubDate>Thu, 15 Jan 2026 03:39:28 +0000</pubDate>
+      <pubDate>Mon, 02 Feb 2026 15:45:16 +0000</pubDate>
     </item>
     <item>
       <title>[StarResonance] xxfttkx/StarResonanceAutoHunt</title>
@@ -504,23 +504,12 @@ Updated: 2026-01-09T02:06:25Z</description>
       <title>[StarResonance] Asakitan/StarResonanceDamageCounter</title>
       <link>https://github.com/Asakitan/StarResonanceDamageCounter</link>
       <description>An damage counter for Starresonace. Full open sorce.
-Stars: 1
+Stars: 2
 Language: JavaScript
-Updated: 2026-01-18T16:23:48Z</description>
-      <content:encoded><![CDATA[<p>An damage counter for Starresonace. Full open sorce.</p><ul><li><strong>Stars:</strong> 1</li><li><strong>Language:</strong> JavaScript</li><li><strong>Updated:</strong> 2026-01-18T16:23:48Z</li></ul>]]></content:encoded>
+Updated: 2026-02-03T00:23:35Z</description>
+      <content:encoded><![CDATA[<p>An damage counter for Starresonace. Full open sorce.</p><ul><li><strong>Stars:</strong> 2</li><li><strong>Language:</strong> JavaScript</li><li><strong>Updated:</strong> 2026-02-03T00:23:35Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/Asakitan/StarResonanceDamageCounter</guid>
-      <pubDate>Sun, 18 Jan 2026 16:23:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>[StarResonance] Sucrosato/KeymouseGo_StarResonance</title>
-      <link>https://github.com/Sucrosato/KeymouseGo_StarResonance</link>
-      <description>Some scripts and plugins for automation in Star Resonance
-Stars: 1
-Language: Jupyter Notebook
-Updated: 2026-01-23T06:53:48Z</description>
-      <content:encoded><![CDATA[<p>Some scripts and plugins for automation in Star Resonance</p><ul><li><strong>Stars:</strong> 1</li><li><strong>Language:</strong> Jupyter Notebook</li><li><strong>Updated:</strong> 2026-01-23T06:53:48Z</li></ul>]]></content:encoded>
-      <guid isPermaLink="false">https://github.com/Sucrosato/KeymouseGo_StarResonance</guid>
-      <pubDate>Fri, 23 Jan 2026 06:53:48 +0000</pubDate>
+      <pubDate>Tue, 03 Feb 2026 00:23:35 +0000</pubDate>
     </item>
     <item>
       <title>[StarResonance] yuzeis/StarResonanceMahjongAutoAna</title>
@@ -548,12 +537,12 @@ Updated: 2026-01-28T19:51:16Z</description>
       <title>[StarResonance] dmlgzs/StarResonanceDamageCounter</title>
       <link>https://github.com/dmlgzs/StarResonanceDamageCounter</link>
       <description>Damage Counter for Star Resonance
-Stars: 262
+Stars: 263
 Language: JavaScript
-Updated: 2026-01-27T15:56:23Z</description>
-      <content:encoded><![CDATA[<p>Damage Counter for Star Resonance</p><ul><li><strong>Stars:</strong> 262</li><li><strong>Language:</strong> JavaScript</li><li><strong>Updated:</strong> 2026-01-27T15:56:23Z</li></ul>]]></content:encoded>
+Updated: 2026-02-02T15:13:27Z</description>
+      <content:encoded><![CDATA[<p>Damage Counter for Star Resonance</p><ul><li><strong>Stars:</strong> 263</li><li><strong>Language:</strong> JavaScript</li><li><strong>Updated:</strong> 2026-02-02T15:13:27Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/dmlgzs/StarResonanceDamageCounter</guid>
-      <pubDate>Tue, 27 Jan 2026 15:56:23 +0000</pubDate>
+      <pubDate>Mon, 02 Feb 2026 15:13:27 +0000</pubDate>
     </item>
     <item>
       <title>[StarResonance] coffin399/StarResonance_Japan_Market_Analyzer</title>
@@ -569,12 +558,23 @@ Updated: 2026-01-29T00:02:37Z</description>
     <item>
       <title>[StarResonance] anying1073/StarResonanceDps</title>
       <link>https://github.com/anying1073/StarResonanceDps</link>
-      <description>Stars: 74
+      <description>Stars: 75
 Language: C#
-Updated: 2026-02-01T11:57:07Z</description>
-      <content:encoded><![CDATA[<ul><li><strong>Stars:</strong> 74</li><li><strong>Language:</strong> C#</li><li><strong>Updated:</strong> 2026-02-01T11:57:07Z</li></ul>]]></content:encoded>
+Updated: 2026-02-02T17:24:49Z</description>
+      <content:encoded><![CDATA[<ul><li><strong>Stars:</strong> 75</li><li><strong>Language:</strong> C#</li><li><strong>Updated:</strong> 2026-02-02T17:24:49Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/anying1073/StarResonanceDps</guid>
-      <pubDate>Sun, 01 Feb 2026 11:57:07 +0000</pubDate>
+      <pubDate>Mon, 02 Feb 2026 17:24:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>[StarResonance] Sucrosato/KeymouseGo_StarResonance</title>
+      <link>https://github.com/Sucrosato/KeymouseGo_StarResonance</link>
+      <description>Some scripts and plugins for automation in Star Resonance
+Stars: 1
+Language: Jupyter Notebook
+Updated: 2026-02-02T18:55:57Z</description>
+      <content:encoded><![CDATA[<p>Some scripts and plugins for automation in Star Resonance</p><ul><li><strong>Stars:</strong> 1</li><li><strong>Language:</strong> Jupyter Notebook</li><li><strong>Updated:</strong> 2026-02-02T18:55:57Z</li></ul>]]></content:encoded>
+      <guid isPermaLink="false">https://github.com/Sucrosato/KeymouseGo_StarResonance</guid>
+      <pubDate>Mon, 02 Feb 2026 18:55:57 +0000</pubDate>
     </item>
     <item>
       <title>[星痕共鸣] Nemoxxxxx/-</title>
