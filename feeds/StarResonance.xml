@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 06 Feb 2026 00:30:58 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Feb 2026 00:31:28 +0000</lastBuildDate>
     <item>
       <title>Icebear-Z/StarResonanceDamageCounter-Client</title>
       <link>https://github.com/Icebear-Z/StarResonanceDamageCounter-Client</link>
@@ -344,12 +344,12 @@ Updated: 2026-01-09T02:06:25Z</description>
       <title>Asakitan/StarResonanceDamageCounter</title>
       <link>https://github.com/Asakitan/StarResonanceDamageCounter</link>
       <description>An damage counter for Starresonace. Full open sorce.
-Stars: 2
+Stars: 1
 Language: JavaScript
-Updated: 2026-02-03T00:23:35Z</description>
-      <content:encoded><![CDATA[<p>An damage counter for Starresonace. Full open sorce.</p><ul><li><strong>Stars:</strong> 2</li><li><strong>Language:</strong> JavaScript</li><li><strong>Updated:</strong> 2026-02-03T00:23:35Z</li></ul>]]></content:encoded>
+Updated: 2026-02-06T09:47:01Z</description>
+      <content:encoded><![CDATA[<p>An damage counter for Starresonace. Full open sorce.</p><ul><li><strong>Stars:</strong> 1</li><li><strong>Language:</strong> JavaScript</li><li><strong>Updated:</strong> 2026-02-06T09:47:01Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/Asakitan/StarResonanceDamageCounter</guid>
-      <pubDate>Tue, 03 Feb 2026 00:23:35 +0000</pubDate>
+      <pubDate>Fri, 06 Feb 2026 09:47:01 +0000</pubDate>
     </item>
     <item>
       <title>yuzeis/StarResonanceMahjongAutoAna</title>
@@ -409,12 +409,12 @@ Updated: 2026-02-02T18:55:57Z</description>
     <item>
       <title>anying1073/StarResonanceDps</title>
       <link>https://github.com/anying1073/StarResonanceDps</link>
-      <description>Stars: 74
+      <description>Stars: 75
 Language: C#
-Updated: 2026-02-05T09:23:08Z</description>
-      <content:encoded><![CDATA[<ul><li><strong>Stars:</strong> 74</li><li><strong>Language:</strong> C#</li><li><strong>Updated:</strong> 2026-02-05T09:23:08Z</li></ul>]]></content:encoded>
+Updated: 2026-02-06T05:18:56Z</description>
+      <content:encoded><![CDATA[<ul><li><strong>Stars:</strong> 75</li><li><strong>Language:</strong> C#</li><li><strong>Updated:</strong> 2026-02-06T05:18:56Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/anying1073/StarResonanceDps</guid>
-      <pubDate>Thu, 05 Feb 2026 09:23:08 +0000</pubDate>
+      <pubDate>Fri, 06 Feb 2026 05:18:56 +0000</pubDate>
     </item>
     <item>
       <title>PotRooms/StarResonanceTool</title>
