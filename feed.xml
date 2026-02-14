@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 13 Feb 2026 02:26:48 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Feb 2026 00:32:51 +0000</lastBuildDate>
     <item>
       <title>[Star-Resonance] onecdz/Star-Resonance-Damage-Counter</title>
       <link>https://github.com/onecdz/Star-Resonance-Damage-Counter</link>
@@ -561,20 +561,20 @@ Updated: 2026-02-05T18:05:40Z</description>
       <description>StarResonance fishing automation
 Stars: 1
 Language: Python
-Updated: 2026-02-11T15:57:33Z</description>
-      <content:encoded><![CDATA[<p>StarResonance fishing automation</p><ul><li><strong>Stars:</strong> 1</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2026-02-11T15:57:33Z</li></ul>]]></content:encoded>
+Updated: 2026-02-13T08:23:18Z</description>
+      <content:encoded><![CDATA[<p>StarResonance fishing automation</p><ul><li><strong>Stars:</strong> 1</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2026-02-13T08:23:18Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/walnut-almonds/StarResonanceFishing</guid>
-      <pubDate>Wed, 11 Feb 2026 15:57:33 +0000</pubDate>
+      <pubDate>Fri, 13 Feb 2026 08:23:18 +0000</pubDate>
     </item>
     <item>
       <title>[StarResonance] anying1073/StarResonanceDps</title>
       <link>https://github.com/anying1073/StarResonanceDps</link>
       <description>Stars: 75
 Language: C#
-Updated: 2026-02-12T16:33:38Z</description>
-      <content:encoded><![CDATA[<ul><li><strong>Stars:</strong> 75</li><li><strong>Language:</strong> C#</li><li><strong>Updated:</strong> 2026-02-12T16:33:38Z</li></ul>]]></content:encoded>
+Updated: 2026-02-13T16:27:44Z</description>
+      <content:encoded><![CDATA[<ul><li><strong>Stars:</strong> 75</li><li><strong>Language:</strong> C#</li><li><strong>Updated:</strong> 2026-02-13T16:27:44Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/anying1073/StarResonanceDps</guid>
-      <pubDate>Thu, 12 Feb 2026 16:33:38 +0000</pubDate>
+      <pubDate>Fri, 13 Feb 2026 16:27:44 +0000</pubDate>
     </item>
     <item>
       <title>[星痕共鸣] Nemoxxxxx/-</title>
@@ -905,6 +905,17 @@ Updated: 2026-02-05T14:14:34Z</description>
       <content:encoded><![CDATA[<p>基于MAAFW的星痕共鸣黑盒测试工具</p><ul><li><strong>Stars:</strong> 13</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2026-02-05T14:14:34Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/233Official/MaaStarResonance</guid>
       <pubDate>Thu, 05 Feb 2026 14:14:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>[星痕共鸣] fudiyangjin/resonance-logs-cn</title>
+      <link>https://github.com/fudiyangjin/resonance-logs-cn</link>
+      <description>resonance-logs 的中文版, 用于星痕共鸣的监控buff, 技能cd, 模组计算等
+Stars: 3
+Language: Rust
+Updated: 2026-02-13T07:55:29Z</description>
+      <content:encoded><![CDATA[<p>resonance-logs 的中文版, 用于星痕共鸣的监控buff, 技能cd, 模组计算等</p><ul><li><strong>Stars:</strong> 3</li><li><strong>Language:</strong> Rust</li><li><strong>Updated:</strong> 2026-02-13T07:55:29Z</li></ul>]]></content:encoded>
+      <guid isPermaLink="false">https://github.com/fudiyangjin/resonance-logs-cn</guid>
+      <pubDate>Fri, 13 Feb 2026 07:55:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
