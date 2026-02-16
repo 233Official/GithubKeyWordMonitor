@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 15 Feb 2026 00:35:24 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Feb 2026 00:33:50 +0000</lastBuildDate>
     <item>
       <title>[Star-Resonance] onecdz/Star-Resonance-Damage-Counter</title>
       <link>https://github.com/onecdz/Star-Resonance-Damage-Counter</link>
@@ -152,10 +152,10 @@ Updated: 2026-02-07T09:06:55Z</description>
       <link>https://github.com/cabernet96258/star-resonance-tracker</link>
       <description>Stars: 0
 Language: HTML
-Updated: 2026-02-09T08:00:06Z</description>
-      <content:encoded><![CDATA[<ul><li><strong>Stars:</strong> 0</li><li><strong>Language:</strong> HTML</li><li><strong>Updated:</strong> 2026-02-09T08:00:06Z</li></ul>]]></content:encoded>
+Updated: 2026-02-15T15:09:47Z</description>
+      <content:encoded><![CDATA[<ul><li><strong>Stars:</strong> 0</li><li><strong>Language:</strong> HTML</li><li><strong>Updated:</strong> 2026-02-15T15:09:47Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/cabernet96258/star-resonance-tracker</guid>
-      <pubDate>Mon, 09 Feb 2026 08:00:06 +0000</pubDate>
+      <pubDate>Sun, 15 Feb 2026 15:09:47 +0000</pubDate>
     </item>
     <item>
       <title>[StarResonance] Icebear-Z/StarResonanceDamageCounter-Client</title>
@@ -311,12 +311,12 @@ Updated: 2025-09-12T09:11:57Z</description>
       <title>[StarResonance] PotRooms/StarResonanceData</title>
       <link>https://github.com/PotRooms/StarResonanceData</link>
       <description>Blue Protocol: Star Resonance data
-Stars: 38
+Stars: 39
 Language: Lua
-Updated: 2026-02-02T15:45:16Z</description>
-      <content:encoded><![CDATA[<p>Blue Protocol: Star Resonance data</p><ul><li><strong>Stars:</strong> 38</li><li><strong>Language:</strong> Lua</li><li><strong>Updated:</strong> 2026-02-02T15:45:16Z</li></ul>]]></content:encoded>
+Updated: 2026-02-15T09:15:30Z</description>
+      <content:encoded><![CDATA[<p>Blue Protocol: Star Resonance data</p><ul><li><strong>Stars:</strong> 39</li><li><strong>Language:</strong> Lua</li><li><strong>Updated:</strong> 2026-02-15T09:15:30Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/PotRooms/StarResonanceData</guid>
-      <pubDate>Mon, 02 Feb 2026 15:45:16 +0000</pubDate>
+      <pubDate>Sun, 15 Feb 2026 09:15:30 +0000</pubDate>
     </item>
     <item>
       <title>[StarResonance] xxfttkx/StarResonanceAutoHunt</title>
@@ -580,12 +580,12 @@ Updated: 2026-02-14T10:09:33Z</description>
     <item>
       <title>[StarResonance] anying1073/StarResonanceDps</title>
       <link>https://github.com/anying1073/StarResonanceDps</link>
-      <description>Stars: 75
+      <description>Stars: 76
 Language: C#
-Updated: 2026-02-15T00:11:44Z</description>
-      <content:encoded><![CDATA[<ul><li><strong>Stars:</strong> 75</li><li><strong>Language:</strong> C#</li><li><strong>Updated:</strong> 2026-02-15T00:11:44Z</li></ul>]]></content:encoded>
+Updated: 2026-02-15T17:43:27Z</description>
+      <content:encoded><![CDATA[<ul><li><strong>Stars:</strong> 76</li><li><strong>Language:</strong> C#</li><li><strong>Updated:</strong> 2026-02-15T17:43:27Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/anying1073/StarResonanceDps</guid>
-      <pubDate>Sun, 15 Feb 2026 00:11:44 +0000</pubDate>
+      <pubDate>Sun, 15 Feb 2026 17:43:27 +0000</pubDate>
     </item>
     <item>
       <title>[星痕共鸣] Nemoxxxxx/-</title>
@@ -932,12 +932,12 @@ Updated: 2026-02-14T10:09:33Z</description>
       <title>[星痕共鸣] fudiyangjin/resonance-logs-cn</title>
       <link>https://github.com/fudiyangjin/resonance-logs-cn</link>
       <description>resonance-logs 的中文版, 用于星痕共鸣的监控buff, 技能cd, 模组计算等
-Stars: 3
+Stars: 5
 Language: Rust
-Updated: 2026-02-14T15:56:34Z</description>
-      <content:encoded><![CDATA[<p>resonance-logs 的中文版, 用于星痕共鸣的监控buff, 技能cd, 模组计算等</p><ul><li><strong>Stars:</strong> 3</li><li><strong>Language:</strong> Rust</li><li><strong>Updated:</strong> 2026-02-14T15:56:34Z</li></ul>]]></content:encoded>
+Updated: 2026-02-15T19:17:19Z</description>
+      <content:encoded><![CDATA[<p>resonance-logs 的中文版, 用于星痕共鸣的监控buff, 技能cd, 模组计算等</p><ul><li><strong>Stars:</strong> 5</li><li><strong>Language:</strong> Rust</li><li><strong>Updated:</strong> 2026-02-15T19:17:19Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/fudiyangjin/resonance-logs-cn</guid>
-      <pubDate>Sat, 14 Feb 2026 15:56:34 +0000</pubDate>
+      <pubDate>Sun, 15 Feb 2026 19:17:19 +0000</pubDate>
     </item>
   </channel>
 </rss>

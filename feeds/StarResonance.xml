@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 15 Feb 2026 00:35:24 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Feb 2026 00:33:50 +0000</lastBuildDate>
     <item>
       <title>Icebear-Z/StarResonanceDamageCounter-Client</title>
       <link>https://github.com/Icebear-Z/StarResonanceDamageCounter-Client</link>
@@ -162,12 +162,12 @@ Updated: 2025-09-12T09:11:57Z</description>
       <title>PotRooms/StarResonanceData</title>
       <link>https://github.com/PotRooms/StarResonanceData</link>
       <description>Blue Protocol: Star Resonance data
-Stars: 38
+Stars: 39
 Language: Lua
-Updated: 2026-02-02T15:45:16Z</description>
-      <content:encoded><![CDATA[<p>Blue Protocol: Star Resonance data</p><ul><li><strong>Stars:</strong> 38</li><li><strong>Language:</strong> Lua</li><li><strong>Updated:</strong> 2026-02-02T15:45:16Z</li></ul>]]></content:encoded>
+Updated: 2026-02-15T09:15:30Z</description>
+      <content:encoded><![CDATA[<p>Blue Protocol: Star Resonance data</p><ul><li><strong>Stars:</strong> 39</li><li><strong>Language:</strong> Lua</li><li><strong>Updated:</strong> 2026-02-15T09:15:30Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/PotRooms/StarResonanceData</guid>
-      <pubDate>Mon, 02 Feb 2026 15:45:16 +0000</pubDate>
+      <pubDate>Sun, 15 Feb 2026 09:15:30 +0000</pubDate>
     </item>
     <item>
       <title>xxfttkx/StarResonanceAutoHunt</title>
@@ -431,12 +431,12 @@ Updated: 2026-02-14T10:09:33Z</description>
     <item>
       <title>anying1073/StarResonanceDps</title>
       <link>https://github.com/anying1073/StarResonanceDps</link>
-      <description>Stars: 75
+      <description>Stars: 76
 Language: C#
-Updated: 2026-02-15T00:11:44Z</description>
-      <content:encoded><![CDATA[<ul><li><strong>Stars:</strong> 75</li><li><strong>Language:</strong> C#</li><li><strong>Updated:</strong> 2026-02-15T00:11:44Z</li></ul>]]></content:encoded>
+Updated: 2026-02-15T17:43:27Z</description>
+      <content:encoded><![CDATA[<ul><li><strong>Stars:</strong> 76</li><li><strong>Language:</strong> C#</li><li><strong>Updated:</strong> 2026-02-15T17:43:27Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/anying1073/StarResonanceDps</guid>
-      <pubDate>Sun, 15 Feb 2026 00:11:44 +0000</pubDate>
+      <pubDate>Sun, 15 Feb 2026 17:43:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
