@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 16 Feb 2026 00:33:50 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Feb 2026 00:33:52 +0000</lastBuildDate>
     <item>
       <title>[Star-Resonance] onecdz/Star-Resonance-Damage-Counter</title>
       <link>https://github.com/onecdz/Star-Resonance-Damage-Counter</link>
@@ -582,10 +582,10 @@ Updated: 2026-02-14T10:09:33Z</description>
       <link>https://github.com/anying1073/StarResonanceDps</link>
       <description>Stars: 76
 Language: C#
-Updated: 2026-02-15T17:43:27Z</description>
-      <content:encoded><![CDATA[<ul><li><strong>Stars:</strong> 76</li><li><strong>Language:</strong> C#</li><li><strong>Updated:</strong> 2026-02-15T17:43:27Z</li></ul>]]></content:encoded>
+Updated: 2026-02-16T02:58:13Z</description>
+      <content:encoded><![CDATA[<ul><li><strong>Stars:</strong> 76</li><li><strong>Language:</strong> C#</li><li><strong>Updated:</strong> 2026-02-16T02:58:13Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/anying1073/StarResonanceDps</guid>
-      <pubDate>Sun, 15 Feb 2026 17:43:27 +0000</pubDate>
+      <pubDate>Mon, 16 Feb 2026 02:58:13 +0000</pubDate>
     </item>
     <item>
       <title>[星痕共鸣] Nemoxxxxx/-</title>
@@ -934,10 +934,10 @@ Updated: 2026-02-14T10:09:33Z</description>
       <description>resonance-logs 的中文版, 用于星痕共鸣的监控buff, 技能cd, 模组计算等
 Stars: 5
 Language: Rust
-Updated: 2026-02-15T19:17:19Z</description>
-      <content:encoded><![CDATA[<p>resonance-logs 的中文版, 用于星痕共鸣的监控buff, 技能cd, 模组计算等</p><ul><li><strong>Stars:</strong> 5</li><li><strong>Language:</strong> Rust</li><li><strong>Updated:</strong> 2026-02-15T19:17:19Z</li></ul>]]></content:encoded>
+Updated: 2026-02-16T14:32:27Z</description>
+      <content:encoded><![CDATA[<p>resonance-logs 的中文版, 用于星痕共鸣的监控buff, 技能cd, 模组计算等</p><ul><li><strong>Stars:</strong> 5</li><li><strong>Language:</strong> Rust</li><li><strong>Updated:</strong> 2026-02-16T14:32:27Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/fudiyangjin/resonance-logs-cn</guid>
-      <pubDate>Sun, 15 Feb 2026 19:17:19 +0000</pubDate>
+      <pubDate>Mon, 16 Feb 2026 14:32:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
