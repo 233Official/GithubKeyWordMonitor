@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 18 Feb 2026 00:33:44 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Feb 2026 00:34:27 +0000</lastBuildDate>
     <item>
       <title>Icebear-Z/StarResonanceDamageCounter-Client</title>
       <link>https://github.com/Icebear-Z/StarResonanceDamageCounter-Client</link>
@@ -366,12 +366,12 @@ Updated: 2026-01-24T08:57:47Z</description>
       <title>dmlgzs/StarResonanceDamageCounter</title>
       <link>https://github.com/dmlgzs/StarResonanceDamageCounter</link>
       <description>Damage Counter for Star Resonance
-Stars: 263
+Stars: 262
 Language: JavaScript
-Updated: 2026-02-02T15:13:27Z</description>
-      <content:encoded><![CDATA[<p>Damage Counter for Star Resonance</p><ul><li><strong>Stars:</strong> 263</li><li><strong>Language:</strong> JavaScript</li><li><strong>Updated:</strong> 2026-02-02T15:13:27Z</li></ul>]]></content:encoded>
+Updated: 2026-02-18T23:37:57Z</description>
+      <content:encoded><![CDATA[<p>Damage Counter for Star Resonance</p><ul><li><strong>Stars:</strong> 262</li><li><strong>Language:</strong> JavaScript</li><li><strong>Updated:</strong> 2026-02-18T23:37:57Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/dmlgzs/StarResonanceDamageCounter</guid>
-      <pubDate>Mon, 02 Feb 2026 15:13:27 +0000</pubDate>
+      <pubDate>Wed, 18 Feb 2026 23:37:57 +0000</pubDate>
     </item>
     <item>
       <title>coffin399/StarResonance_Japan_Market_Analyzer</title>

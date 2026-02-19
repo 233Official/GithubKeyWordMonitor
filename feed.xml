@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 18 Feb 2026 00:33:44 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Feb 2026 00:34:27 +0000</lastBuildDate>
     <item>
       <title>[Star-Resonance] onecdz/Star-Resonance-Damage-Counter</title>
       <link>https://github.com/onecdz/Star-Resonance-Damage-Counter</link>
@@ -515,12 +515,12 @@ Updated: 2026-01-24T08:57:47Z</description>
       <title>[StarResonance] dmlgzs/StarResonanceDamageCounter</title>
       <link>https://github.com/dmlgzs/StarResonanceDamageCounter</link>
       <description>Damage Counter for Star Resonance
-Stars: 263
+Stars: 262
 Language: JavaScript
-Updated: 2026-02-02T15:13:27Z</description>
-      <content:encoded><![CDATA[<p>Damage Counter for Star Resonance</p><ul><li><strong>Stars:</strong> 263</li><li><strong>Language:</strong> JavaScript</li><li><strong>Updated:</strong> 2026-02-02T15:13:27Z</li></ul>]]></content:encoded>
+Updated: 2026-02-18T23:37:57Z</description>
+      <content:encoded><![CDATA[<p>Damage Counter for Star Resonance</p><ul><li><strong>Stars:</strong> 262</li><li><strong>Language:</strong> JavaScript</li><li><strong>Updated:</strong> 2026-02-18T23:37:57Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/dmlgzs/StarResonanceDamageCounter</guid>
-      <pubDate>Mon, 02 Feb 2026 15:13:27 +0000</pubDate>
+      <pubDate>Wed, 18 Feb 2026 23:37:57 +0000</pubDate>
     </item>
     <item>
       <title>[StarResonance] coffin399/StarResonance_Japan_Market_Analyzer</title>
@@ -932,12 +932,12 @@ Updated: 2026-02-14T10:09:33Z</description>
       <title>[星痕共鸣] fudiyangjin/resonance-logs-cn</title>
       <link>https://github.com/fudiyangjin/resonance-logs-cn</link>
       <description>resonance-logs 的中文版, 用于星痕共鸣的监控buff, 技能cd, 模组计算等
-Stars: 5
+Stars: 6
 Language: Rust
-Updated: 2026-02-16T14:32:27Z</description>
-      <content:encoded><![CDATA[<p>resonance-logs 的中文版, 用于星痕共鸣的监控buff, 技能cd, 模组计算等</p><ul><li><strong>Stars:</strong> 5</li><li><strong>Language:</strong> Rust</li><li><strong>Updated:</strong> 2026-02-16T14:32:27Z</li></ul>]]></content:encoded>
+Updated: 2026-02-18T13:52:32Z</description>
+      <content:encoded><![CDATA[<p>resonance-logs 的中文版, 用于星痕共鸣的监控buff, 技能cd, 模组计算等</p><ul><li><strong>Stars:</strong> 6</li><li><strong>Language:</strong> Rust</li><li><strong>Updated:</strong> 2026-02-18T13:52:32Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/fudiyangjin/resonance-logs-cn</guid>
-      <pubDate>Mon, 16 Feb 2026 14:32:27 +0000</pubDate>
+      <pubDate>Wed, 18 Feb 2026 13:52:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
