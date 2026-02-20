@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 19 Feb 2026 00:34:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Feb 2026 00:31:35 +0000</lastBuildDate>
     <item>
       <title>Nemoxxxxx/-</title>
       <link>https://github.com/Nemoxxxxx/-</link>
@@ -355,10 +355,10 @@ Updated: 2026-02-14T10:09:33Z</description>
       <description>resonance-logs 的中文版, 用于星痕共鸣的监控buff, 技能cd, 模组计算等
 Stars: 6
 Language: Rust
-Updated: 2026-02-18T13:52:32Z</description>
-      <content:encoded><![CDATA[<p>resonance-logs 的中文版, 用于星痕共鸣的监控buff, 技能cd, 模组计算等</p><ul><li><strong>Stars:</strong> 6</li><li><strong>Language:</strong> Rust</li><li><strong>Updated:</strong> 2026-02-18T13:52:32Z</li></ul>]]></content:encoded>
+Updated: 2026-02-19T12:59:32Z</description>
+      <content:encoded><![CDATA[<p>resonance-logs 的中文版, 用于星痕共鸣的监控buff, 技能cd, 模组计算等</p><ul><li><strong>Stars:</strong> 6</li><li><strong>Language:</strong> Rust</li><li><strong>Updated:</strong> 2026-02-19T12:59:32Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/fudiyangjin/resonance-logs-cn</guid>
-      <pubDate>Wed, 18 Feb 2026 13:52:32 +0000</pubDate>
+      <pubDate>Thu, 19 Feb 2026 12:59:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
