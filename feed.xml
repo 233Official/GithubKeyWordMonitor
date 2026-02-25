@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 24 Feb 2026 00:32:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Feb 2026 00:35:26 +0000</lastBuildDate>
     <item>
       <title>[Star-Resonance] onecdz/Star-Resonance-Damage-Counter</title>
       <link>https://github.com/onecdz/Star-Resonance-Damage-Counter</link>
@@ -163,10 +163,10 @@ Updated: 2026-02-15T15:09:47Z</description>
       <description>A one-way chat relay from BPSR --&gt; Discord
 Stars: 0
 Language: Python
-Updated: 2026-02-22T03:43:43Z</description>
-      <content:encoded><![CDATA[<p>A one-way chat relay from BPSR --&gt; Discord</p><ul><li><strong>Stars:</strong> 0</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2026-02-22T03:43:43Z</li></ul>]]></content:encoded>
+Updated: 2026-02-24T17:27:42Z</description>
+      <content:encoded><![CDATA[<p>A one-way chat relay from BPSR --&gt; Discord</p><ul><li><strong>Stars:</strong> 0</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2026-02-24T17:27:42Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/Poleric/star-resonance-relay</guid>
-      <pubDate>Sun, 22 Feb 2026 03:43:43 +0000</pubDate>
+      <pubDate>Tue, 24 Feb 2026 17:27:42 +0000</pubDate>
     </item>
     <item>
       <title>[StarResonance] Icebear-Z/StarResonanceDamageCounter-Client</title>
@@ -583,10 +583,10 @@ Updated: 2026-02-14T10:09:33Z</description>
       <link>https://github.com/anying1073/StarResonanceDps</link>
       <description>Stars: 78
 Language: C#
-Updated: 2026-02-23T16:27:32Z</description>
-      <content:encoded><![CDATA[<ul><li><strong>Stars:</strong> 78</li><li><strong>Language:</strong> C#</li><li><strong>Updated:</strong> 2026-02-23T16:27:32Z</li></ul>]]></content:encoded>
+Updated: 2026-02-24T15:36:00Z</description>
+      <content:encoded><![CDATA[<ul><li><strong>Stars:</strong> 78</li><li><strong>Language:</strong> C#</li><li><strong>Updated:</strong> 2026-02-24T15:36:00Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/anying1073/StarResonanceDps</guid>
-      <pubDate>Mon, 23 Feb 2026 16:27:32 +0000</pubDate>
+      <pubDate>Tue, 24 Feb 2026 15:36:00 +0000</pubDate>
     </item>
     <item>
       <title>[星痕共鸣] Nemoxxxxx/-</title>
@@ -946,10 +946,10 @@ Updated: 2026-02-22T19:24:21Z</description>
       <description>这是一个基于C++17、cmake、Qt6构建的可扩展DPS模拟器，主要用于模拟《星痕共鸣》中的3分钟输出循环。
 Stars: 0
 Language: C++
-Updated: 2026-02-22T13:11:55Z</description>
-      <content:encoded><![CDATA[<p>这是一个基于C++17、cmake、Qt6构建的可扩展DPS模拟器，主要用于模拟《星痕共鸣》中的3分钟输出循环。</p><ul><li><strong>Stars:</strong> 0</li><li><strong>Language:</strong> C++</li><li><strong>Updated:</strong> 2026-02-22T13:11:55Z</li></ul>]]></content:encoded>
+Updated: 2026-02-24T15:23:55Z</description>
+      <content:encoded><![CDATA[<p>这是一个基于C++17、cmake、Qt6构建的可扩展DPS模拟器，主要用于模拟《星痕共鸣》中的3分钟输出循环。</p><ul><li><strong>Stars:</strong> 0</li><li><strong>Language:</strong> C++</li><li><strong>Updated:</strong> 2026-02-24T15:23:55Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/FrostAro/Icicle_Simulator</guid>
-      <pubDate>Sun, 22 Feb 2026 13:11:55 +0000</pubDate>
+      <pubDate>Tue, 24 Feb 2026 15:23:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
