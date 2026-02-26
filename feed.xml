@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 25 Feb 2026 00:35:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Feb 2026 00:30:51 +0000</lastBuildDate>
     <item>
       <title>[Star-Resonance] onecdz/Star-Resonance-Damage-Counter</title>
       <link>https://github.com/onecdz/Star-Resonance-Damage-Counter</link>
@@ -119,12 +119,12 @@ Updated: 2026-01-08T13:45:29Z</description>
       <title>[Star-Resonance] Sanheiii/ok-star-resonance</title>
       <link>https://github.com/Sanheiii/ok-star-resonance</link>
       <description>基于ok-script的星痕共鸣自动工具
-Stars: 97
+Stars: 98
 Language: Python
-Updated: 2026-02-01T22:59:44Z</description>
-      <content:encoded><![CDATA[<p>基于ok-script的星痕共鸣自动工具</p><ul><li><strong>Stars:</strong> 97</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2026-02-01T22:59:44Z</li></ul>]]></content:encoded>
+Updated: 2026-02-25T07:37:21Z</description>
+      <content:encoded><![CDATA[<p>基于ok-script的星痕共鸣自动工具</p><ul><li><strong>Stars:</strong> 98</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2026-02-25T07:37:21Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/Sanheiii/ok-star-resonance</guid>
-      <pubDate>Sun, 01 Feb 2026 22:59:44 +0000</pubDate>
+      <pubDate>Wed, 25 Feb 2026 07:37:21 +0000</pubDate>
     </item>
     <item>
       <title>[Star-Resonance] zeroone91/star-resonance-id-maker</title>
@@ -160,13 +160,13 @@ Updated: 2026-02-15T15:09:47Z</description>
     <item>
       <title>[Star-Resonance] Poleric/star-resonance-relay</title>
       <link>https://github.com/Poleric/star-resonance-relay</link>
-      <description>A one-way chat relay from BPSR --&gt; Discord
+      <description>A one-way chat relay from BPSR → Discord
 Stars: 0
 Language: Python
-Updated: 2026-02-24T17:27:42Z</description>
-      <content:encoded><![CDATA[<p>A one-way chat relay from BPSR --&gt; Discord</p><ul><li><strong>Stars:</strong> 0</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2026-02-24T17:27:42Z</li></ul>]]></content:encoded>
+Updated: 2026-02-25T06:01:54Z</description>
+      <content:encoded><![CDATA[<p>A one-way chat relay from BPSR → Discord</p><ul><li><strong>Stars:</strong> 0</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2026-02-25T06:01:54Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/Poleric/star-resonance-relay</guid>
-      <pubDate>Tue, 24 Feb 2026 17:27:42 +0000</pubDate>
+      <pubDate>Wed, 25 Feb 2026 06:01:54 +0000</pubDate>
     </item>
     <item>
       <title>[StarResonance] Icebear-Z/StarResonanceDamageCounter-Client</title>
@@ -581,12 +581,12 @@ Updated: 2026-02-14T10:09:33Z</description>
     <item>
       <title>[StarResonance] anying1073/StarResonanceDps</title>
       <link>https://github.com/anying1073/StarResonanceDps</link>
-      <description>Stars: 78
+      <description>Stars: 79
 Language: C#
-Updated: 2026-02-24T15:36:00Z</description>
-      <content:encoded><![CDATA[<ul><li><strong>Stars:</strong> 78</li><li><strong>Language:</strong> C#</li><li><strong>Updated:</strong> 2026-02-24T15:36:00Z</li></ul>]]></content:encoded>
+Updated: 2026-02-25T14:12:45Z</description>
+      <content:encoded><![CDATA[<ul><li><strong>Stars:</strong> 79</li><li><strong>Language:</strong> C#</li><li><strong>Updated:</strong> 2026-02-25T14:12:45Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/anying1073/StarResonanceDps</guid>
-      <pubDate>Tue, 24 Feb 2026 15:36:00 +0000</pubDate>
+      <pubDate>Wed, 25 Feb 2026 14:12:45 +0000</pubDate>
     </item>
     <item>
       <title>[星痕共鸣] Nemoxxxxx/-</title>
@@ -900,12 +900,12 @@ Updated: 2025-12-13T05:39:57Z</description>
       <title>[星痕共鸣] Sanheiii/ok-star-resonance</title>
       <link>https://github.com/Sanheiii/ok-star-resonance</link>
       <description>基于ok-script的星痕共鸣自动工具
-Stars: 97
+Stars: 98
 Language: Python
-Updated: 2026-02-01T22:59:44Z</description>
-      <content:encoded><![CDATA[<p>基于ok-script的星痕共鸣自动工具</p><ul><li><strong>Stars:</strong> 97</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2026-02-01T22:59:44Z</li></ul>]]></content:encoded>
+Updated: 2026-02-25T07:37:21Z</description>
+      <content:encoded><![CDATA[<p>基于ok-script的星痕共鸣自动工具</p><ul><li><strong>Stars:</strong> 98</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2026-02-25T07:37:21Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/Sanheiii/ok-star-resonance</guid>
-      <pubDate>Sun, 01 Feb 2026 22:59:44 +0000</pubDate>
+      <pubDate>Wed, 25 Feb 2026 07:37:21 +0000</pubDate>
     </item>
     <item>
       <title>[星痕共鸣] 233Official/MaaStarResonance</title>
@@ -930,17 +930,6 @@ Updated: 2026-02-14T10:09:33Z</description>
       <pubDate>Sat, 14 Feb 2026 10:09:33 +0000</pubDate>
     </item>
     <item>
-      <title>[星痕共鸣] fudiyangjin/resonance-logs-cn</title>
-      <link>https://github.com/fudiyangjin/resonance-logs-cn</link>
-      <description>resonance-logs 的中文版, 用于星痕共鸣的监控buff, 技能cd, 模组计算等
-Stars: 8
-Language: Rust
-Updated: 2026-02-22T19:24:21Z</description>
-      <content:encoded><![CDATA[<p>resonance-logs 的中文版, 用于星痕共鸣的监控buff, 技能cd, 模组计算等</p><ul><li><strong>Stars:</strong> 8</li><li><strong>Language:</strong> Rust</li><li><strong>Updated:</strong> 2026-02-22T19:24:21Z</li></ul>]]></content:encoded>
-      <guid isPermaLink="false">https://github.com/fudiyangjin/resonance-logs-cn</guid>
-      <pubDate>Sun, 22 Feb 2026 19:24:21 +0000</pubDate>
-    </item>
-    <item>
       <title>[星痕共鸣] FrostAro/Icicle_Simulator</title>
       <link>https://github.com/FrostAro/Icicle_Simulator</link>
       <description>这是一个基于C++17、cmake、Qt6构建的可扩展DPS模拟器，主要用于模拟《星痕共鸣》中的3分钟输出循环。
@@ -950,6 +939,17 @@ Updated: 2026-02-24T15:23:55Z</description>
       <content:encoded><![CDATA[<p>这是一个基于C++17、cmake、Qt6构建的可扩展DPS模拟器，主要用于模拟《星痕共鸣》中的3分钟输出循环。</p><ul><li><strong>Stars:</strong> 0</li><li><strong>Language:</strong> C++</li><li><strong>Updated:</strong> 2026-02-24T15:23:55Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/FrostAro/Icicle_Simulator</guid>
       <pubDate>Tue, 24 Feb 2026 15:23:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>[星痕共鸣] fudiyangjin/resonance-logs-cn</title>
+      <link>https://github.com/fudiyangjin/resonance-logs-cn</link>
+      <description>resonance-logs 的中文版, 用于星痕共鸣的监控buff, 技能cd, 模组计算等
+Stars: 8
+Language: Rust
+Updated: 2026-02-25T15:41:22Z</description>
+      <content:encoded><![CDATA[<p>resonance-logs 的中文版, 用于星痕共鸣的监控buff, 技能cd, 模组计算等</p><ul><li><strong>Stars:</strong> 8</li><li><strong>Language:</strong> Rust</li><li><strong>Updated:</strong> 2026-02-25T15:41:22Z</li></ul>]]></content:encoded>
+      <guid isPermaLink="false">https://github.com/fudiyangjin/resonance-logs-cn</guid>
+      <pubDate>Wed, 25 Feb 2026 15:41:22 +0000</pubDate>
     </item>
   </channel>
 </rss>

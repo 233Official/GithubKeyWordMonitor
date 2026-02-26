@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 25 Feb 2026 00:35:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Feb 2026 00:30:51 +0000</lastBuildDate>
     <item>
       <title>onecdz/Star-Resonance-Damage-Counter</title>
       <link>https://github.com/onecdz/Star-Resonance-Damage-Counter</link>
@@ -119,12 +119,12 @@ Updated: 2026-01-08T13:45:29Z</description>
       <title>Sanheiii/ok-star-resonance</title>
       <link>https://github.com/Sanheiii/ok-star-resonance</link>
       <description>基于ok-script的星痕共鸣自动工具
-Stars: 97
+Stars: 98
 Language: Python
-Updated: 2026-02-01T22:59:44Z</description>
-      <content:encoded><![CDATA[<p>基于ok-script的星痕共鸣自动工具</p><ul><li><strong>Stars:</strong> 97</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2026-02-01T22:59:44Z</li></ul>]]></content:encoded>
+Updated: 2026-02-25T07:37:21Z</description>
+      <content:encoded><![CDATA[<p>基于ok-script的星痕共鸣自动工具</p><ul><li><strong>Stars:</strong> 98</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2026-02-25T07:37:21Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/Sanheiii/ok-star-resonance</guid>
-      <pubDate>Sun, 01 Feb 2026 22:59:44 +0000</pubDate>
+      <pubDate>Wed, 25 Feb 2026 07:37:21 +0000</pubDate>
     </item>
     <item>
       <title>zeroone91/star-resonance-id-maker</title>
@@ -160,13 +160,13 @@ Updated: 2026-02-15T15:09:47Z</description>
     <item>
       <title>Poleric/star-resonance-relay</title>
       <link>https://github.com/Poleric/star-resonance-relay</link>
-      <description>A one-way chat relay from BPSR --&gt; Discord
+      <description>A one-way chat relay from BPSR → Discord
 Stars: 0
 Language: Python
-Updated: 2026-02-24T17:27:42Z</description>
-      <content:encoded><![CDATA[<p>A one-way chat relay from BPSR --&gt; Discord</p><ul><li><strong>Stars:</strong> 0</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2026-02-24T17:27:42Z</li></ul>]]></content:encoded>
+Updated: 2026-02-25T06:01:54Z</description>
+      <content:encoded><![CDATA[<p>A one-way chat relay from BPSR → Discord</p><ul><li><strong>Stars:</strong> 0</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2026-02-25T06:01:54Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/Poleric/star-resonance-relay</guid>
-      <pubDate>Tue, 24 Feb 2026 17:27:42 +0000</pubDate>
+      <pubDate>Wed, 25 Feb 2026 06:01:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
