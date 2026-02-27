@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 26 Feb 2026 00:30:51 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Feb 2026 00:33:36 +0000</lastBuildDate>
     <item>
       <title>Icebear-Z/StarResonanceDamageCounter-Client</title>
       <link>https://github.com/Icebear-Z/StarResonanceDamageCounter-Client</link>
@@ -389,12 +389,12 @@ Updated: 2026-02-02T18:55:57Z</description>
       <title>PotRooms/StarResonanceTool</title>
       <link>https://github.com/PotRooms/StarResonanceTool</link>
       <description>WIP data parser for the game "Blue Protocol: Star Resonance"
-Stars: 15
+Stars: 16
 Language: C#
-Updated: 2026-02-05T18:05:40Z</description>
-      <content:encoded><![CDATA[<p>WIP data parser for the game &quot;Blue Protocol: Star Resonance&quot;</p><ul><li><strong>Stars:</strong> 15</li><li><strong>Language:</strong> C#</li><li><strong>Updated:</strong> 2026-02-05T18:05:40Z</li></ul>]]></content:encoded>
+Updated: 2026-02-26T08:43:42Z</description>
+      <content:encoded><![CDATA[<p>WIP data parser for the game &quot;Blue Protocol: Star Resonance&quot;</p><ul><li><strong>Stars:</strong> 16</li><li><strong>Language:</strong> C#</li><li><strong>Updated:</strong> 2026-02-26T08:43:42Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/PotRooms/StarResonanceTool</guid>
-      <pubDate>Thu, 05 Feb 2026 18:05:40 +0000</pubDate>
+      <pubDate>Thu, 26 Feb 2026 08:43:42 +0000</pubDate>
     </item>
     <item>
       <title>walnut-almonds/StarResonanceFishing</title>

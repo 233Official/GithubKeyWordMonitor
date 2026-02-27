@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 26 Feb 2026 00:30:51 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Feb 2026 00:33:36 +0000</lastBuildDate>
     <item>
       <title>onecdz/Star-Resonance-Damage-Counter</title>
       <link>https://github.com/onecdz/Star-Resonance-Damage-Counter</link>
@@ -116,17 +116,6 @@ Updated: 2026-01-08T13:45:29Z</description>
       <pubDate>Thu, 08 Jan 2026 13:45:29 +0000</pubDate>
     </item>
     <item>
-      <title>Sanheiii/ok-star-resonance</title>
-      <link>https://github.com/Sanheiii/ok-star-resonance</link>
-      <description>基于ok-script的星痕共鸣自动工具
-Stars: 98
-Language: Python
-Updated: 2026-02-25T07:37:21Z</description>
-      <content:encoded><![CDATA[<p>基于ok-script的星痕共鸣自动工具</p><ul><li><strong>Stars:</strong> 98</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2026-02-25T07:37:21Z</li></ul>]]></content:encoded>
-      <guid isPermaLink="false">https://github.com/Sanheiii/ok-star-resonance</guid>
-      <pubDate>Wed, 25 Feb 2026 07:37:21 +0000</pubDate>
-    </item>
-    <item>
       <title>zeroone91/star-resonance-id-maker</title>
       <link>https://github.com/zeroone91/star-resonance-id-maker</link>
       <description>STAR RESONANCE ID MAKER
@@ -167,6 +156,17 @@ Updated: 2026-02-25T06:01:54Z</description>
       <content:encoded><![CDATA[<p>A one-way chat relay from BPSR → Discord</p><ul><li><strong>Stars:</strong> 0</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2026-02-25T06:01:54Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/Poleric/star-resonance-relay</guid>
       <pubDate>Wed, 25 Feb 2026 06:01:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sanheiii/ok-star-resonance</title>
+      <link>https://github.com/Sanheiii/ok-star-resonance</link>
+      <description>基于ok-script的星痕共鸣自动工具
+Stars: 98
+Language: Python
+Updated: 2026-02-26T01:40:58Z</description>
+      <content:encoded><![CDATA[<p>基于ok-script的星痕共鸣自动工具</p><ul><li><strong>Stars:</strong> 98</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2026-02-26T01:40:58Z</li></ul>]]></content:encoded>
+      <guid isPermaLink="false">https://github.com/Sanheiii/ok-star-resonance</guid>
+      <pubDate>Thu, 26 Feb 2026 01:40:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
