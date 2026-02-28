@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 27 Feb 2026 00:33:36 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Feb 2026 00:28:55 +0000</lastBuildDate>
     <item>
       <title>Nemoxxxxx/-</title>
       <link>https://github.com/Nemoxxxxx/-</link>
@@ -339,17 +339,6 @@ Updated: 2026-02-14T10:09:33Z</description>
       <pubDate>Sat, 14 Feb 2026 10:09:33 +0000</pubDate>
     </item>
     <item>
-      <title>FrostAro/Icicle_Simulator</title>
-      <link>https://github.com/FrostAro/Icicle_Simulator</link>
-      <description>这是一个基于C++17、cmake、Qt6构建的可扩展DPS模拟器，主要用于模拟《星痕共鸣》中的3分钟输出循环。
-Stars: 0
-Language: C++
-Updated: 2026-02-24T15:23:55Z</description>
-      <content:encoded><![CDATA[<p>这是一个基于C++17、cmake、Qt6构建的可扩展DPS模拟器，主要用于模拟《星痕共鸣》中的3分钟输出循环。</p><ul><li><strong>Stars:</strong> 0</li><li><strong>Language:</strong> C++</li><li><strong>Updated:</strong> 2026-02-24T15:23:55Z</li></ul>]]></content:encoded>
-      <guid isPermaLink="false">https://github.com/FrostAro/Icicle_Simulator</guid>
-      <pubDate>Tue, 24 Feb 2026 15:23:55 +0000</pubDate>
-    </item>
-    <item>
       <title>Sanheiii/ok-star-resonance</title>
       <link>https://github.com/Sanheiii/ok-star-resonance</link>
       <description>基于ok-script的星痕共鸣自动工具
@@ -361,15 +350,26 @@ Updated: 2026-02-26T01:40:58Z</description>
       <pubDate>Thu, 26 Feb 2026 01:40:58 +0000</pubDate>
     </item>
     <item>
+      <title>FrostAro/StarResonance_Simulator</title>
+      <link>https://github.com/FrostAro/StarResonance_Simulator</link>
+      <description>这是一个基于C++17、cmake、Qt6构建的可扩展DPS模拟器，主要用于模拟《星痕共鸣》中的3分钟输出循环。
+Stars: 0
+Language: C++
+Updated: 2026-02-27T14:55:43Z</description>
+      <content:encoded><![CDATA[<p>这是一个基于C++17、cmake、Qt6构建的可扩展DPS模拟器，主要用于模拟《星痕共鸣》中的3分钟输出循环。</p><ul><li><strong>Stars:</strong> 0</li><li><strong>Language:</strong> C++</li><li><strong>Updated:</strong> 2026-02-27T14:55:43Z</li></ul>]]></content:encoded>
+      <guid isPermaLink="false">https://github.com/FrostAro/StarResonance_Simulator</guid>
+      <pubDate>Fri, 27 Feb 2026 14:55:43 +0000</pubDate>
+    </item>
+    <item>
       <title>fudiyangjin/resonance-logs-cn</title>
       <link>https://github.com/fudiyangjin/resonance-logs-cn</link>
       <description>resonance-logs 的中文版, 用于星痕共鸣的监控buff, 技能cd, 模组计算等
-Stars: 8
+Stars: 9
 Language: Rust
-Updated: 2026-02-26T16:36:19Z</description>
-      <content:encoded><![CDATA[<p>resonance-logs 的中文版, 用于星痕共鸣的监控buff, 技能cd, 模组计算等</p><ul><li><strong>Stars:</strong> 8</li><li><strong>Language:</strong> Rust</li><li><strong>Updated:</strong> 2026-02-26T16:36:19Z</li></ul>]]></content:encoded>
+Updated: 2026-02-27T17:19:51Z</description>
+      <content:encoded><![CDATA[<p>resonance-logs 的中文版, 用于星痕共鸣的监控buff, 技能cd, 模组计算等</p><ul><li><strong>Stars:</strong> 9</li><li><strong>Language:</strong> Rust</li><li><strong>Updated:</strong> 2026-02-27T17:19:51Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/fudiyangjin/resonance-logs-cn</guid>
-      <pubDate>Thu, 26 Feb 2026 16:36:19 +0000</pubDate>
+      <pubDate>Fri, 27 Feb 2026 17:19:51 +0000</pubDate>
     </item>
   </channel>
 </rss>
