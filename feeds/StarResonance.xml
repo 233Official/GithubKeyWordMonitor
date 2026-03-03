@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 02 Mar 2026 00:32:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Mar 2026 00:33:34 +0000</lastBuildDate>
     <item>
       <title>Icebear-Z/StarResonanceDamageCounter-Client</title>
       <link>https://github.com/Icebear-Z/StarResonanceDamageCounter-Client</link>
@@ -400,12 +400,12 @@ Updated: 2026-03-01T23:47:42Z</description>
       <title>walnut-almonds/StarResonanceFishing</title>
       <link>https://github.com/walnut-almonds/StarResonanceFishing</link>
       <description>StarResonance fishing automation
-Stars: 1
+Stars: 2
 Language: Python
-Updated: 2026-02-14T05:39:35Z</description>
-      <content:encoded><![CDATA[<p>StarResonance fishing automation</p><ul><li><strong>Stars:</strong> 1</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2026-02-14T05:39:35Z</li></ul>]]></content:encoded>
+Updated: 2026-03-02T15:35:04Z</description>
+      <content:encoded><![CDATA[<p>StarResonance fishing automation</p><ul><li><strong>Stars:</strong> 2</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2026-03-02T15:35:04Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/walnut-almonds/StarResonanceFishing</guid>
-      <pubDate>Sat, 14 Feb 2026 05:39:35 +0000</pubDate>
+      <pubDate>Mon, 02 Mar 2026 15:35:04 +0000</pubDate>
     </item>
     <item>
       <title>SkyLoveGR/StarResonanceDamageCounter-BUFF</title>
