@@ -7,7 +7,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 03 Mar 2026 00:33:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Mar 2026 00:31:56 +0000</lastBuildDate>
+    <item>
+      <title>[Star-Resonance] onecdz/Star-Resonance-Damage-Counter</title>
+      <link>https://github.com/onecdz/Star-Resonance-Damage-Counter</link>
+      <description>0001
+Stars: 0
+Language: N/A
+Updated: 2025-08-04T09:24:12Z</description>
+      <content:encoded><![CDATA[<p>0001</p><ul><li><strong>Stars:</strong> 0</li><li><strong>Language:</strong> N/A</li><li><strong>Updated:</strong> 2025-08-04T09:24:12Z</li></ul>]]></content:encoded>
+      <guid isPermaLink="false">https://github.com/onecdz/Star-Resonance-Damage-Counter</guid>
+      <pubDate>Mon, 04 Aug 2025 09:24:12 +0000</pubDate>
+    </item>
     <item>
       <title>[Star-Resonance] Kronyx/BP-Star-Resonance-Tradu-o-PT-BR</title>
       <link>https://github.com/Kronyx/BP-Star-Resonance-Tradu-o-PT-BR</link>
@@ -105,27 +116,6 @@ Updated: 2026-01-08T13:45:29Z</description>
       <pubDate>Thu, 08 Jan 2026 13:45:29 +0000</pubDate>
     </item>
     <item>
-      <title>[Star-Resonance] zeroone91/star-resonance-id-maker</title>
-      <link>https://github.com/zeroone91/star-resonance-id-maker</link>
-      <description>STAR RESONANCE ID MAKER
-Stars: 0
-Language: JavaScript
-Updated: 2026-01-18T06:34:14Z</description>
-      <content:encoded><![CDATA[<p>STAR RESONANCE ID MAKER</p><ul><li><strong>Stars:</strong> 0</li><li><strong>Language:</strong> JavaScript</li><li><strong>Updated:</strong> 2026-01-18T06:34:14Z</li></ul>]]></content:encoded>
-      <guid isPermaLink="false">https://github.com/zeroone91/star-resonance-id-maker</guid>
-      <pubDate>Sun, 18 Jan 2026 06:34:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Star-Resonance] takeshich/star-resonance-tool</title>
-      <link>https://github.com/takeshich/star-resonance-tool</link>
-      <description>Stars: 0
-Language: Python
-Updated: 2026-02-07T09:06:55Z</description>
-      <content:encoded><![CDATA[<ul><li><strong>Stars:</strong> 0</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2026-02-07T09:06:55Z</li></ul>]]></content:encoded>
-      <guid isPermaLink="false">https://github.com/takeshich/star-resonance-tool</guid>
-      <pubDate>Sat, 07 Feb 2026 09:06:55 +0000</pubDate>
-    </item>
-    <item>
       <title>[Star-Resonance] cabernet96258/star-resonance-tracker</title>
       <link>https://github.com/cabernet96258/star-resonance-tracker</link>
       <description>Stars: 0
@@ -156,6 +146,16 @@ Updated: 2026-03-02T15:50:48Z</description>
       <content:encoded><![CDATA[<p>基于ok-script的星痕共鸣自动工具</p><ul><li><strong>Stars:</strong> 98</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2026-03-02T15:50:48Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/Sanheiii/ok-star-resonance</guid>
       <pubDate>Mon, 02 Mar 2026 15:50:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Star-Resonance] takeshich/star-resonance-tool</title>
+      <link>https://github.com/takeshich/star-resonance-tool</link>
+      <description>Stars: 0
+Language: Python
+Updated: 2026-03-03T14:19:30Z</description>
+      <content:encoded><![CDATA[<ul><li><strong>Stars:</strong> 0</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2026-03-03T14:19:30Z</li></ul>]]></content:encoded>
+      <guid isPermaLink="false">https://github.com/takeshich/star-resonance-tool</guid>
+      <pubDate>Tue, 03 Mar 2026 14:19:30 +0000</pubDate>
     </item>
     <item>
       <title>[StarResonance] Icebear-Z/StarResonanceDamageCounter-Client</title>
