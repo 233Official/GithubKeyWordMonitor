@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 06 Mar 2026 00:36:43 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Mar 2026 00:31:35 +0000</lastBuildDate>
     <item>
       <title>[Star-Resonance] onecdz/Star-Resonance-Damage-Counter</title>
       <link>https://github.com/onecdz/Star-Resonance-Damage-Counter</link>
@@ -116,16 +116,6 @@ Updated: 2026-01-08T13:45:29Z</description>
       <pubDate>Thu, 08 Jan 2026 13:45:29 +0000</pubDate>
     </item>
     <item>
-      <title>[Star-Resonance] cabernet96258/star-resonance-tracker</title>
-      <link>https://github.com/cabernet96258/star-resonance-tracker</link>
-      <description>Stars: 0
-Language: HTML
-Updated: 2026-02-15T15:09:47Z</description>
-      <content:encoded><![CDATA[<ul><li><strong>Stars:</strong> 0</li><li><strong>Language:</strong> HTML</li><li><strong>Updated:</strong> 2026-02-15T15:09:47Z</li></ul>]]></content:encoded>
-      <guid isPermaLink="false">https://github.com/cabernet96258/star-resonance-tracker</guid>
-      <pubDate>Sun, 15 Feb 2026 15:09:47 +0000</pubDate>
-    </item>
-    <item>
       <title>[Star-Resonance] Poleric/star-resonance-relay</title>
       <link>https://github.com/Poleric/star-resonance-relay</link>
       <description>A one-way chat relay from BPSR → Discord
@@ -137,17 +127,6 @@ Updated: 2026-02-27T12:43:51Z</description>
       <pubDate>Fri, 27 Feb 2026 12:43:51 +0000</pubDate>
     </item>
     <item>
-      <title>[Star-Resonance] Sanheiii/ok-star-resonance</title>
-      <link>https://github.com/Sanheiii/ok-star-resonance</link>
-      <description>基于ok-script的星痕共鸣自动工具
-Stars: 98
-Language: Python
-Updated: 2026-03-02T15:50:48Z</description>
-      <content:encoded><![CDATA[<p>基于ok-script的星痕共鸣自动工具</p><ul><li><strong>Stars:</strong> 98</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2026-03-02T15:50:48Z</li></ul>]]></content:encoded>
-      <guid isPermaLink="false">https://github.com/Sanheiii/ok-star-resonance</guid>
-      <pubDate>Mon, 02 Mar 2026 15:50:48 +0000</pubDate>
-    </item>
-    <item>
       <title>[Star-Resonance] takeshich/star-resonance-tool</title>
       <link>https://github.com/takeshich/star-resonance-tool</link>
       <description>Stars: 0
@@ -156,6 +135,27 @@ Updated: 2026-03-03T14:19:30Z</description>
       <content:encoded><![CDATA[<ul><li><strong>Stars:</strong> 0</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2026-03-03T14:19:30Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/takeshich/star-resonance-tool</guid>
       <pubDate>Tue, 03 Mar 2026 14:19:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Star-Resonance] cabernet96258/star-resonance-tracker</title>
+      <link>https://github.com/cabernet96258/star-resonance-tracker</link>
+      <description>Stars: 0
+Language: HTML
+Updated: 2026-03-06T07:52:28Z</description>
+      <content:encoded><![CDATA[<ul><li><strong>Stars:</strong> 0</li><li><strong>Language:</strong> HTML</li><li><strong>Updated:</strong> 2026-03-06T07:52:28Z</li></ul>]]></content:encoded>
+      <guid isPermaLink="false">https://github.com/cabernet96258/star-resonance-tracker</guid>
+      <pubDate>Fri, 06 Mar 2026 07:52:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Star-Resonance] Sanheiii/ok-star-resonance</title>
+      <link>https://github.com/Sanheiii/ok-star-resonance</link>
+      <description>基于ok-script的星痕共鸣自动工具
+Stars: 97
+Language: Python
+Updated: 2026-03-06T11:22:31Z</description>
+      <content:encoded><![CDATA[<p>基于ok-script的星痕共鸣自动工具</p><ul><li><strong>Stars:</strong> 97</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2026-03-06T11:22:31Z</li></ul>]]></content:encoded>
+      <guid isPermaLink="false">https://github.com/Sanheiii/ok-star-resonance</guid>
+      <pubDate>Fri, 06 Mar 2026 11:22:31 +0000</pubDate>
     </item>
     <item>
       <title>[StarResonance] Icebear-Z/StarResonanceDamageCounter-Client</title>
@@ -930,17 +930,6 @@ Updated: 2026-03-01T12:01:30Z</description>
       <pubDate>Sun, 01 Mar 2026 12:01:30 +0000</pubDate>
     </item>
     <item>
-      <title>[星痕共鸣] Sanheiii/ok-star-resonance</title>
-      <link>https://github.com/Sanheiii/ok-star-resonance</link>
-      <description>基于ok-script的星痕共鸣自动工具
-Stars: 98
-Language: Python
-Updated: 2026-03-02T15:50:48Z</description>
-      <content:encoded><![CDATA[<p>基于ok-script的星痕共鸣自动工具</p><ul><li><strong>Stars:</strong> 98</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2026-03-02T15:50:48Z</li></ul>]]></content:encoded>
-      <guid isPermaLink="false">https://github.com/Sanheiii/ok-star-resonance</guid>
-      <pubDate>Mon, 02 Mar 2026 15:50:48 +0000</pubDate>
-    </item>
-    <item>
       <title>[星痕共鸣] 233Official/MaaStarResonance</title>
       <link>https://github.com/233Official/MaaStarResonance</link>
       <description>基于MAAFW的星痕共鸣黑盒测试工具
@@ -950,6 +939,17 @@ Updated: 2026-03-05T01:53:40Z</description>
       <content:encoded><![CDATA[<p>基于MAAFW的星痕共鸣黑盒测试工具</p><ul><li><strong>Stars:</strong> 13</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2026-03-05T01:53:40Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/233Official/MaaStarResonance</guid>
       <pubDate>Thu, 05 Mar 2026 01:53:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>[星痕共鸣] Sanheiii/ok-star-resonance</title>
+      <link>https://github.com/Sanheiii/ok-star-resonance</link>
+      <description>基于ok-script的星痕共鸣自动工具
+Stars: 97
+Language: Python
+Updated: 2026-03-06T11:22:31Z</description>
+      <content:encoded><![CDATA[<p>基于ok-script的星痕共鸣自动工具</p><ul><li><strong>Stars:</strong> 97</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2026-03-06T11:22:31Z</li></ul>]]></content:encoded>
+      <guid isPermaLink="false">https://github.com/Sanheiii/ok-star-resonance</guid>
+      <pubDate>Fri, 06 Mar 2026 11:22:31 +0000</pubDate>
     </item>
   </channel>
 </rss>
