@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 09 Mar 2026 00:33:07 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Mar 2026 00:30:03 +0000</lastBuildDate>
     <item>
       <title>Icebear-Z/StarResonanceDamageCounter-Client</title>
       <link>https://github.com/Icebear-Z/StarResonanceDamageCounter-Client</link>
@@ -119,12 +119,12 @@ Updated: 2025-08-21T07:39:09Z</description>
       <title>cuteSATOU/StarResonanceDPS</title>
       <link>https://github.com/cuteSATOU/StarResonanceDPS</link>
       <description>星痕共鸣第三方DPS统计工具
-Stars: 14
+Stars: 13
 Language: JavaScript
-Updated: 2025-09-22T10:55:46Z</description>
-      <content:encoded><![CDATA[<p>星痕共鸣第三方DPS统计工具</p><ul><li><strong>Stars:</strong> 14</li><li><strong>Language:</strong> JavaScript</li><li><strong>Updated:</strong> 2025-09-22T10:55:46Z</li></ul>]]></content:encoded>
+Updated: 2026-03-09T08:32:42Z</description>
+      <content:encoded><![CDATA[<p>星痕共鸣第三方DPS统计工具</p><ul><li><strong>Stars:</strong> 13</li><li><strong>Language:</strong> JavaScript</li><li><strong>Updated:</strong> 2026-03-09T08:32:42Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/cuteSATOU/StarResonanceDPS</guid>
-      <pubDate>Mon, 22 Sep 2025 10:55:46 +0000</pubDate>
+      <pubDate>Mon, 09 Mar 2026 08:32:42 +0000</pubDate>
     </item>
     <item>
       <title>ziqi-rgb/StarResonanceDamageCounter-overlay</title>
@@ -375,17 +375,6 @@ Updated: 2026-01-29T00:02:37Z</description>
       <pubDate>Thu, 29 Jan 2026 00:02:37 +0000</pubDate>
     </item>
     <item>
-      <title>Sucrosato/KeymouseGo_StarResonance</title>
-      <link>https://github.com/Sucrosato/KeymouseGo_StarResonance</link>
-      <description>Some scripts and plugins for automation in Star Resonance
-Stars: 1
-Language: Jupyter Notebook
-Updated: 2026-02-02T18:55:57Z</description>
-      <content:encoded><![CDATA[<p>Some scripts and plugins for automation in Star Resonance</p><ul><li><strong>Stars:</strong> 1</li><li><strong>Language:</strong> Jupyter Notebook</li><li><strong>Updated:</strong> 2026-02-02T18:55:57Z</li></ul>]]></content:encoded>
-      <guid isPermaLink="false">https://github.com/Sucrosato/KeymouseGo_StarResonance</guid>
-      <pubDate>Mon, 02 Feb 2026 18:55:57 +0000</pubDate>
-    </item>
-    <item>
       <title>PotRooms/StarResonanceTool</title>
       <link>https://github.com/PotRooms/StarResonanceTool</link>
       <description>WIP data parser for the game "Blue Protocol: Star Resonance"
@@ -430,14 +419,25 @@ Updated: 2026-02-27T14:55:43Z</description>
       <pubDate>Fri, 27 Feb 2026 14:55:43 +0000</pubDate>
     </item>
     <item>
+      <title>Sucrosato/KeymouseGo_StarResonance</title>
+      <link>https://github.com/Sucrosato/KeymouseGo_StarResonance</link>
+      <description>Some scripts and plugins for automation in Star Resonance
+Stars: 1
+Language: Jupyter Notebook
+Updated: 2026-03-09T10:16:02Z</description>
+      <content:encoded><![CDATA[<p>Some scripts and plugins for automation in Star Resonance</p><ul><li><strong>Stars:</strong> 1</li><li><strong>Language:</strong> Jupyter Notebook</li><li><strong>Updated:</strong> 2026-03-09T10:16:02Z</li></ul>]]></content:encoded>
+      <guid isPermaLink="false">https://github.com/Sucrosato/KeymouseGo_StarResonance</guid>
+      <pubDate>Mon, 09 Mar 2026 10:16:02 +0000</pubDate>
+    </item>
+    <item>
       <title>anying1073/StarResonanceDps</title>
       <link>https://github.com/anying1073/StarResonanceDps</link>
       <description>Stars: 79
 Language: C#
-Updated: 2026-03-08T05:43:10Z</description>
-      <content:encoded><![CDATA[<ul><li><strong>Stars:</strong> 79</li><li><strong>Language:</strong> C#</li><li><strong>Updated:</strong> 2026-03-08T05:43:10Z</li></ul>]]></content:encoded>
+Updated: 2026-03-09T18:58:38Z</description>
+      <content:encoded><![CDATA[<ul><li><strong>Stars:</strong> 79</li><li><strong>Language:</strong> C#</li><li><strong>Updated:</strong> 2026-03-09T18:58:38Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/anying1073/StarResonanceDps</guid>
-      <pubDate>Sun, 08 Mar 2026 05:43:10 +0000</pubDate>
+      <pubDate>Mon, 09 Mar 2026 18:58:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
