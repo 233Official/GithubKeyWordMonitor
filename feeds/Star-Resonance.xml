@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 15 Mar 2026 00:37:53 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Mar 2026 00:37:52 +0000</lastBuildDate>
     <item>
       <title>Kronyx/BP-Star-Resonance-Tradu-o-PT-BR</title>
       <link>https://github.com/Kronyx/BP-Star-Resonance-Tradu-o-PT-BR</link>
@@ -139,12 +139,12 @@ Updated: 2026-03-07T12:44:51Z</description>
       <title>Sanheiii/ok-star-resonance</title>
       <link>https://github.com/Sanheiii/ok-star-resonance</link>
       <description>基于ok-script的星痕共鸣自动工具
-Stars: 96
+Stars: 97
 Language: Python
-Updated: 2026-03-14T10:27:13Z</description>
-      <content:encoded><![CDATA[<p>基于ok-script的星痕共鸣自动工具</p><ul><li><strong>Stars:</strong> 96</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2026-03-14T10:27:13Z</li></ul>]]></content:encoded>
+Updated: 2026-03-15T12:15:19Z</description>
+      <content:encoded><![CDATA[<p>基于ok-script的星痕共鸣自动工具</p><ul><li><strong>Stars:</strong> 97</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2026-03-15T12:15:19Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/Sanheiii/ok-star-resonance</guid>
-      <pubDate>Sat, 14 Mar 2026 10:27:13 +0000</pubDate>
+      <pubDate>Sun, 15 Mar 2026 12:15:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
