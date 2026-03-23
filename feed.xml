@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 22 Mar 2026 00:35:15 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Mar 2026 00:36:37 +0000</lastBuildDate>
     <item>
       <title>[Star-Resonance] whbyaoi/star-resonance-profit-tool</title>
       <link>https://github.com/whbyaoi/star-resonance-profit-tool</link>
@@ -472,12 +472,12 @@ Updated: 2026-01-29T00:02:37Z</description>
       <title>[StarResonance] PotRooms/StarResonanceTool</title>
       <link>https://github.com/PotRooms/StarResonanceTool</link>
       <description>WIP data parser for the game "Blue Protocol: Star Resonance"
-Stars: 19
+Stars: 20
 Language: C#
-Updated: 2026-03-21T01:43:39Z</description>
-      <content:encoded><![CDATA[<p>WIP data parser for the game &quot;Blue Protocol: Star Resonance&quot;</p><ul><li><strong>Stars:</strong> 19</li><li><strong>Language:</strong> C#</li><li><strong>Updated:</strong> 2026-03-21T01:43:39Z</li></ul>]]></content:encoded>
+Updated: 2026-03-22T21:11:04Z</description>
+      <content:encoded><![CDATA[<p>WIP data parser for the game &quot;Blue Protocol: Star Resonance&quot;</p><ul><li><strong>Stars:</strong> 20</li><li><strong>Language:</strong> C#</li><li><strong>Updated:</strong> 2026-03-22T21:11:04Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/PotRooms/StarResonanceTool</guid>
-      <pubDate>Sat, 21 Mar 2026 01:43:39 +0000</pubDate>
+      <pubDate>Sun, 22 Mar 2026 21:11:04 +0000</pubDate>
     </item>
     <item>
       <title>[StarResonance] walnut-almonds/StarResonanceFishing</title>
@@ -591,12 +591,12 @@ Updated: 2026-03-20T21:03:23Z</description>
     <item>
       <title>[StarResonance] anying1073/StarResonanceDps</title>
       <link>https://github.com/anying1073/StarResonanceDps</link>
-      <description>Stars: 81
+      <description>Stars: 83
 Language: C#
-Updated: 2026-03-21T16:07:22Z</description>
-      <content:encoded><![CDATA[<ul><li><strong>Stars:</strong> 81</li><li><strong>Language:</strong> C#</li><li><strong>Updated:</strong> 2026-03-21T16:07:22Z</li></ul>]]></content:encoded>
+Updated: 2026-03-22T17:45:14Z</description>
+      <content:encoded><![CDATA[<ul><li><strong>Stars:</strong> 83</li><li><strong>Language:</strong> C#</li><li><strong>Updated:</strong> 2026-03-22T17:45:14Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/anying1073/StarResonanceDps</guid>
-      <pubDate>Sat, 21 Mar 2026 16:07:22 +0000</pubDate>
+      <pubDate>Sun, 22 Mar 2026 17:45:14 +0000</pubDate>
     </item>
     <item>
       <title>[星痕共鸣] Nemoxxxxx/-</title>
@@ -943,23 +943,23 @@ Updated: 2026-03-21T08:59:42Z</description>
       <title>[星痕共鸣] 233Official/MaaStarResonance</title>
       <link>https://github.com/233Official/MaaStarResonance</link>
       <description>基于MAAFW的星痕共鸣黑盒测试工具
-Stars: 13
+Stars: 14
 Language: Python
-Updated: 2026-03-21T14:27:48Z</description>
-      <content:encoded><![CDATA[<p>基于MAAFW的星痕共鸣黑盒测试工具</p><ul><li><strong>Stars:</strong> 13</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2026-03-21T14:27:48Z</li></ul>]]></content:encoded>
+Updated: 2026-03-22T03:10:11Z</description>
+      <content:encoded><![CDATA[<p>基于MAAFW的星痕共鸣黑盒测试工具</p><ul><li><strong>Stars:</strong> 14</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2026-03-22T03:10:11Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/233Official/MaaStarResonance</guid>
-      <pubDate>Sat, 21 Mar 2026 14:27:48 +0000</pubDate>
+      <pubDate>Sun, 22 Mar 2026 03:10:11 +0000</pubDate>
     </item>
     <item>
       <title>[星痕共鸣] fudiyangjin/resonance-logs-cn</title>
       <link>https://github.com/fudiyangjin/resonance-logs-cn</link>
       <description>resonance-logs 的中文版, 用于星痕共鸣的监控buff, 技能cd, 模组计算等
-Stars: 18
+Stars: 20
 Language: Rust
-Updated: 2026-03-22T00:15:59Z</description>
-      <content:encoded><![CDATA[<p>resonance-logs 的中文版, 用于星痕共鸣的监控buff, 技能cd, 模组计算等</p><ul><li><strong>Stars:</strong> 18</li><li><strong>Language:</strong> Rust</li><li><strong>Updated:</strong> 2026-03-22T00:15:59Z</li></ul>]]></content:encoded>
+Updated: 2026-03-22T23:03:36Z</description>
+      <content:encoded><![CDATA[<p>resonance-logs 的中文版, 用于星痕共鸣的监控buff, 技能cd, 模组计算等</p><ul><li><strong>Stars:</strong> 20</li><li><strong>Language:</strong> Rust</li><li><strong>Updated:</strong> 2026-03-22T23:03:36Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/fudiyangjin/resonance-logs-cn</guid>
-      <pubDate>Sun, 22 Mar 2026 00:15:59 +0000</pubDate>
+      <pubDate>Sun, 22 Mar 2026 23:03:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
