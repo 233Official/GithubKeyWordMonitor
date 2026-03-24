@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Mar 2026 00:36:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Mar 2026 00:30:36 +0000</lastBuildDate>
     <item>
       <title>[Star-Resonance] whbyaoi/star-resonance-profit-tool</title>
       <link>https://github.com/whbyaoi/star-resonance-profit-tool</link>
@@ -130,10 +130,10 @@ Updated: 2026-03-07T12:44:51Z</description>
       <description>基于ok-script的星痕共鸣自动工具
 Stars: 100
 Language: Python
-Updated: 2026-03-21T08:59:42Z</description>
-      <content:encoded><![CDATA[<p>基于ok-script的星痕共鸣自动工具</p><ul><li><strong>Stars:</strong> 100</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2026-03-21T08:59:42Z</li></ul>]]></content:encoded>
+Updated: 2026-03-23T17:31:54Z</description>
+      <content:encoded><![CDATA[<p>基于ok-script的星痕共鸣自动工具</p><ul><li><strong>Stars:</strong> 100</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2026-03-23T17:31:54Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/Sanheiii/ok-star-resonance</guid>
-      <pubDate>Sat, 21 Mar 2026 08:59:42 +0000</pubDate>
+      <pubDate>Mon, 23 Mar 2026 17:31:54 +0000</pubDate>
     </item>
     <item>
       <title>[StarResonance] Icebear-Z/StarResonanceDamageCounter-Client</title>
@@ -289,12 +289,12 @@ Updated: 2025-09-12T09:11:57Z</description>
       <title>[StarResonance] PotRooms/StarResonanceData</title>
       <link>https://github.com/PotRooms/StarResonanceData</link>
       <description>Blue Protocol: Star Resonance data
-Stars: 39
+Stars: 40
 Language: Lua
-Updated: 2026-02-15T09:15:30Z</description>
-      <content:encoded><![CDATA[<p>Blue Protocol: Star Resonance data</p><ul><li><strong>Stars:</strong> 39</li><li><strong>Language:</strong> Lua</li><li><strong>Updated:</strong> 2026-02-15T09:15:30Z</li></ul>]]></content:encoded>
+Updated: 2026-03-23T08:51:43Z</description>
+      <content:encoded><![CDATA[<p>Blue Protocol: Star Resonance data</p><ul><li><strong>Stars:</strong> 40</li><li><strong>Language:</strong> Lua</li><li><strong>Updated:</strong> 2026-03-23T08:51:43Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/PotRooms/StarResonanceData</guid>
-      <pubDate>Sun, 15 Feb 2026 09:15:30 +0000</pubDate>
+      <pubDate>Mon, 23 Mar 2026 08:51:43 +0000</pubDate>
     </item>
     <item>
       <title>[StarResonance] xxfttkx/StarResonanceAutoHunt</title>
@@ -593,10 +593,10 @@ Updated: 2026-03-20T21:03:23Z</description>
       <link>https://github.com/anying1073/StarResonanceDps</link>
       <description>Stars: 83
 Language: C#
-Updated: 2026-03-22T17:45:14Z</description>
-      <content:encoded><![CDATA[<ul><li><strong>Stars:</strong> 83</li><li><strong>Language:</strong> C#</li><li><strong>Updated:</strong> 2026-03-22T17:45:14Z</li></ul>]]></content:encoded>
+Updated: 2026-03-23T06:47:02Z</description>
+      <content:encoded><![CDATA[<ul><li><strong>Stars:</strong> 83</li><li><strong>Language:</strong> C#</li><li><strong>Updated:</strong> 2026-03-23T06:47:02Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/anying1073/StarResonanceDps</guid>
-      <pubDate>Sun, 22 Mar 2026 17:45:14 +0000</pubDate>
+      <pubDate>Mon, 23 Mar 2026 06:47:02 +0000</pubDate>
     </item>
     <item>
       <title>[星痕共鸣] Nemoxxxxx/-</title>
@@ -929,17 +929,6 @@ Updated: 2026-03-19T00:52:02Z</description>
       <pubDate>Thu, 19 Mar 2026 00:52:02 +0000</pubDate>
     </item>
     <item>
-      <title>[星痕共鸣] Sanheiii/ok-star-resonance</title>
-      <link>https://github.com/Sanheiii/ok-star-resonance</link>
-      <description>基于ok-script的星痕共鸣自动工具
-Stars: 100
-Language: Python
-Updated: 2026-03-21T08:59:42Z</description>
-      <content:encoded><![CDATA[<p>基于ok-script的星痕共鸣自动工具</p><ul><li><strong>Stars:</strong> 100</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2026-03-21T08:59:42Z</li></ul>]]></content:encoded>
-      <guid isPermaLink="false">https://github.com/Sanheiii/ok-star-resonance</guid>
-      <pubDate>Sat, 21 Mar 2026 08:59:42 +0000</pubDate>
-    </item>
-    <item>
       <title>[星痕共鸣] 233Official/MaaStarResonance</title>
       <link>https://github.com/233Official/MaaStarResonance</link>
       <description>基于MAAFW的星痕共鸣黑盒测试工具
@@ -960,6 +949,17 @@ Updated: 2026-03-22T23:03:36Z</description>
       <content:encoded><![CDATA[<p>resonance-logs 的中文版, 用于星痕共鸣的监控buff, 技能cd, 模组计算等</p><ul><li><strong>Stars:</strong> 20</li><li><strong>Language:</strong> Rust</li><li><strong>Updated:</strong> 2026-03-22T23:03:36Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/fudiyangjin/resonance-logs-cn</guid>
       <pubDate>Sun, 22 Mar 2026 23:03:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>[星痕共鸣] Sanheiii/ok-star-resonance</title>
+      <link>https://github.com/Sanheiii/ok-star-resonance</link>
+      <description>基于ok-script的星痕共鸣自动工具
+Stars: 100
+Language: Python
+Updated: 2026-03-23T17:31:54Z</description>
+      <content:encoded><![CDATA[<p>基于ok-script的星痕共鸣自动工具</p><ul><li><strong>Stars:</strong> 100</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2026-03-23T17:31:54Z</li></ul>]]></content:encoded>
+      <guid isPermaLink="false">https://github.com/Sanheiii/ok-star-resonance</guid>
+      <pubDate>Mon, 23 Mar 2026 17:31:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
