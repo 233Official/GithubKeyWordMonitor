@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 26 Mar 2026 00:36:50 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2026 00:36:48 +0000</lastBuildDate>
     <item>
       <title>Icebear-Z/StarResonanceDamageCounter-Client</title>
       <link>https://github.com/Icebear-Z/StarResonanceDamageCounter-Client</link>
@@ -314,10 +314,10 @@ Updated: 2026-01-09T02:06:25Z</description>
       <description>An damage counter for Starresonace. Full open sorce.
 Stars: 1
 Language: JavaScript
-Updated: 2026-02-06T09:47:01Z</description>
-      <content:encoded><![CDATA[<p>An damage counter for Starresonace. Full open sorce.</p><ul><li><strong>Stars:</strong> 1</li><li><strong>Language:</strong> JavaScript</li><li><strong>Updated:</strong> 2026-02-06T09:47:01Z</li></ul>]]></content:encoded>
+Updated: 2026-03-26T06:28:04Z</description>
+      <content:encoded><![CDATA[<p>An damage counter for Starresonace. Full open sorce.</p><ul><li><strong>Stars:</strong> 1</li><li><strong>Language:</strong> JavaScript</li><li><strong>Updated:</strong> 2026-03-26T06:28:04Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/Asakitan/StarResonanceDamageCounter</guid>
-      <pubDate>Fri, 06 Feb 2026 09:47:01 +0000</pubDate>
+      <pubDate>Thu, 26 Mar 2026 06:28:04 +0000</pubDate>
     </item>
     <item>
       <title>yuzeis/StarResonanceMahjongAutoAna</title>
@@ -397,16 +397,6 @@ Updated: 2026-03-09T10:16:02Z</description>
       <pubDate>Mon, 09 Mar 2026 10:16:02 +0000</pubDate>
     </item>
     <item>
-      <title>ccccjiemo/StarResonanceAvatarTool</title>
-      <link>https://github.com/ccccjiemo/StarResonanceAvatarTool</link>
-      <description>Stars: 0
-Language: N/A
-Updated: 2026-03-10T08:52:18Z</description>
-      <content:encoded><![CDATA[<ul><li><strong>Stars:</strong> 0</li><li><strong>Language:</strong> N/A</li><li><strong>Updated:</strong> 2026-03-10T08:52:18Z</li></ul>]]></content:encoded>
-      <guid isPermaLink="false">https://github.com/ccccjiemo/StarResonanceAvatarTool</guid>
-      <pubDate>Tue, 10 Mar 2026 08:52:18 +0000</pubDate>
-    </item>
-    <item>
       <title>yuzeis/StarResonanceAutoModGUI</title>
       <link>https://github.com/yuzeis/StarResonanceAutoModGUI</link>
       <description>基于开源项目 StarResonanceAutoMod 修改而来的图形界面版本
@@ -443,22 +433,12 @@ Updated: 2026-03-19T00:52:02Z</description>
       <title>dmlgzs/StarResonanceDamageCounter</title>
       <link>https://github.com/dmlgzs/StarResonanceDamageCounter</link>
       <description>Damage Counter for Star Resonance
-Stars: 262
+Stars: 263
 Language: JavaScript
-Updated: 2026-03-25T04:11:19Z</description>
-      <content:encoded><![CDATA[<p>Damage Counter for Star Resonance</p><ul><li><strong>Stars:</strong> 262</li><li><strong>Language:</strong> JavaScript</li><li><strong>Updated:</strong> 2026-03-25T04:11:19Z</li></ul>]]></content:encoded>
+Updated: 2026-03-26T04:06:55Z</description>
+      <content:encoded><![CDATA[<p>Damage Counter for Star Resonance</p><ul><li><strong>Stars:</strong> 263</li><li><strong>Language:</strong> JavaScript</li><li><strong>Updated:</strong> 2026-03-26T04:06:55Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/dmlgzs/StarResonanceDamageCounter</guid>
-      <pubDate>Wed, 25 Mar 2026 04:11:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>anying1073/StarResonanceDps</title>
-      <link>https://github.com/anying1073/StarResonanceDps</link>
-      <description>Stars: 84
-Language: C#
-Updated: 2026-03-24T02:40:33Z</description>
-      <content:encoded><![CDATA[<ul><li><strong>Stars:</strong> 84</li><li><strong>Language:</strong> C#</li><li><strong>Updated:</strong> 2026-03-24T02:40:33Z</li></ul>]]></content:encoded>
-      <guid isPermaLink="false">https://github.com/anying1073/StarResonanceDps</guid>
-      <pubDate>Tue, 24 Mar 2026 02:40:33 +0000</pubDate>
+      <pubDate>Thu, 26 Mar 2026 04:06:55 +0000</pubDate>
     </item>
     <item>
       <title>2222ex/StarResonance-41k-project</title>
@@ -481,6 +461,26 @@ Updated: 2026-03-24T18:48:08Z</description>
       <content:encoded><![CDATA[<p>A MIDI-to-keyboard playback tool with a Flet GUI for Blue Protocol: Star Resonance</p><ul><li><strong>Stars:</strong> 1</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2026-03-24T18:48:08Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/etanolo/StarResonanceMidi</guid>
       <pubDate>Tue, 24 Mar 2026 18:48:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>anying1073/StarResonanceDps</title>
+      <link>https://github.com/anying1073/StarResonanceDps</link>
+      <description>Stars: 84
+Language: C#
+Updated: 2026-03-26T17:03:15Z</description>
+      <content:encoded><![CDATA[<ul><li><strong>Stars:</strong> 84</li><li><strong>Language:</strong> C#</li><li><strong>Updated:</strong> 2026-03-26T17:03:15Z</li></ul>]]></content:encoded>
+      <guid isPermaLink="false">https://github.com/anying1073/StarResonanceDps</guid>
+      <pubDate>Thu, 26 Mar 2026 17:03:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>ccccjiemo/StarResonanceAvatarTool</title>
+      <link>https://github.com/ccccjiemo/StarResonanceAvatarTool</link>
+      <description>Stars: 0
+Language: N/A
+Updated: 2026-03-26T17:50:08Z</description>
+      <content:encoded><![CDATA[<ul><li><strong>Stars:</strong> 0</li><li><strong>Language:</strong> N/A</li><li><strong>Updated:</strong> 2026-03-26T17:50:08Z</li></ul>]]></content:encoded>
+      <guid isPermaLink="false">https://github.com/ccccjiemo/StarResonanceAvatarTool</guid>
+      <pubDate>Thu, 26 Mar 2026 17:50:08 +0000</pubDate>
     </item>
   </channel>
 </rss>

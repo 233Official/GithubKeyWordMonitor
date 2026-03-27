@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 26 Mar 2026 00:36:50 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2026 00:36:48 +0000</lastBuildDate>
     <item>
       <title>Nemoxxxxx/-</title>
       <link>https://github.com/Nemoxxxxx/-</link>
@@ -339,17 +339,6 @@ Updated: 2026-03-19T00:52:02Z</description>
       <pubDate>Thu, 19 Mar 2026 00:52:02 +0000</pubDate>
     </item>
     <item>
-      <title>fudiyangjin/resonance-logs-cn</title>
-      <link>https://github.com/fudiyangjin/resonance-logs-cn</link>
-      <description>resonance-logs 的中文版, 用于星痕共鸣的监控buff, 技能cd, 模组计算等
-Stars: 20
-Language: Rust
-Updated: 2026-03-22T23:03:36Z</description>
-      <content:encoded><![CDATA[<p>resonance-logs 的中文版, 用于星痕共鸣的监控buff, 技能cd, 模组计算等</p><ul><li><strong>Stars:</strong> 20</li><li><strong>Language:</strong> Rust</li><li><strong>Updated:</strong> 2026-03-22T23:03:36Z</li></ul>]]></content:encoded>
-      <guid isPermaLink="false">https://github.com/fudiyangjin/resonance-logs-cn</guid>
-      <pubDate>Sun, 22 Mar 2026 23:03:36 +0000</pubDate>
-    </item>
-    <item>
       <title>233Official/MaaStarResonance</title>
       <link>https://github.com/233Official/MaaStarResonance</link>
       <description>基于MAAFW的星痕共鸣黑盒测试工具
@@ -383,15 +372,26 @@ Updated: 2026-03-25T14:37:51Z</description>
       <pubDate>Wed, 25 Mar 2026 14:37:51 +0000</pubDate>
     </item>
     <item>
+      <title>fudiyangjin/resonance-logs-cn</title>
+      <link>https://github.com/fudiyangjin/resonance-logs-cn</link>
+      <description>resonance-logs 的中文版, 用于星痕共鸣的监控buff, 技能cd, 模组计算等
+Stars: 21
+Language: Rust
+Updated: 2026-03-26T14:19:59Z</description>
+      <content:encoded><![CDATA[<p>resonance-logs 的中文版, 用于星痕共鸣的监控buff, 技能cd, 模组计算等</p><ul><li><strong>Stars:</strong> 21</li><li><strong>Language:</strong> Rust</li><li><strong>Updated:</strong> 2026-03-26T14:19:59Z</li></ul>]]></content:encoded>
+      <guid isPermaLink="false">https://github.com/fudiyangjin/resonance-logs-cn</guid>
+      <pubDate>Thu, 26 Mar 2026 14:19:59 +0000</pubDate>
+    </item>
+    <item>
       <title>Sanheiii/ok-star-resonance</title>
       <link>https://github.com/Sanheiii/ok-star-resonance</link>
       <description>基于ok-script的星痕共鸣自动工具
-Stars: 100
+Stars: 102
 Language: Python
-Updated: 2026-03-25T19:42:27Z</description>
-      <content:encoded><![CDATA[<p>基于ok-script的星痕共鸣自动工具</p><ul><li><strong>Stars:</strong> 100</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2026-03-25T19:42:27Z</li></ul>]]></content:encoded>
+Updated: 2026-03-26T17:24:48Z</description>
+      <content:encoded><![CDATA[<p>基于ok-script的星痕共鸣自动工具</p><ul><li><strong>Stars:</strong> 102</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2026-03-26T17:24:48Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/Sanheiii/ok-star-resonance</guid>
-      <pubDate>Wed, 25 Mar 2026 19:42:27 +0000</pubDate>
+      <pubDate>Thu, 26 Mar 2026 17:24:48 +0000</pubDate>
     </item>
   </channel>
 </rss>
