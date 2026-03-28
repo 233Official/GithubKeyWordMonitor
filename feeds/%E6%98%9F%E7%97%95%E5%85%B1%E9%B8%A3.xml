@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 27 Mar 2026 00:36:48 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Mar 2026 00:34:11 +0000</lastBuildDate>
     <item>
       <title>Nemoxxxxx/-</title>
       <link>https://github.com/Nemoxxxxx/-</link>
@@ -377,21 +377,21 @@ Updated: 2026-03-25T14:37:51Z</description>
       <description>resonance-logs 的中文版, 用于星痕共鸣的监控buff, 技能cd, 模组计算等
 Stars: 21
 Language: Rust
-Updated: 2026-03-26T14:19:59Z</description>
-      <content:encoded><![CDATA[<p>resonance-logs 的中文版, 用于星痕共鸣的监控buff, 技能cd, 模组计算等</p><ul><li><strong>Stars:</strong> 21</li><li><strong>Language:</strong> Rust</li><li><strong>Updated:</strong> 2026-03-26T14:19:59Z</li></ul>]]></content:encoded>
+Updated: 2026-03-27T13:19:44Z</description>
+      <content:encoded><![CDATA[<p>resonance-logs 的中文版, 用于星痕共鸣的监控buff, 技能cd, 模组计算等</p><ul><li><strong>Stars:</strong> 21</li><li><strong>Language:</strong> Rust</li><li><strong>Updated:</strong> 2026-03-27T13:19:44Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/fudiyangjin/resonance-logs-cn</guid>
-      <pubDate>Thu, 26 Mar 2026 14:19:59 +0000</pubDate>
+      <pubDate>Fri, 27 Mar 2026 13:19:44 +0000</pubDate>
     </item>
     <item>
       <title>Sanheiii/ok-star-resonance</title>
       <link>https://github.com/Sanheiii/ok-star-resonance</link>
       <description>基于ok-script的星痕共鸣自动工具
-Stars: 102
+Stars: 103
 Language: Python
-Updated: 2026-03-26T17:24:48Z</description>
-      <content:encoded><![CDATA[<p>基于ok-script的星痕共鸣自动工具</p><ul><li><strong>Stars:</strong> 102</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2026-03-26T17:24:48Z</li></ul>]]></content:encoded>
+Updated: 2026-03-27T18:36:28Z</description>
+      <content:encoded><![CDATA[<p>基于ok-script的星痕共鸣自动工具</p><ul><li><strong>Stars:</strong> 103</li><li><strong>Language:</strong> Python</li><li><strong>Updated:</strong> 2026-03-27T18:36:28Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/Sanheiii/ok-star-resonance</guid>
-      <pubDate>Thu, 26 Mar 2026 17:24:48 +0000</pubDate>
+      <pubDate>Fri, 27 Mar 2026 18:36:28 +0000</pubDate>
     </item>
   </channel>
 </rss>

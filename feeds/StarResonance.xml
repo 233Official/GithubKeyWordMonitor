@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 27 Mar 2026 00:36:48 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Mar 2026 00:34:11 +0000</lastBuildDate>
     <item>
       <title>Icebear-Z/StarResonanceDamageCounter-Client</title>
       <link>https://github.com/Icebear-Z/StarResonanceDamageCounter-Client</link>
@@ -463,16 +463,6 @@ Updated: 2026-03-24T18:48:08Z</description>
       <pubDate>Tue, 24 Mar 2026 18:48:08 +0000</pubDate>
     </item>
     <item>
-      <title>anying1073/StarResonanceDps</title>
-      <link>https://github.com/anying1073/StarResonanceDps</link>
-      <description>Stars: 84
-Language: C#
-Updated: 2026-03-26T17:03:15Z</description>
-      <content:encoded><![CDATA[<ul><li><strong>Stars:</strong> 84</li><li><strong>Language:</strong> C#</li><li><strong>Updated:</strong> 2026-03-26T17:03:15Z</li></ul>]]></content:encoded>
-      <guid isPermaLink="false">https://github.com/anying1073/StarResonanceDps</guid>
-      <pubDate>Thu, 26 Mar 2026 17:03:15 +0000</pubDate>
-    </item>
-    <item>
       <title>ccccjiemo/StarResonanceAvatarTool</title>
       <link>https://github.com/ccccjiemo/StarResonanceAvatarTool</link>
       <description>Stars: 0
@@ -481,6 +471,16 @@ Updated: 2026-03-26T17:50:08Z</description>
       <content:encoded><![CDATA[<ul><li><strong>Stars:</strong> 0</li><li><strong>Language:</strong> N/A</li><li><strong>Updated:</strong> 2026-03-26T17:50:08Z</li></ul>]]></content:encoded>
       <guid isPermaLink="false">https://github.com/ccccjiemo/StarResonanceAvatarTool</guid>
       <pubDate>Thu, 26 Mar 2026 17:50:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>anying1073/StarResonanceDps</title>
+      <link>https://github.com/anying1073/StarResonanceDps</link>
+      <description>Stars: 85
+Language: C#
+Updated: 2026-03-27T12:07:15Z</description>
+      <content:encoded><![CDATA[<ul><li><strong>Stars:</strong> 85</li><li><strong>Language:</strong> C#</li><li><strong>Updated:</strong> 2026-03-27T12:07:15Z</li></ul>]]></content:encoded>
+      <guid isPermaLink="false">https://github.com/anying1073/StarResonanceDps</guid>
+      <pubDate>Fri, 27 Mar 2026 12:07:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
